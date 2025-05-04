@@ -1,0 +1,5111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <id>1</id>
+    <hiragana>あう</hiragana>
+    <kanji>会う</kanji>
+    <def>Meet someone in person, or be present at an event.</def>
+    <reibun>客と会う時刻。(The appointment time.) 
+人に会いに行く。(Go to meet someone.) 
+駅でばったり友人と会った。(I bumped into my friend at the station.) 
+投票に立ち会う。(Attend the vote.) 
+二人が出会った場。 (The place those two met)</reibun>
+    <notes>For unexpected meetings, 遭う is also acceptable.
+
+出会う is used for meetings that have a special significance or leave a great emotional impact.</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>2</id>
+    <hiragana>あう</hiragana>
+    <kanji>合う</kanji>
+    <def>Match, suit, harmonize with, do together</def>
+    <reibun>意見が合う。 (Matching opinions.) 
+答えが合う。(The answers match.) 
+計算が合う。(The numbers add up.) 
+目が合う。 (Eyes meet.) 
+好みに合う。(Matching tastes.) 
+部屋に合った家具。 (Furniture that matches the room.)
+割に合わない仕事。(Work that isn&#x27;t worth it.)
+会議で話し合う。(Discuss at the meeting.)
+幸運に巡り合う。(Meet with good fortune.)</reibun>
+    <notes>For 巡り合う, if the good fortune you encounter involves another person, then 巡り会う is also acceptable.
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>3</id>
+    <hiragana>あう</hiragana>
+    <kanji>遭う
+</kanji>
+    <def>Meet with misfortune
+</def>
+    <reibun>思い掛けない反対に遭う。(Meet with unexpected resistance.) 
+災難に遭う。(Meet with disaster.)
+にわか雨に遭う。(Get caught in a sudden downpour.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>4</id>
+    <hiragana>あからむ</hiragana>
+    <kanji>赤らむ
+</kanji>
+    <def>Turn red
+</def>
+    <reibun>顔が赤らむ。(His face is turning red.) 
+夕焼けで西の空が赤らむ。(The western sky turns red at sunset.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>5</id>
+    <hiragana>あからむ</hiragana>
+    <kanji>明らむ
+</kanji>
+    <def>To brighten
+</def>
+    <reibun>日が差して部屋の中が明らむ。(The room brightens as the sun shines in.) 
+次第に東の空が明らんでくる。(The eastern sky grows brighter.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>6</id>
+    <hiragana>あがる,
+あげる</hiragana>
+    <kanji>上がる,
+上げる</kanji>
+    <def>Move higher; Give; Raise your voice; Make a sound; Finish up
+</def>
+    <reibun>二階に上がる。(Move to the second floor.) 
+地位が上がる。(Rise in status.) 
+料金を引き上げる。(Raise the fee.) 
+成果が上がる。(Get results.) 
+腕前を上げる。(Improve your skill.)
+お祝いの品物を上げる。(Give a celebratory gift.) 
+歓声が上がる。(A cheer rises.) 
+雨が上がる。(The rain is letting up.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>7</id>
+    <hiragana>あがる,
+あげる</hiragana>
+    <kanji>揚がる,
+揚げる</kanji>
+    <def>Raise into the air; Transfer locations; Deep-fry
+</def>
+    <reibun>国旗が揚がる。(Raise the national flag.) 
+花火が揚（上）がる。(Shoot fireworks.) 
+凧揚げをして遊ぶ。(Enjoy flying kites.) 
+船荷を揚げる。(Send out freight cargo.)
+海外から引き揚げる。(Receive from overseas.) 
+天ぷらを揚げる。(Deep-fry tempura.)</reibun>
+    <notes>In the sense that fireworks are shot straight upwards, 上げる is also acceptable.
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>8</id>
+    <hiragana>あがる,
+あげる</hiragana>
+    <kanji>挙がる,
+挙げる</kanji>
+    <def>Display clearly; Leave a result; Conduct an event; Assemble a group; Catch/capture
+</def>
+    <reibun>例を挙げる。(Show an example.) 
+手が挙がる。(Improve in skill.) 
+勝ち星を挙げる。(Achieve victory.) 
+式を挙げる。(Conduct a ceremony.) 
+国を挙げて取り組む。(Get the country behind an initiative.)
+全力を挙げる。(Give it everything you got.) 
+犯人を挙げる。(Catch a criminal.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>9</id>
+    <hiragana>あく,
+あける</hiragana>
+    <kanji>明く,
+明ける</kanji>
+    <def>Become able to see; Reach the end of a period; Have an obstacle removed</def>
+    <reibun>子犬の目が明く。(The puppy opens its eyes for the first time.) 
+夜が明ける。(The night turns to dawn.) 
+年が明ける。(The year comes to a close.) 
+喪が明ける。(End your period of mourning.) 
+埒が明かない。 (Unable to make progress.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>10</id>
+    <hiragana>あく,
+あける</hiragana>
+    <kanji>空く,
+空ける</kanji>
+    <def>Empty; Become empty
+</def>
+    <reibun>席が空く。(The seats open up.) 
+空き箱。(An empty box.) 
+家を空ける。(Vacate a house.) 
+時間を空ける。(Free up some time.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>11</id>
+    <hiragana>あく,
+あける</hiragana>
+    <kanji>開く,
+開ける</kanji>
+    <def>Open
+</def>
+    <reibun>幕が開く。(Raise the curtain.) 
+ドアが開かない。(The door won&#x27;t open.) 
+店を開ける。(Open a store.) 
+窓を開ける。(Open a window.) 
+そっと目を開ける。(Gently open your eyes.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>12</id>
+    <hiragana>あし
+</hiragana>
+    <kanji>足
+</kanji>
+    <def>Your foot from the ankle outward; Used to express going, walking, running, etc.
+</def>
+    <reibun>足に合わない靴。(Shoes that don&#x27;t fit.) 
+足の裏。(The sole of your foot.) 
+足しげく通う。(Visit frequently.) 
+逃げ足が速い。(A fast runner.) 
+出足が鋭い。(A strong start.)
+客足が遠のく。(Have few customers.) 
+足が出る。(Beyond your means.)</reibun>
+    <notes>In the last example, 足が出る, 足 is a metaphor for money, or one&#x27;s means of survival
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>13</id>
+    <hiragana>あし
+</hiragana>
+    <kanji>脚
+</kanji>
+    <def>The leg from the waist down, or something that serves a similar purpose
+</def>
+    <reibun>キリンの長い脚。(The long legs of a giraffe.) 
+脚の線が美しい。(A beautiful leg line.) 
+机の脚（足）。 (The legs of a desk.)</reibun>
+    <notes>Because of the simplicity of 足, there are still many cases where it is used instead of 脚 to represent the entire leg.
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>14</id>
+    <hiragana>あたい
+</hiragana>
+    <kanji>値
+</kanji>
+    <def>Value; Worth; Mathematical value
+</def>
+    <reibun>千金の値がある。(Priceless.) 
+称賛に値する。(Worthy of praise.) 
+未知数ｘの値を求める。(Solve for x.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>15</id>
+    <hiragana>あたい
+</hiragana>
+    <kanji>価
+</kanji>
+    <def>Price; Cost
+</def>
+    <reibun>手間に見合った価を付ける。(Assign a price equal to the labor involved.)
+</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>16</id>
+    <hiragana>あたたかい,
+あたたまる,
+あたためる</hiragana>
+    <kanji>温かい,
+温まる,
+温める</kanji>
+    <def>Warm (not cold) food or drink; Having emotion and empathy
+</def>
+    <reibun>温かい料理。(A hot meal.) 
+スープを温める。(Heat up some soup.) 
+温かな家庭。(A loving home.) 
+心温まる話。(A heart-warming story.) 
+温かい心。(A warm heart.) 
+温かい人柄。(A warm personality.)
+温かいもてなし。(Service with a smile.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>17</id>
+    <hiragana>あたたかい,
+あたたまる,
+あたためる</hiragana>
+    <kanji>暖かい,
+暖まる,
+暖める</kanji>
+    <def>Warm (not cold) weather or surroundings</def>
+    <reibun>日ごとに暖かくなる。(It gets warmer by the day.) 
+暖かい日差し。(Warm sunshine.) 
+暖かな毛布。(A warm blanket.) 
+暖まった空気。(Heated air.) 
+室内を暖める。(Heat up the room.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>18</id>
+    <hiragana>あつい</hiragana>
+    <kanji>熱い
+</kanji>
+    <def>Hot to the touch; Full of passion
+</def>
+    <reibun>お茶が熱くて飲めない。(The tea is too hot to drink.) 
+熱い湯。(Hot water.) 
+熱くなって論じ合う。(Engage in heated debate.) 
+熱い声援を送る。(Give a rallying cry.) 
+熱い思い。(Passionate feelings.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>19</id>
+    <hiragana>あつい</hiragana>
+    <kanji>暑い
+</kanji>
+    <def>Uncomfortably hot weather
+</def>
+    <reibun>今年の夏は暑い。(Summer is hot this year.) 
+暑さ寒さも彼岸まで。(Seasons come, and seasons go.) 
+日中はまだまだ暑い。(It&#x27;s still hot during the daytime.) 
+暑い部屋。(A hot room.) 
+暑がり屋。(Sensitive to heat.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>46</id>
+    <hiragana>あつい</hiragana>
+    <kanji>篤い</kanji>
+    <def>Severity of illness</def>
+    <reibun>篤い病気。 (A severe illness.)</reibun>
+    <notes></notes>
+    <jogai>1</jogai>
+  </row>
+  <row>
+    <id>47</id>
+    <hiragana>あつい</hiragana>
+    <kanji>厚い</kanji>
+    <def>Physical thickness; Kindness</def>
+    <reibun>ぶ厚い辞書。 (A thick dictionary.)手厚いもてなし。(Warm hospitality.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>20</id>
+    <hiragana>あてる
+</hiragana>
+    <kanji>当てる
+</kanji>
+    <def>Come into contact; Strike a target; Apply to
+</def>
+    <reibun>胸に手を当てる。(Place your hand on your arm.) 
+ボールを当てる。(Hit the ball.) 
+くじを当てる。(Win the lottery.) 
+仮名に漢字を当てる。(Put kanji to the kana.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>21</id>
+    <hiragana>あてる
+</hiragana>
+    <kanji>充てる
+</kanji>
+    <def>Allocate for a specific usage; Assign to someone
+</def>
+    <reibun>建築費に充てる。(Put it towards construction costs.) 
+後任に充てる。(Assign it to your replacement.) 
+地下室を倉庫に充てる。(Use the basement for storage.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>22</id>
+    <hiragana>あてる
+</hiragana>
+    <kanji>宛てる
+</kanji>
+    <def>Address to someone
+</def>
+    <reibun>本社に宛てて送られた書類。(Documents sent to HQ.) 
+手紙の宛先。(The letter&#x27;s addressee.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>23</id>
+    <hiragana>あと
+</hiragana>
+    <kanji>後
+</kanji>
+    <def>Opposite of 先・前; Coming later in terms of order or time; Next in succession
+</def>
+    <reibun>後の祭り。(A day late, and a dollar short.) 
+後から行く。(I&#x27;ll go later.) 
+後になり先になり。(A reversal.) 
+事故が後を絶たない。(There is no end to accidents.) 
+社長の後継ぎ。(The company president&#x27;s successor.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>24</id>
+    <hiragana>あと
+</hiragana>
+    <kanji>跡
+</kanji>
+    <def>Remnants of another&#x27;s travels; Signs that something happened or that something existed; Inheritance
+</def>
+    <reibun>車輪の跡。(Wheel tracks.) 
+船の通った跡。(The wake of a ship.) 
+苦心の跡が見える。(It&#x27;s clearly a labor of love.) 
+縄文時代の住居の跡。(Remnants of inhabitants from the Jomon era.)
+立つ鳥跡を濁さず。(It is a foul bird which defiles it&#x27;s own nest.) 
+父の跡を継ぐ。(Receive your father&#x27;s inheritance.) 
+旧家の跡継ぎ。(Succesor to the family name.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>25</id>
+    <hiragana>あと
+</hiragana>
+    <kanji>痕
+</kanji>
+    <def>A scar; Signs of damage
+</def>
+    <reibun>壁に残る弾丸の痕。(The hole the bullet left in the wall.) 
+手術の痕。(Scars from the operation.) 
+台風の爪痕。(The ravages of the typhoon.) 
+傷痕が痛む。(My scar hurts.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>26</id>
+    <hiragana>あぶら
+</hiragana>
+    <kanji>油
+</kanji>
+    <def>Biological or mineral oils that are liquid at room temperature
+</def>
+    <reibun>事故で油が流出する。(Spill oil in an accident.) 
+ごま油で揚げる。(Deep-fry in sesame oil.) 
+火に油を注ぐ。(Pour oil on the fire.) 
+水と油。(Oil and water.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>27</id>
+    <hiragana>あぶら
+</hiragana>
+    <kanji>脂
+</kanji>
+    <def>Biological fat that is solid at room temperature; Fatty oils secreted through skin
+</def>
+    <reibun>牛肉の脂。(Beef fat.) 
+脂の多い切り身。(Fatty cuts.) 
+脂ぎった顔。(A greasy face.) 
+脂汗が出る。(A cold sweat.) 
+脂が乗る年頃。(The age you hit your stride.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>28</id>
+    <hiragana>あやしい
+</hiragana>
+    <kanji>怪しい
+</kanji>
+    <def>Suspicious; Irregular; Unclear
+</def>
+    <reibun>挙動が怪しい。(His actions are suspicious.) 
+怪しい人影を見る。(See a suspicious figure.) 
+怪しい声がする。(Make a strange sound.) 
+約束が守られるか怪しい。(I doubt he&#x27;ll keep his promise.) 
+空模様が怪しい。(Looks like it&#x27;s going to rain.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>29</id>
+    <hiragana>あやしい
+</hiragana>
+    <kanji>妖しい
+</kanji>
+    <def>Enchanting; Mysterious
+</def>
+    <reibun>妖しい魅力。(A bewitching charm.) 
+妖しく輝く瞳。(Enchanting eyes.) 
+宝石が妖しく光る。(The jewel shines tantalizingly.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>30</id>
+    <hiragana>あやまる
+</hiragana>
+    <kanji>誤る
+</kanji>
+    <def>Make a mistake
+</def>
+    <reibun>使い方を誤る。(Use incorrectly.) 
+誤りを見付ける。(Find a mistake.) 
+言い誤る。(Mispeak.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>31</id>
+    <hiragana>あやまる
+</hiragana>
+    <kanji>謝る
+</kanji>
+    <def>Apologize
+</def>
+    <reibun>謝って済ます。(Settle it with an apology.) 
+落ち度を謝る。(Apologize for your mistake.) 
+平謝りに謝る。(Make a sincere apology.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>32</id>
+    <hiragana>あらい
+</hiragana>
+    <kanji>荒い</kanji>
+    <def>Having intense momentum; Violent
+</def>
+    <reibun>波が荒い。(The surf is rough.) 
+荒海。(Violent seas.) 
+金遣いが荒い。(Wasteful spending.) 
+気が荒い。(Bad-tempered.) 
+荒療治。(A risky treatment.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>33</id>
+    <hiragana>あらい
+</hiragana>
+    <kanji>粗い
+</kanji>
+    <def>Not detailed; Rough
+</def>
+    <reibun>網の目が粗い。(A net with large mesh.) 
+きめが粗い。(Rough skin.)
+粗塩。(Coarse salt.) 
+粗びき。(Coarsely ground grains.) 
+仕事が粗い。(This work is sloppy.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>36</id>
+    <hiragana>あらわす,
+あらわれる
+</hiragana>
+    <kanji>著す
+</kanji>
+    <def>Author
+</def>
+    <reibun>書物を著す。(Author a book.)
+</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>34</id>
+    <hiragana>あらわす,
+あらわれる</hiragana>
+    <kanji>表す,
+表れる</kanji>
+    <def>Expression of thoughts; Express; Chart/graph
+</def>
+    <reibun>喜びを顔に表す。(Show happniess on your face.) 
+甘えが態度に表れる。(You act so spoiled.) 
+言葉に表す。(Express in words.) 
+不景気の影響が表れる。(The effects of the bad economy show.) </reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>35</id>
+    <hiragana>あらわす,
+あらわれる</hiragana>
+    <kanji>現す,
+現れる
+</kanji>
+    <def>Reveal
+</def>
+    <reibun>姿を現す。(Reveal yourself.) 
+本性を現す。(Show your true character.) 
+馬脚を現す。(Reveal a deception.) 
+太陽が現れる。(The sun is coming out.) 
+救世主が現れる。(The messiah reveals himself.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>37</id>
+    <hiragana>ある
+</hiragana>
+    <kanji>有る
+</kanji>
+    <def>Opposite of 無い; In possession of; As-is
+</def>
+    <reibun>有り余る才能。(An abundance of talent.) 
+有り合わせの材料で作った料理。(A meal made with whatever&#x27;s on hand.) 
+有り金。(Pocket money.) 
+有り体に言えば。(Frankly speaking...)</reibun>
+    <notes>In general, if something is in your possesion or a part of your life, use 有る. For things (or concepts) that exist with no real &quot;owner,&quot; use 在る.
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>38</id>
+    <hiragana>ある
+</hiragana>
+    <kanji>在る
+</kanji>
+    <def>Exist; In existence
+</def>
+    <reibun>財宝の在りかを探る。(Search for the location of the treasure.) 
+教育の在り方を論じる。(Debate the state of education.) 
+在りし日の面影。(Traces of a bygone era.)
+</reibun>
+    <notes>However, in most instances, you will find both such cases written with the hiragana ある.
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>39</id>
+    <hiragana>あわせる
+</hiragana>
+    <kanji>合わせる
+</kanji>
+    <def>Combine into one; Unify; Total together
+</def>
+    <reibun>手を合わせて拝む。(Place your hands together and worship.) 
+力を合わせる。(Combine your strength.) 
+合わせみそ。(Mixed miso.) 
+時計を合わせる。(Synchronize watches.) 
+調子を合わせる。(Go with the flow.) 
+二人の所持金を合わせる。(Pool two people&#x27;s money.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>40</id>
+    <hiragana>あわせる
+</hiragana>
+    <kanji>併せる
+</kanji>
+    <def>Do in tandem
+</def>
+    <reibun>両者を併せ考える。(Consider both issues.) 
+交通費を併せて支給する。(Pay the combined travel expenses.) 
+併せて健康を祈る。(Pray together for good health.) 
+清濁併せのむ。(Associate with a wide range of people.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>41</id>
+    <hiragana>いく,ゆく</hiragana>
+    <kanji>行く
+</kanji>
+    <def>Change location; Proceed; Pass
+</def>
+    <reibun>電車で行く。(Go by train.) 
+早く行こう。(Let&#x27;s go quickly.) 
+仕事帰りに図書館に行った。(I went to the library on the way home from work.) 
+仕事がうまく行かない。(Work isn&#x27;t going well.)
+行く秋を惜しむ。(Miss the autumn weather.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>42</id>
+    <hiragana>いく,ゆく</hiragana>
+    <kanji>逝く
+</kanji>
+    <def>Pass away
+</def>
+    <reibun>彼が逝って３年たつ。(3 years since he passed away.) 
+安らかに逝った。(He passed away peacefully.) 
+多くの人に惜しまれて逝く。(Pass away and be grieved by many.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>43</id>
+    <hiragana>いたむ,
+いためる</hiragana>
+    <kanji>痛む,
+痛める</kanji>
+    <def>Physical or emotional pain
+</def>
+    <reibun>足が痛む。(My foot hurts.) 
+腰を痛める。(Hurt your back.) 
+今でも胸が痛む。(My chest still hurts.) 
+借金の返済に頭を痛める。(Repaying this debt makes my head hurt.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>44</id>
+    <hiragana>いたむ,
+いためる</hiragana>
+    <kanji>傷む,
+傷める</kanji>
+    <def>Damage that leaves a wound, breaks something, or reduces value
+</def>
+    <reibun>引っ越しで家具を傷める。(Damage furniture while moving.) 
+家の傷みがひどい。(The damage to this home is awful.) 
+髪が傷む。(The hair is damaged.) 
+傷んだ果物。(Bruised fruit.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>45</id>
+    <hiragana>いたむ,
+いためる</hiragana>
+    <kanji>悼む,
+悼める</kanji>
+    <def>Grieve the passing of someone
+</def>
+    <reibun>故人を悼む。(Grieve for your deceased friend.) 
+親友の死を悼む。(Grieve the loss of your parents.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>48</id>
+    <hiragana>いる
+</hiragana>
+    <kanji>入る</kanji>
+    <def>Put inside; Enter a state or condition
+</def>
+    <reibun>念入りに仕上げる。(Peform a task thoroughly.) 
+仲間入り。(Become friends.) 
+気に入る。(Take a liking to something.) 
+恐れ入る。(Pardon me.) 
+悦に入る。(Become ecstatic.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>49</id>
+    <hiragana>いる
+</hiragana>
+    <kanji>要る</kanji>
+    <def>Require; Be necessary
+</def>
+    <reibun>金が要る。(Require money.) 
+保証人が要る。(Require a guarantor.) 
+親の承諾が要る。(Require parent&#x27;s permission.) 
+何も要らない。(I don&#x27;t need anything.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>50</id>
+    <hiragana>いる
+</hiragana>
+    <kanji>居る</kanji>
+    <def>Existing in a location; Currently doing</def>
+    <reibun>ここに居る。(I&#x27;m here.)今は食べて居る。(I&#x27;m eating now.)</reibun>
+    <notes>Most often written in hiragana. Seeing it in kanji form modifying a verb is especially rare.</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>51</id>
+    <hiragana>いる
+</hiragana>
+    <kanji>射る</kanji>
+    <def>Shoot something</def>
+    <reibun>的を射る。(Shoot the target.)</reibun>
+    <notes>Refers to a stringed weapon, such as bow or crossbow.</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>52</id>
+    <hiragana>いる
+</hiragana>
+    <kanji>鋳る</kanji>
+    <def>Cast, mint</def>
+    <reibun>硬貨を鋳る。(Mint coins.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>53</id>
+    <hiragana>いる</hiragana>
+    <kanji>煎る,炒る,熬る</kanji>
+    <def>Boil down in a pot</def>
+    <reibun>豆を煎る。(Roast beans.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>54</id>
+    <hiragana>うける
+</hiragana>
+    <kanji>受ける
+</kanji>
+    <def>Receive; Respond to; Well-received
+</def>
+    <reibun>注文を受ける。(Take an order.) 
+命令を受ける。(Receive an order.) 
+ショックを受ける。(Receive a shock.) 
+保護を受ける。(Receive protection.) 
+相談を受ける。(Offer a consult.)
+若者に受ける。(Popular with the youth.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>55</id>
+    <hiragana>うける
+</hiragana>
+    <kanji>請ける
+</kanji>
+    <def>Accept work
+</def>
+    <reibun>入札で仕事を請ける。(Accept bids for work.) 
+納期を請け合う。(Promise to meet the deadline.) 
+改築工事を請け負う。(Take on the reconstruction work.) 
+下請けに出す。(Subcontract.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>56</id>
+    <hiragana>うた
+</hiragana>
+    <kanji>歌
+</kanji>
+    <def>Words set to music
+</def>
+    <reibun>小学校時代に習った歌。(A song I learned back in elementary school.) 
+美しい歌声が響く。(A beautiful singing voice echoes.) 
+古今集の歌。(A collection of songs past and present.)</reibun>
+    <notes>Most common.</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>57</id>
+    <hiragana>うた
+</hiragana>
+    <kanji>唄
+</kanji>
+    <def>Traditional Japanese music; Folk music
+</def>
+    <reibun>小唄の師匠。(A ballad instructor.) 
+長唄を習う。(Learn an epic song.) 
+馬子唄が聞こえる。(Hear an old folk song.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>58</id>
+    <hiragana>うたう
+</hiragana>
+    <kanji>歌う
+</kanji>
+    <def>Sing/speak in time
+</def>
+    <reibun>童謡を歌う。(Sing a children&#x27;s song.) 
+ピアノに合わせて歌う。(Sing with piano accompaniment.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>59</id>
+    <hiragana>うたう
+</hiragana>
+    <kanji>謡う
+</kanji>
+    <def>Sing a traditional Noh song
+</def>
+    <reibun>謡曲を謡う。(Sing a Noh song.) 
+結婚披露宴で「高砂」を謡う。(Sing Takasago at a wedding reception.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>60</id>
+    <hiragana>うつ
+</hiragana>
+    <kanji>打つ
+</kanji>
+    <def>Strike hard; Hit; Perform a task
+</def>
+    <reibun>釘を打つ。(Pound a nail.) 
+転倒して頭を打つ。(Fall down and bump your head.) 
+平手で打つ。(Strike with your palm.) 
+電報を打つ。(Send a telegram.) 
+心を打つ話。(An impressive story.) 
+碁を打つ。(Play Go.) 
+芝居を打つ。(Perform theater.) 
+逃げを打つ。(Beat a retreat.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>61</id>
+    <hiragana>うつ
+</hiragana>
+    <kanji>討つ
+</kanji>
+    <def>Attack and destroy an opponent
+</def>
+    <reibun>賊を討つ。(Destroy the rebels.) 
+仇を討つ。(Exact revenge.) 
+闇討ち。(A sneak attack.) 
+義士の討ち入り。(Aveneging a loyal retainer.) 
+相手を討ち取る。(Slay your opponent.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>62</id>
+    <hiragana>うつ
+</hiragana>
+    <kanji>撃つ
+</kanji>
+    <def>Discharge a firearm
+</def>
+    <reibun>拳銃を撃つ。(Fire a handgun.) 
+猪を猟銃で撃つ。(Shoot a boar with a hunting rifle.) 
+鳥を撃ち落とす。(Shoot down a bird.) 
+敵を迎え撃つ。(Ambush the enemy.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>63</id>
+    <hiragana>うつす,
+うつる</hiragana>
+    <kanji>写す,
+写る</kanji>
+    <def>Copy something in writing; Document in a photo; Have transparency
+</def>
+    <reibun>書類を写す。(Copy down a document.) 
+写真を写す。(Take a picture.) 
+ビデオに写る。(Capture on video.) 
+裏のページが写って読みにくい。(Difficult to read as the next page shows through.)</reibun>
+    <notes>In general, 写 is for capturing and displaying photographic images, while 映 is for video recording and playback.</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>64</id>
+    <hiragana>うつす,
+うつる</hiragana>
+    <kanji>映す,
+映る</kanji>
+    <def>Playback video; Record; Reflect; Make an impression
+</def>
+    <reibun>ビデオを映す。(Play a video.)
+スクリーンに映す。(Project on screen.) 
+壁に影が映る。(A shadow is cast on the wall.) 
+時代を映す流行語。(A popular new word reflective of the times.)
+鏡に姿が映る。(Reflect in the mirror.) 
+彼の態度は生意気に映った。(He projects an attiude of impudence.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>65</id>
+    <hiragana>うまれる,
+うむ</hiragana>
+    <kanji>生まれる,
+生む</kanji>
+    <def>Be born; Create something new
+</def>
+    <reibun>京都に生まれる。(Born in Kyoto.) 
+子供が生まれる。(A child is born.) 
+下町の生まれ。(Born downtown.) 
+新記録を生む。(Achieve a new record.) 
+傑作を生む。(Create an amazing work.)</reibun>
+    <notes>子供が生まれる→ 生 expresses a more general concept of birth, like DOB or birthday, while 産 invokes the physical act of a mother pushing out her baby
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>66</id>
+    <hiragana>うまれる,
+うむ</hiragana>
+    <kanji>産まれる,
+産む</kanji>
+    <def>The physical exit from a mother&#x27;s body
+</def>
+    <reibun>予定日が来てもなかなか産まれない。(The expected date is here, but the baby doesn&#x27;t want to be born.) 
+卵を産み付ける。(Lay an egg.) 
+来月が産み月になる。(We&#x27;re expecting the baby next month.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>67</id>
+    <hiragana>うれい,
+うれえる</hiragana>
+    <kanji>憂い,
+憂える</kanji>
+    <def>Worry; Feel anxiety over
+</def>
+    <reibun>後顧の憂い。(Worry about your future.) 
+災害を招く憂いがある。(Anxiety can bring misfortune.) 
+国の将来を憂える。(Worry about the nation&#x27;s future.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>68</id>
+    <hiragana>うれい,
+うれえる</hiragana>
+    <kanji>愁い,
+愁える</kanji>
+    <def>Feel sadness; Cry in sadness</def>
+    <reibun>春の愁い。(Springtime blues.) 
+愁いに沈む。(Sink into depression.) 
+友の死を愁える。(Mourn the loss of a friend.)</reibun>
+    <notes>This kanji is part of 御愁傷様（ご・しゅう・しょう・さま）, which means &quot;I&#x27;m sorry for your loss.&quot;
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>69</id>
+    <hiragana>おかす
+</hiragana>
+    <kanji>犯す
+</kanji>
+    <def>Break the law; Do something unethical
+</def>
+    <reibun>法を犯す。(Break the law.) 
+過ちを犯す。(Make a error.) 
+罪を犯す。(Commit a sin.) 
+ミスを犯す。(Make a mistake.)</reibun>
+    <notes>While 犭 is often used in kanji that represent animals, it is also used in kanji the represent barbaric or uncivilized actions
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>70</id>
+    <hiragana>おかす
+</hiragana>
+    <kanji>侵す
+</kanji>
+    <def>Violate a border; Infringe on rights
+</def>
+    <reibun>国境を侵す。(Violate a national border.) 
+権利を侵す。(Infringe on rights.) 
+学問の自由を侵す。(Stifle freedom of learning.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>71</id>
+    <hiragana>おかす
+</hiragana>
+    <kanji>冒す
+</kanji>
+    <def>Brave a challenge; Dishonor a god
+</def>
+    <reibun>危険を冒す。(Brave danger.) 
+激しい雨を冒して行く。(Go out into the pouring rain.) 
+尊厳を冒す。(Violate the sanctity.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>72</id>
+    <hiragana>おくる
+</hiragana>
+    <kanji>送る
+</kanji>
+    <def>See to a destination; See off; Transfer something to the next location; Spend time
+</def>
+    <reibun>荷物を送る。(Send luggage.) 
+声援を送る。(Give a rallying cry.) 
+送り状。(An invoice.) 
+卒業生を送る。(See off a graduate.) 
+順に席を送る。(Move the chairs one by one.) 
+楽しい日々を送る。(Enjoy your days.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>73</id>
+    <hiragana>おくる
+</hiragana>
+    <kanji>贈る
+</kanji>
+    <def>Give a reward or gift
+</def>
+    <reibun>お祝いの品を贈る。(Send a celebratory gift.) 
+感謝状を贈る。(Send a letter of thanks.) 
+名誉博士の称号を贈る。(Present an honorary doctorate.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>74</id>
+    <hiragana>おくれる
+</hiragana>
+    <kanji>遅れる
+</kanji>
+    <def>Not meeting the scheduled time or date; Moving slowly; Lagging behind</def>
+    <reibun>完成が遅れる。(Completion is delayed.) 
+会合に遅れる。(Late to the meeting.) 
+手遅れになる。(Become too late.) 
+開発の遅れた地域。(A region of delayed development.) 
+出世が遅れる。(Success continues to elude me.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>75</id>
+    <hiragana>おくれる
+</hiragana>
+    <kanji>後れる
+</kanji>
+    <def>Lag behind; Be left behind</def>
+    <reibun>先頭から後（遅）れる。(Behind the lead person.) 
+人に後（遅）れを取る。(Fall behind the others.) 
+気後れする。(Shy and timid.) 
+後れ毛。(Stray hair.)
+死に後れる。(Outlive.)</reibun>
+    <notes>When referring to one&#x27;s physical location relative to others, use 後, and when comparing rate of speed or progress, use 遅
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>76</id>
+    <hiragana>おこす,
+おこる</hiragana>
+    <kanji>起こす,
+起こる</kanji>
+    <def>Stand up; Begin anew; Take action; Wake up
+</def>
+    <reibun>体を起こす。(Rouse your body.) 
+訴訟を起こす。(File a lawsuit.) 
+事業を起こす。(Launch a business.) 
+持病が起こる。(Suffer from a chronic illness.) 
+物事の起こり。(The start of something.)
+やる気を起こす。(Get psyched.) 
+事件が起こる。(An incident occurs.) 
+朝早く起こす。(Wake up early in the morning.)</reibun>
+    <notes>In the case of a business or project, use 起 when starting something new, and use 興 for causing something already in existence to flourish
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>77</id>
+    <hiragana>おこす,
+おこる</hiragana>
+    <kanji>興す,
+興る</kanji>
+    <def>To become prosperous and flourish
+</def>
+    <reibun>産業を興す。(Create a boom in the industry.) 
+国が興る。(The country prospers.) 
+没落した家を興す。(Bring prosperity to a fallen family name.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>78</id>
+    <hiragana>おさえる
+</hiragana>
+    <kanji>押さえる
+</kanji>
+    <def>Hold in place; Secure; Grasp; Cover with your hand</def>
+    <reibun>紙の端を押さえる。(Hold down the edge of the paper.) 
+証拠を押さえる。(Secure evidence.) 
+差し押さえる。(Seize.) 
+要点を押さえる。(Grasp the key points.) 
+耳を押さえる。(Cover your ears.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>79</id>
+    <hiragana>おさえる
+</hiragana>
+    <kanji>抑える
+</kanji>
+    <def>Halt momentum; Withstand or resist force
+</def>
+    <reibun>物価の上昇を抑える。(Keep down rising prices.) 
+反撃を抑える。(Resist a counterattack.) 
+要求を抑える。(Suppress demand.) 
+怒りを抑える。(Suppress anger.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>80</id>
+    <hiragana>おさまる,
+おさめる</hiragana>
+    <kanji>収まる,
+収める</kanji>
+    <def>Put inside; Bind together; Take in hand; Get a good result
+</def>
+    <reibun>博物館に収まる。(Place in a museum.) 
+目録に収める。(Index in the catalogue.) 
+争いが収まる。(The arugument is settled.) 
+丸く収まる。(Blow over. Become settled) 
+手中に収める。(Take in hand.)
+効果を収める。(Get a result.) 
+成功を収める。(Achieve success.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>81</id>
+    <hiragana>おさまる,
+おさめる</hiragana>
+    <kanji>納まる,
+納める</kanji>
+    <def>Settle something into its proper place; Put an end to; Deliver to its destination; Finish
+</def>
+    <reibun>国庫に納まる。(Place in the national treasury.) 
+税を納める。(Settle your taxes.) 
+社長の椅子に納まる。(Secure the position of company president.) 
+胸に納める。(Keep to yourself.)
+注文の品を納める。(Deliver an order.) 
+歌い納める。(Close with a song.) 
+見納め。(A farewell look.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>82</id>
+    <hiragana>おさまる,
+おさめる</hiragana>
+    <kanji>治まる,
+治める</kanji>
+    <def>Become problem-free; Govern
+</def>
+    <reibun>痛みが治まる。(The pain goes away.) 
+咳が治まる。(The cough goes away.) 
+領地を治める。(Rule over the region.) 
+国内がよく治まる。(The country is governed well.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>83</id>
+    <hiragana>おさまる,
+おさめる</hiragana>
+    <kanji>修まる,
+修める</kanji>
+    <def>Being of splendid character or action; Acquire knowledge or a skill
+</def>
+    <reibun>身を修める。(Lead a virtuous life.) 
+学を修める。(Pursue learning.) 
+ラテン語を修める。(Learn Latin.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>84</id>
+    <hiragana>おす
+</hiragana>
+    <kanji>押す
+</kanji>
+    <def>Use force to push from above or from the side
+</def>
+    <reibun>ベルを押す。(Press a chime.) 
+印を押す。(Press a seal.) 
+横車を押す。(Make people let you have your way.) 
+押し付けがましい。(Pushy.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>85</id>
+    <hiragana>おす
+</hiragana>
+    <kanji>推す
+</kanji>
+    <def>Recommend; Guess; Push forward
+</def>
+    <reibun>会長に推す。(Recommend to the company president.) 
+推して知るべしだ。(It&#x27;s not hard to guess.) 
+計画を推し進める。(Push forward with the plan.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>86</id>
+    <hiragana>おそれ,
+おそれる</hiragana>
+    <kanji>恐れ,
+恐れる</kanji>
+    <def>Feel fear
+</def>
+    <reibun>死への恐れが強い。(The fear of death is strong.) 
+報復を恐れて逃亡する。(Flee for fear of retribution.) 
+失敗を恐れるな。(Don&#x27;t be afraid of failure.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>87</id>
+    <hiragana>おそれ,
+おそれる</hiragana>
+    <kanji>畏れ,
+畏れる</kanji>
+    <def>Show humility, respect, gratitude
+</def>
+    <reibun>神仏に対する畏れ。(Reverence for the gods of Shinto and Buddhism.) 
+師を畏れ敬う。(Show respect for your teacher.) 
+畏（恐）れ多いお言葉*。(Humble words.)</reibun>
+    <notes>In this case, &quot;humble words&quot; uses 畏, the kanji in 畏まりました（かしこまりました）, as wait staff often say. If your words are full of fear, then use 恐
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>88</id>
+    <hiragana>おそれ,
+おそれる</hiragana>
+    <kanji>虞
+</kanji>
+    <def>Worry; Concern
+</def>
+    <reibun>公の秩序又は善良の風俗を害する虞がる・・・(…[when there is concern that something is] dangerous to public order or morals…) From Article 82 of the Constituion of Japan
+</reibun>
+    <notes>虞 expresses a fear or concern of a negative result stemming from some action. Recently, 恐れ or just the hiragana おそれ is most often substituted
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>89</id>
+    <hiragana>おどる
+</hiragana>
+    <kanji>踊る
+</kanji>
+    <def>Move your body to the rhythm; Be manipulated
+</def>
+    <reibun>音楽に乗って踊る。(Dance to the music.) 
+盆踊り。(Bon-Odori.) 
+踊り場。(The dance floor.) 
+踊らされて動く。(Manipulated into action.) 
+甘言に踊らされる。(Sweet-talked into doing something.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>90</id>
+    <hiragana>おどる
+</hiragana>
+    <kanji>躍る
+</kanji>
+    <def>Leap up; Get excited
+</def>
+    <reibun>吉報に躍り上がって喜ぶ。(Get excited by the good news.) 
+小躍りする。(Jump for joy.) 
+胸が躍る思い。(An exciting thought.) 
+心躍る出来事。(An exciting accomplishment.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>91</id>
+    <hiragana>おもて
+</hiragana>
+    <kanji>表
+</kanji>
+    <def>Opposite of 裏; The front or main surface; Public-facing; Outside the home
+</def>
+    <reibun>表と裏。(Opposite sides.) 
+表玄関。(The front door.) 
+表参道。(Front pathway to a shrine.) 
+畳の表替え。(Refacing tatami.) 
+表向き。(Outward facing.) 
+不祥事が表沙汰になる。(The scandal is kept under wraps.) 
+表で遊ぶ。(Play outside.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>92</id>
+    <hiragana>おもて
+</hiragana>
+    <kanji>面
+</kanji>
+    <def>A person&#x27;s face; Outward-facing surface
+</def>
+    <reibun>面を伏せる。(Lay facedown.) 
+湖の面に映る山影。(The mountains reflecting off the lake surface.) 
+批判の矢面に立つ。(Take the heat for something.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>93</id>
+    <hiragana>おりる,
+おろす</hiragana>
+    <kanji>降りる,
+降ろす</kanji>
+    <def>Disembark from a vehicle; Descend; Force to quit
+</def>
+    <reibun>電車を降りる。(Get off the train.) 
+病院の前で車から降ろす。(Drop off in front of the hospital.) 
+高所から飛び降りる。(Jump down from up high.) 
+月面に降り立つ。(Step onto the surface of the moon.)
+霜が降りる。(Frost is falling.) 
+主役から降ろされる。(Be removed as the lead actor.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>94</id>
+    <hiragana>おりる,
+おろす</hiragana>
+    <kanji>下りる,
+下ろす</kanji>
+    <def>Move from above to below; Cut off; Pull down; Start anew
+</def>
+    <reibun>幕が下りる。(Lower the curtain.) 
+肩の荷を下ろす。(Remove a weight from your shoulders.) 
+腰を下ろす。(Sit down.) 
+錠が下りる。(It&#x27;s locked.) 
+許可が下りる。(Get approval from higher up.) 
+枝を下ろす。(Pull down a branch.) 
+貯金を下ろす。(Withdraw savings.) 
+下ろし立ての背広。(A brand-new suit.) 
+書き下ろしの短編小説。(A newly-written short story.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>95</id>
+    <hiragana>おりる,
+おろす</hiragana>
+    <kanji>卸す
+</kanji>
+    <def>Sell wholesale
+</def>
+    <reibun>小売りに卸す。(Sell to a retailer.) 
+定価の６掛けで卸す。(Sell at 60% the standard price.) 
+卸売物価指数。(Wholesale price index.) 
+卸問屋を営む。(Run a wholeseller.) 
+卸値。(Wholesale price.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>96</id>
+    <hiragana>かえす,
+かえる</hiragana>
+    <kanji>返す,
+返る</kanji>
+    <def>Give back; Return to where it came from
+</def>
+    <reibun>持ち主に返す。(Return to the owner.) 
+借金を返す。(Repay your loan.) 
+恩返し。(Repay kindness.) 
+正気に返る。(Return to your senses.) 
+返り咲き。(A comeback.) 
+手のひらを返す。(To pull a 180.)
+言葉を返す。(To retort.) 
+とんぼ返り。(Turning around and going straight back.) 
+読み返す。(Reread.) 
+思い返す。(Rethink.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>97</id>
+    <hiragana>かえす,
+かえる</hiragana>
+    <kanji>帰す,
+帰る</kanji>
+    <def>Return home; Return to original place or form; Settle down
+</def>
+    <reibun>親元へ帰す。(Go home to your parents.) 
+故郷へ帰る。(Return to your hometown.) 
+生きて帰る。(Return to life.) 
+帰らぬ人となる。(Become a persona non gratis.) 
+帰り道。(The way home.) </reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>98</id>
+    <hiragana>かえりみる
+</hiragana>
+    <kanji>顧みる
+</kanji>
+    <def>Reflect on the past; Take notice of something
+</def>
+    <reibun>半生を顧みる。(Look back on your early life.) 
+家庭を顧みる余裕がない。(There&#x27;s no time to tend to the garden.) 
+結果を顧みない。(Not reflecting on the result.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>99</id>
+    <hiragana>かえりみる
+</hiragana>
+    <kanji>省みる
+</kanji>
+    <def>Self-reflection
+</def>
+    <reibun>我が身を省みる。(Reflect on oneself.) 
+自らを省みて恥じるところがない。(Reflect on oneself and find nothing to be ashamed of.) </reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>100</id>
+    <hiragana>かえる,
+かわる</hiragana>
+    <kanji>変える,
+変わる</kanji>
+    <def>A change in status or condition from before
+</def>
+    <reibun>形を変える。(Change shape.) 
+観点を変える。(Change your point of view.) 
+位置が変わる。(Change positions.) 
+顔色を変える。(Change complexion.) 
+気が変わる。(Change your mind.) 
+心変わりする。(Change your mind.) 
+声変わり。(Voice change.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>101</id>
+    <hiragana>かえる,
+かわる</hiragana>
+    <kanji>換える,
+換わる</kanji>
+    <def>Swap one thing for another
+</def>
+    <reibun>物を金に換える。(Exchange something for money.) 
+名義を書き換える。(Register a transfer of ownership.) 
+電車を乗り換える。(Change trains.) 
+現金に換わる。(Exchange for cash.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>102</id>
+    <hiragana>かえる,
+かわる</hiragana>
+    <kanji>替える,
+替わる</kanji>
+    <def>Change to something new
+</def>
+    <reibun>頭を切り替える。(Change your way of thinking.) 
+クラス替えをする。(Change classes.) 
+振り替え休日。(Observed holiday.) 
+図表を差し替える。(Redraft a chart/diagram.) 
+入れ替わる。(Swap out / Swap in) 
+日替わり定食。(Daily special.) 
+替え歌。(A song parody.)</reibun>
+    <notes>For 差しかえる、入れかえる、組みかえる etc., 替 expresses changing to something new, and 換 expresses replacing of one thing for the other
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>103</id>
+    <hiragana>かえる,
+かわる</hiragana>
+    <kanji>代える,
+代わる</kanji>
+    <def>Replace a role; Act as a replacement or proxy
+</def>
+    <reibun>書面をもって挨拶に代える。(Present a letter in place of a greeting.) 
+父に代わって言う。(Say in place of your father.) 
+身代わりになる。(Act as a replacement.) 
+投手を代える。(Relieve the pitcher.) 
+余人をもって代え難い。(Difficult to replace.) 
+親代わり。(A guardian.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>104</id>
+    <hiragana>かおり,
+かおる</hiragana>
+    <kanji>香り,
+香る</kanji>
+    <def>A pleasantly fragrant smell
+</def>
+    <reibun>茶の香り。(The smell of tea.) 
+香水の香り。(The smell of perfurme.) 
+菊が香る。(Fragrant chrysanthemums.) 
+梅の花が香る。(Fragrant plum blossoms.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>105</id>
+    <hiragana>かおり,
+かおる</hiragana>
+    <kanji>薫り,
+薫る</kanji>
+    <def>Methophorically fragrant, or fragrant in an abstract sense
+</def>
+    <reibun>文化の薫り。(Cultural richness.) 
+初夏の薫り。(The smell of early summer.) 
+菊薫る佳日。(An auspicous day, as the sweet frangrance of the chrysanthemum.)
+風薫る五月。(Soothing May breeze.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>106</id>
+    <hiragana>かかる,
+かける</hiragana>
+    <kanji>掛かる,
+掛ける</kanji>
+    <def>Affect another; Hang down; Move from above to below; Place above; Use
+</def>
+    <reibun>迷惑が掛かる。(Cause trouble.) 
+疑いが掛かる。(Cause doubt.) 
+言葉を掛ける。(Speak to someone.) 
+看板を掛ける。(Hang a sign.) 
+壁掛け。(A wall hanging.) 
+お湯を掛ける。(Splash hot water on.) 
+布団を掛ける。(Put on a blanket.) 
+腰を掛ける。(Take a seat.) 
+ブレーキを掛ける。(Step on the brakes..) 
+保険を掛ける。(Apply insurance.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>107</id>
+    <hiragana>かかる,
+かける</hiragana>
+    <kanji>懸かる,
+懸ける</kanji>
+    <def>Hang in the air: Entrust
+</def>
+    <reibun>月が中天に懸かる。(The moon hangs in the sky.) 
+雲が懸かる。(Clouds hang overhead.) 
+懸（架）け橋。(A suspension bridge.) 
+優勝が懸かった試合。(The 1st place title hangs on this match.) 
+賞金を懸ける。(Entrust with prize money.) 
+命を懸けて戦う。(Fight with your life on the line.)</reibun>
+    <notes>A suspension bridge originally used 懸, as they were small rope bridges hung in the air over ravines. Nowadays, 架 is commonly used in that the bridge connects one side to the another.
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>108</id>
+    <hiragana>かかる,
+かける</hiragana>
+    <kanji>架かる,
+架ける</kanji>
+    <def>Hang from one location over to another
+</def>
+    <reibun>橋が架かる。(Erect a bridge.) 
+ケーブルが架かる。(Hang cables.) 
+鉄橋を架ける。(Erect a railway bridge.) 
+電線を架ける。(Hang electrical wires.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>109</id>
+    <hiragana>かかる,
+かける</hiragana>
+    <kanji>係る
+</kanji>
+    <def>Involved with, related to, or relevant to
+</def>
+    <reibun>本件に係る訴訟。(Lawsuit related to the main incident.) 
+名誉に係る重要な問題。(An important issue related to one&#x27;s honor.) 
+係り結び。(A connection / relation.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>110</id>
+    <hiragana>かかる,
+かける</hiragana>
+    <kanji>賭ける
+</kanji>
+    <def>Make a wager
+</def>
+    <reibun>大金を賭ける。(Wager a ton of money.) 
+賭けに勝つ。(Win a bet.) 
+危険な賭け。(A dangerous gambit.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>111</id>
+    <hiragana>かく
+</hiragana>
+    <kanji>書く
+</kanji>
+    <def>Write characters / words / sentences
+</def>
+    <reibun>漢字を書く。(Write kanji.) 
+楷書で氏名を書く。(Write your name in block kanji.) 
+手紙を書く。(Write a letter.) 
+小説を書く。(Write a novel.) 
+日記を書く。(Write a diary.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>112</id>
+    <hiragana>かく
+</hiragana>
+    <kanji>描く
+</kanji>
+    <def>Draft a chart; Draw a picture
+</def>
+    <reibun>油絵を描く。(Paint an oil painting.) 
+ノートに地図を描く。(Draw notes on the map.) 
+漫画を描く。(Draw manga.) 
+設計図を描く。(Draft a design outline.) 
+眉を描く。(Draw on eyebrows.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>113</id>
+    <hiragana>かげ
+</hiragana>
+    <kanji>陰
+</kanji>
+    <def>A place where light doesn&#x27;t reach; A place you can&#x27;t see
+</def>
+    <reibun>山の陰。(The shadow of the mountain.) 
+木陰で休む。(Rest in the shade of the tree.) 
+日陰に入る。(Enter the shade.) 
+陰で支える。(Support from behind the scenes.) 
+陰の声。(Voice from off-stage.) 
+陰口を利く。(Talk behind someone&#x27;s back.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>114</id>
+    <hiragana>かげ
+</hiragana>
+    <kanji>影
+</kanji>
+    <def>A shadow or silhouette; Light
+</def>
+    <reibun>障子に影が映る。(A shadow projected on the sliding door.) 
+影も形もない。(Gone without a trace.) 
+影が薄い。(A small presence.) 
+月影。(Moonlight.) 
+影を潜める。(Retreat into the shadows.) 
+島影が見える。(See the outline of an island.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>115</id>
+    <hiragana>かた</hiragana>
+    <kanji>形
+</kanji>
+    <def>A visible shape; A form
+</def>
+    <reibun>ピラミッド形の建物。(A pyramid-shaped buidling.) 
+扇形の土地。(A fan shaped plot.) 
+跡形もない。(Not a trace.) 
+柔道の形を習う。(Learn proper Judo form.) 
+水泳の自由形。(Freestyle swimming.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>116</id>
+    <hiragana>かた</hiragana>
+    <kanji>型
+</kanji>
+    <def>A set pattern or type
+</def>
+    <reibun>型に嵌る。(Unoriginal.) 
+型破りな青年。(An unusual young man.) 
+大型の台風。(A large-scale typhoon.) 
+２０１４年型の自動車。(A 2014 model car.) 
+血液型。(Blood type.) 
+鋳型。(A mold.) </reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>117</id>
+    <hiragana>かた</hiragana>
+    <kanji>方</kanji>
+    <def>Respectful term for a person</def>
+    <reibun>外国の方。(A person from overseas.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>118</id>
+    <hiragana>かたい
+</hiragana>
+    <kanji>堅い
+</kanji>
+    <def>Having a tough, solid interior; Solid and reliable
+</def>
+    <reibun>堅い材木。(Solid lumber.) 
+堅い守り。(Solid protection.) 
+手堅い商売。(Solid sales.) 
+合格は堅い。(Pass with flying colors.) 
+口が堅い。(Tight-lipped.) 
+堅苦しい。(Strict.) </reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>119</id>
+    <hiragana>かたい
+</hiragana>
+    <kanji>固い
+</kanji>
+    <def>Having a strong connection; Unwavering
+</def>
+    <reibun>団結が固い。(A tight-knit group.) 
+固い友情。(A strong friendship.) 
+固い決意。(Strong determination.) 
+固く信じる。(Firmly believe.) 
+頭が固い。(Stubborn.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>120</id>
+    <hiragana>かたい
+</hiragana>
+    <kanji>硬い
+</kanji>
+    <def>Opposite of 軟らかい; Highly resistant against external forces; Stiff
+</def>
+    <reibun>硬い石。(A hard rock.) 
+硬い殻を割る。(Split a hard shell.) 
+硬い表現。(A stiff expression.) 
+表情が硬い。(A serious look.) 
+選手が緊張で硬くなっている。(The athlete is nervous and can&#x27;t loosen up.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>121</id>
+    <hiragana>かま
+</hiragana>
+    <kanji>釜
+</kanji>
+    <def>A small apparatus used for heating and cooking
+</def>
+    <reibun>鍋と釜。(A stew pot and cooking pot.) 
+釜飯。(A pot of stew.) 
+電気釜。(An electric cooking pot.) 
+風呂釜。(Bathtub heater.) 
+釜揚げ饂飩。(Udon served stright from the pot.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>122</id>
+    <hiragana>かま
+</hiragana>
+    <kanji>窯
+</kanji>
+    <def>An oven used for baking
+</def>
+    <reibun>炭を焼く窯。(A charcoal oven.) 
+窯元に話を聞く。(Listen to stories in the kitchen.) 
+登り窯。(A special system for kilning.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>123</id>
+    <hiragana>かわ
+</hiragana>
+    <kanji>皮
+</kanji>
+    <def>The skin of an animal or plant; A layer that conceals something&#x27;s true nature
+</def>
+    <reibun>虎の皮。(A tiger pelt.) 
+木の皮。(Tree bark.) 
+面の皮が厚い。(Brazen and bold.) 
+化けの皮が剝がれる。(To see someone&#x27;s true nature revealed.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>124</id>
+    <hiragana>かわ
+</hiragana>
+    <kanji>革
+</kanji>
+    <def>Processed animal hide
+</def>
+    <reibun>革のバンド。(A leather band.) 
+革製品を買う。(Buy leather goods.) 
+革靴。(Leather shoes.) 
+なめし革。(Suede.) 
+革ジャンパー。(A leather jumper.) 
+革細工。(Leatherworking.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>125</id>
+    <hiragana>かわ
+</hiragana>
+    <kanji>川</kanji>
+    <def>River</def>
+    <reibun>天竜川。(Tenryū River.)</reibun>
+    <notes>Most common choice to refer to rivers or in river names.</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>126</id>
+    <hiragana>かわ
+</hiragana>
+    <kanji>河</kanji>
+    <def>River</def>
+    <reibun>河原。(Riverbank.)河合さん。(Kawai-san.)</reibun>
+    <notes>Mostly found as かわ in family names.</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>127</id>
+    <hiragana>かわく
+</hiragana>
+    <kanji>乾く
+</kanji>
+    <def>Lacking moisture
+</def>
+    <reibun>空気が乾く。(The air is dry.) 
+干し物が乾く。(The laundry is dry.) 
+乾いた土。(Arid land.) 
+舌の根の乾かぬうちに。(Before you can say… [some action will take place])</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>128</id>
+    <hiragana>かわく
+</hiragana>
+    <kanji>渇く
+</kanji>
+    <def>Thirsty; Strongly desire
+</def>
+    <reibun>喉が渇く。(I&#x27;m thirsty.) 
+渇きを覚える。(Feel thirtsy.) 
+心の渇きを癒やす。(Quench your desire.) 
+親の愛情に渇く。(Desire affection from your parents.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>129</id>
+    <hiragana>きく
+</hiragana>
+    <kanji>聞く
+</kanji>
+    <def>Hear a sound; Take into consideration; Ask; Smell
+</def>
+    <reibun>話し声を聞く。(Hear someone talking.) 
+物音を聞いた。(I heard a noise.) 
+噂を聞く。(Hear a rumor.) 
+聞き流しにする。(Ignore something.) 
+願いを聞く。(Entertain a request.) 
+親の言うことを聞く。(Listen to what your parent says.) 
+転居した事情を聞く。(Ask about why someone moved.) 
+駅までの道を聞く。(Ask the way to the station.) 
+香を聞く。(Smell a fragrance.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>130</id>
+    <hiragana>きく
+</hiragana>
+    <kanji>聴く
+</kanji>
+    <def>Actively listen to
+</def>
+    <reibun>音楽を聴く。(Listen to music.) 
+国民の声を聴く。(Listen to the voice of the people.) 
+恩師の最終講義を聴く。(Listen to your instructor&#x27;s final lecture.) </reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>131</id>
+    <hiragana>きく
+</hiragana>
+    <kanji>利く
+</kanji>
+    <def>Work/operate well; Be possible
+</def>
+    <reibun>左手が利く。(Left-handed.) 
+目が利く。(Sharp eyes.) 
+機転が利く。(Clever.) 
+無理が利く。(It can handle it.) 
+小回りが利く。(Adaptable.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>132</id>
+    <hiragana>きく
+</hiragana>
+    <kanji>効く
+</kanji>
+    <def>Show an effect
+</def>
+    <reibun>薬が効く。(The medicine works.) 
+宣伝が効く。(The announcement is effective.) 
+効き目がある。(It&#x27;s effective.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>133</id>
+    <hiragana>きる
+</hiragana>
+    <kanji>切る
+</kanji>
+    <def>Split using a blade; Cut a connection
+</def>
+    <reibun>野菜を切る。(Cut vegetables.) 
+切り傷。(A cut.) 
+期限を切る。(Set a deadline.) 
+電源を切る。(Turn off the power.) 
+縁を切る。(Cut ties with someone.) 
+電話を切る。(Hang up the phone.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>134</id>
+    <hiragana>きる
+</hiragana>
+    <kanji>斬る
+</kanji>
+    <def>Injure with a katana; Levy sharp criticism
+</def>
+    <reibun>武士が敵を斬（切）り捨てる。(The warrior cut down the enemy.) 
+世相を斬る。(Make a social commentary.)</reibun>
+    <notes>斬 seems to be used specifically for katana or traditional bladed Japanese weaponry. If slaying someone with something more mundane, like a kitchen knife, use the more general 切
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>135</id>
+    <hiragana>きわまる,
+きわめる</hiragana>
+    <kanji>窮まる,
+窮める</kanji>
+    <def>Reach a limit or conclusion and be unable to progress further
+</def>
+    <reibun>進退窮まる。(Backed into a corner.) 
+窮まりなき宇宙。(The limitlessness of space.) 
+真理を窮（究）める。(Seek out the full truth.)</reibun>
+    <notes>Here, 真理を窮める means to discover all there is to know about the truth. You can also use 真理を究める, which would imply you have delved deep into the hidden truths of something and not necessarily that there is nothing left to discover.
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>136</id>
+    <hiragana>きわまる,
+きわめる</hiragana>
+    <kanji>極まる,
+極める</kanji>
+    <def>The limit, the apex, the maximum, the epitome of, etc.
+</def>
+    <reibun>栄華を極める。(Reach the height of prosperity.) 
+不都合極まる言動。(Extremely troublesome behavior.) 
+山頂を極める。(Reach the mountain top.) 
+極めて優秀な成績。(The epitome of excellence.) 
+見極める。(Discern the truth.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>137</id>
+    <hiragana>きわまる,
+きわめる</hiragana>
+    <kanji>究める
+</kanji>
+    <def>Master the deeper aspects of something
+</def>
+    <reibun>学を究（窮）める。(Master your studies.)
+</reibun>
+    <notes>The same idea above applies here. 学を究める means you have delved deep into a subject. 窮める would imply you have leaned all there is to know.
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>138</id>
+    <hiragana>こう
+</hiragana>
+    <kanji>請う
+</kanji>
+    <def>Request someone do something
+</def>
+    <reibun>認可を請う。(Request approval.) 
+案内を請（乞）う。(Ask for directions.) 
+紹介を請（乞）う。(Ask to be introduced.)</reibun>
+    <notes>請 illustrates a standard request, but to emphasize the urgency of the manner you make your request, use 乞
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>139</id>
+    <hiragana>こう
+</hiragana>
+    <kanji>乞う
+</kanji>
+    <def>Request strongly, close to beg or plead
+</def>
+    <reibun>乞う御期待。(Don&#x27;t miss it!) 
+命乞いをする。(Beg for your life.) 
+雨乞いの儀式。(A rain dance ceremony.) 
+慈悲を乞う。(Beg for compassion.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>140</id>
+    <hiragana>こえる,
+こす</hiragana>
+    <kanji>越える,
+越す</kanji>
+    <def>Pass through a place; Pass a point; Exceed a time…and go beyond
+</def>
+    <reibun>県境を越える。(Cross prefecture lines.) 
+峠を越す。(Get through the tough part.) 
+選手としてのピークを越える。(He&#x27;s past his athletic prime.) 
+年を越す。(Enter a new year.) 
+度を越す。(Step over the line.) 
+困難を乗り越える。(Overcome difficulty.) 
+勝ち越す。(Take the lead.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>141</id>
+    <hiragana>こえる,
+こす</hiragana>
+    <kanji>超える,
+超す</kanji>
+    <def>Surpass a standard, scope or level
+</def>
+    <reibun>現代の技術水準を超える建築物。(A building made with cutting-edge technology.) 
+人間の能力を超える。(Surpasses human ability.) 
+想定を超える大きな災害。(Unimaginable disaster.)
+１０万円を超える額。(A value of over \100 thousand.) 
+１億人を超す人口。(A population of over 100 million people.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>142</id>
+    <hiragana>こたえる
+</hiragana>
+    <kanji>答える
+</kanji>
+    <def>Answer; Reply
+</def>
+    <reibun>設問に答える。(Answer the question.) 
+質問に対して的確に答える。(Accurately answer the question.) 
+名前を呼ばれて答える。(Respond to your name being called.) </reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>143</id>
+    <hiragana>こたえる
+</hiragana>
+    <kanji>応える
+</kanji>
+    <def>Respond in kind; Remunerate
+</def>
+    <reibun>時代の要請に応える。(Respond to the demands of the times.) 
+期待に応える。(Meet expectations.) 
+声援に応える。(Answer the rallying cry.) 
+恩顧に応える。(Repay kindness.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>144</id>
+    <hiragana>こむ
+</hiragana>
+    <kanji>混む
+</kanji>
+    <def>Crowded and congested
+</def>
+    <reibun>電車が混（込）む。(The train is crowded.) 
+混（込）み合う店内。(A crowded store.) 
+人混（込）みを避ける。(Avoid the crowds.)</reibun>
+    <notes>Originally, 込む was used to illustrate many people in a single place, but the from the viewpoint of being crowd of people mixed together, 混む is now more generally used.
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>145</id>
+    <hiragana>こむ
+</hiragana>
+    <kanji>込む
+</kanji>
+    <def>Piled up; Mixed together and complicated
+</def>
+    <reibun>負けが込む。(Rack up losses.) 
+日程が込んでいる。(A busy schedule.) 
+仕事が立て込む。(Work is piling up.) 
+手の込んだ細工を施す。(Conduct an elaborate plan.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>146</id>
+    <hiragana>さがす
+</hiragana>
+    <kanji>探す
+</kanji>
+    <def>Search for something you want
+</def>
+    <reibun>貸家を探す。(Search for a house to rent.) 
+仕事を探す。(Search for work.) 
+講演の題材を探す。(Search through lecture topics.) 
+他人の粗を探す。(Nitpick someone&#x27;s faults.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>147</id>
+    <hiragana>さがす
+</hiragana>
+    <kanji>捜す
+</kanji>
+    <def>Search out the location of a missing person or thing
+</def>
+    <reibun>うちの中を捜す。(Search the home.) 
+犯人を捜す。(Search for the criminal.) 
+紛失物を捜す。(Search for a missing thing.) 
+行方不明者を捜す。(Search for a missing person.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>148</id>
+    <hiragana>さく
+</hiragana>
+    <kanji>裂く
+</kanji>
+    <def>Tear; Pull apart destructively
+</def>
+    <reibun>布を裂く。(Tear cloth.) 
+生木を裂く。(Break up a couple.) 
+二人の仲を裂く。(Break apart a friendship.) 
+岩の裂け目。(A crack in a stone.) 
+切り裂く。(Slice apart.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>149</id>
+    <hiragana>さく
+</hiragana>
+    <kanji>割く
+</kanji>
+    <def>Remove a portion
+</def>
+    <reibun>時間を割く。(Spare some time.) 
+事件の報道に紙面を割く。(Devote page to an incident.) 
+警備のために人手を割く。(Allocate manpower to security.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>150</id>
+    <hiragana>さげる
+</hiragana>
+    <kanji>下げる
+</kanji>
+    <def>Lower; Hang down
+</def>
+    <reibun>値段を下げる。(Lower the price.) 
+室温を下げる。(Lower the room temperature.) 
+問題のレベルを下げる。(Lower the urgency of the problem.) 
+等級を下げる。(Lower the rank.) 
+軒に下げる。(Hang off the eaves.) </reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>151</id>
+    <hiragana>さげる
+</hiragana>
+    <kanji>提げる
+</kanji>
+    <def>Hang from your hand
+</def>
+    <reibun>大きな荷物を手に提げる。(Hang a large suitcase from your hand.) 
+手提げ鞄で通学する。(Head off to school with a handbag.) 
+手提げ金庫。(A lockbox.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>152</id>
+    <hiragana>さす
+</hiragana>
+    <kanji>差す
+</kanji>
+    <def>Slide in between; Wield; Pour; Cause to be
+</def>
+    <reibun>腰に刀を差す。(Sheathe a katana on your hip.) 
+抜き差しならない状況にある。(A sticky situation.) 
+傘を差す。(Open an umbrella.) 
+日が差す。(The sun shines.) 
+目薬を差す。(Apply eye drops.) 
+差しつ差されつ。(Exchange drinking glasses.) 
+顔に赤みが差す。(Start to blush.) 
+嫌気が差す。(Get sick of.) 
+魔が差す。(Give in to temptation.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>153</id>
+    <hiragana>さす
+</hiragana>
+    <kanji>指す
+</kanji>
+    <def>Indicate a direction or object
+</def>
+    <reibun>目的地を指して進む。(Direct towards your destination.) 
+名指しをする。(Call out a name.) 
+授業中に何度も指された。(Singled out repeatedly during class.) 
+指し示す。(Point out something.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>154</id>
+    <hiragana>さす
+</hiragana>
+    <kanji>刺す
+</kanji>
+    <def>Stab with something sharp; Spur into action; Get an out in baseball
+</def>
+    <reibun>針を刺す。(Prick with a pin.) 
+蜂に刺される。(Get stung by a bee.) 
+串刺しにする。(Make shishkabob.) 
+鼻を刺す嫌な臭い。(An unplesant stench.) 
+本塁で刺される。(Tag him out at home plate.) </reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>155</id>
+    <hiragana>さす
+</hiragana>
+    <kanji>挿す
+</kanji>
+    <def>Insert something slender
+</def>
+    <reibun>花瓶に花を挿す。(Put flowers in a vase.) 
+髪にかんざしを挿す。(Put a hairpin in your hair.) 
+一輪挿し。(A single flower vase.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>156</id>
+    <hiragana>さます,
+さめる</hiragana>
+    <kanji>覚ます,
+覚める</kanji>
+    <def>Awaken from sleep; Become free from worry
+</def>
+    <reibun>太平の眠りを覚ます。(Awaken from a long era of peace.) 
+迷いを覚ます。(Escape from worry.) 
+目が覚める。(Wake up.) 
+寝覚めが悪い。(Wake up on the wrong side of the bed.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>157</id>
+    <hiragana>さます,
+さめる</hiragana>
+    <kanji>冷ます,
+冷める</kanji>
+    <def>Cool down temperature-wise or emotionally
+</def>
+    <reibun>湯冷まし。(Hot water that has cooled off.) 
+湯が冷める。(The hot water&#x27;s cooling off.) 
+料理が冷める。(The food&#x27;s getting cold.) 
+熱が冷める。(The fever&#x27;s coming down.) 
+興奮が冷める。(The excitement&#x27;s cooling down.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>158</id>
+    <hiragana>さわる
+</hiragana>
+    <kanji>触る
+</kanji>
+    <def>Physically touch; Associate with; Get involved with
+</def>
+    <reibun>そっと手で触る。(Touch softly with your hand.) 
+展示品に触らない。(Don&#x27;t touch the exhibits.) 
+政治的な問題には触らない。(Don&#x27;t get involved with government issues.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>159</id>
+    <hiragana>さわる
+</hiragana>
+    <kanji>障る
+</kanji>
+    <def>Hinder or act as an obstacle; Experience discomfort
+</def>
+    <reibun>激務が体に障る。(Hard work takes it&#x27;s toll.) 
+出世に障る。(A barrier to success.) 
+気に障る言い方をされる。(Angered by what someone said.) </reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>160</id>
+    <hiragana>しずまる,
+しずめる</hiragana>
+    <kanji>静まる,
+静める</kanji>
+    <def>Calm down; Settle down
+</def>
+    <reibun>心が静まる。(Calm one&#x27;s mind.) 
+嵐が静まる。(The storm calms.) 
+騒がしい場内を静める。(Quiet down the room.) 
+気を静める。(Calm down.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>161</id>
+    <hiragana>しずまる,
+しずめる</hiragana>
+    <kanji>鎮まる
+鎮める</kanji>
+    <def>Suppress; Die down; Cease
+</def>
+    <reibun>内乱が鎮まる。(The rebllion is quelled.) 
+反乱を鎮める。(Supress the rebellion.) 
+痛みを鎮める。(Supress the pain.) 
+咳を鎮める薬。(Cough suppressant.) 
+神々が鎮まる。(The gods are dead.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>162</id>
+    <hiragana>しずまる,
+しずめる</hiragana>
+    <kanji>沈める
+</kanji>
+    <def>Sink into water; Lower down
+</def>
+    <reibun>船を沈める。(Sink a ship.) 
+ベッドに身を沈める。(Sink into the mattress.) 
+身を沈めて銃弾をよける。(Duck and dodge a bullet.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>163</id>
+    <hiragana>しぼる
+</hiragana>
+    <kanji>絞る
+</kanji>
+    <def>Wring moisture out of; Exert effort; Narrow down
+</def>
+    <reibun>手拭いを絞る。(Wring out a handcloth.) 
+知恵を絞る。(Rack your brains.) 
+声を振り絞る。(Strain your voice.) 
+範囲を絞る。(Narrow down the scope.) 
+音量を絞る。(Turn down the volume.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>164</id>
+    <hiragana>しぼる
+</hiragana>
+    <kanji>搾る
+</kanji>
+    <def>Squeeze to extract liquid; Force out of someone
+</def>
+    <reibun>乳を搾る。(Milk udders.) 
+レモンを搾った汁。(Juice squeezed from a lemon.) 
+ゴマの油を搾る。(Extract sesame oil.) 
+年貢を搾り取られる。(Pressed for annual tribute.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>165</id>
+    <hiragana>しまる,
+しめる</hiragana>
+    <kanji>締まる,
+締める</kanji>
+    <def>Tighten to remove any slack; Create a division
+</def>
+    <reibun>紐が締まる。(The cord tightens.) 
+帯を締める。(Tighten a sash.) 
+ねじを締める。(Tighten a screw.) 
+引き締まった顔。(A chiseled face.) 
+心を引き締める。(Brace yourself.)
+財布の紐を締める。(Tighten your purse strings.) 
+羽交い締め。(Tie your hands behind your back.) 
+売上げを月末で締める。(Sales figures are totaled the end of the month.) 
+申し込みの締め切り。(Application deadline.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>166</id>
+    <hiragana>しまる,
+しめる</hiragana>
+    <kanji>絞まる,
+絞める</kanji>
+    <def>Tighten around the neck
+</def>
+    <reibun>ネクタイで首が絞まって苦しい。(The necktie is too tight.) 
+柔道の絞め技。(A judo choke hold.) 
+自らの首を絞める発言。(A threat to hang yourself.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>167</id>
+    <hiragana>しまる,
+しめる</hiragana>
+    <kanji>閉まる,
+閉める</kanji>
+    <def>Close something that was open
+</def>
+    <reibun>戸が閉まる。(The door closed.) 
+カーテンが閉まる。(The curtain closed.) 
+蓋を閉める。(Close the lid.) 
+店を閉める。(Close up shop.) 
+扉を閉め切りにする。(Close the gate.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>168</id>
+    <hiragana>すすめる
+</hiragana>
+    <kanji>進める
+</kanji>
+    <def>Move something forward; Progress something
+</def>
+    <reibun>前へ進める。(Move forward.) 
+時計を進める。(Set your clock forward.) 
+交渉を進める。(Move forward negotiations.) 
+議事を進める。(Move forward with the proceedings.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>169</id>
+    <hiragana>すすめる
+</hiragana>
+    <kanji>勧める
+</kanji>
+    <def>Work to make something happen; Try to influence something to happen
+</def>
+    <reibun>入会を勧める。(Recommend that someone join.) 
+転地を勧める。(Recommend that someone move.) 
+読書を勧める。(Recommend that someone read something.) 
+辞任を勧める。(Recommend that someone resign.)</reibun>
+    <notes>勧める is used when pushing for someone to take a certain action.
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>170</id>
+    <hiragana>すすめる
+</hiragana>
+    <kanji>薦める
+</kanji>
+    <def>Recommend; Endorse
+</def>
+    <reibun>候補者として薦める。(Recommend someone as a candidate.) 
+良書を薦める。(Recommend a good book.) 
+お薦めの銘柄を尋ねる。(Ask for a recommended brand.)</reibun>
+    <notes>薦める is used when endorsing a particular thing as being exceptional
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>171</id>
+    <hiragana>する
+</hiragana>
+    <kanji>刷る
+</kanji>
+    <def>Print
+</def>
+    <reibun>名刺を刷る。(Print business cards.) 
+新聞を刷る。(Print newspapers.) 
+版画を刷る。(Print a woodcut.) 
+社名を刷り込む。(Print the company name.) 
+刷り物。(A printing.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>172</id>
+    <hiragana>する
+</hiragana>
+    <kanji>擦る
+</kanji>
+    <def>Rub
+</def>
+    <reibun>転んで膝を擦りむく。(Fall and scrape your knee.) 
+マッチを擦る。(Strike a match.) 
+擦り傷。(A scrape.) 
+洋服が擦り切れる。(The clothes are faded.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>173</id>
+    <hiragana>すわる
+</hiragana>
+    <kanji>座る
+</kanji>
+    <def>Sit down; Arrive at a location or social position
+</def>
+    <reibun>椅子に座る。(Sit in the chair.) 
+上座に座る。(Sit at the head of the table.) 
+社長のポストに座る。(Become company president.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>174</id>
+    <hiragana>すわる
+</hiragana>
+    <kanji>据わる
+</kanji>
+    <def>Stabilize; To become settled in place
+</def>
+    <reibun>赤ん坊の首が据わる。(Steady the infant&#x27;s head.) 
+目が据わる。(A glazed look.) 
+腹の据わった人物。(A gutsy person.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>175</id>
+    <hiragana>せめる
+</hiragana>
+    <kanji>攻める
+</kanji>
+    <def>Lauch a physical attack
+</def>
+    <reibun>敵の陣地を一気に攻める。(Make a coordinated strike on the enemy base.) 
+積極的に攻め込む。(Aggressively attack.) 
+兵糧攻めにする。(Attack the enemy&#x27;s food supply.) 
+質問攻めにする。(Barrage with questions.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>176</id>
+    <hiragana>せめる
+</hiragana>
+    <kanji>責める
+</kanji>
+    <def>Criticize; Cause suffering
+</def>
+    <reibun>過失を責める。(Criticize someone&#x27;s error.) 
+無責任な言動を責める。(Criticize someone&#x27;s irresponsible actions.) 
+自らを繰り返し責める。(Constantly criticize yourself.) 
+拷問で責められる。(Torture someone.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>177</id>
+    <hiragana>そう
+</hiragana>
+    <kanji>沿う
+</kanji>
+    <def>Alongside a stretch of; Keep in line with tradition or established rules
+</def>
+    <reibun>川沿いの家。(A house on the river.) 
+線路に沿って歩く。(Walk along the tracks.) 
+決定された方針に沿（添）って行動する。 (Act in line</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>178</id>
+    <hiragana>そう
+</hiragana>
+    <kanji>添う
+</kanji>
+    <def>Attached to; Get married
+</def>
+    <reibun>母に寄り添って歩く。(Walk beside your mother.) 
+病人の付き添い。(Stay with the patient.) 
+仲睦まじく添い遂げる。(Enjoy a close marriage.) 
+連れ添う。(Tie the knot.)</reibun>
+    <notes>添 is often seen in 添付ファイル(file attachment) and 無添加(no additives)</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>179</id>
+    <hiragana>そなえる
+</hiragana>
+    <kanji>備える
+</kanji>
+    <def>Prepare; Equip or install
+</def>
+    <reibun>台風に備える。(Prepare for the typhoon.) 
+老後の備え。(Preparations for old age.) 
+各部屋に消火器を備える。(Install fire extinguishers in every room.) 
+防犯カメラを備えた施設。(A facility equipped with security cameras.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>180</id>
+    <hiragana>そなえる
+</hiragana>
+    <kanji>供える
+</kanji>
+    <def>Provide as an offering to the gods
+</def>
+    <reibun>お神酒を供える。(Offer wine to the gods.) 
+霊前に花を供える。(Offer flowers to the spirits.) 
+鏡餅を供える。(Make an offering of kagami-mochi.) 
+お供え物。(An offering.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>181</id>
+    <hiragana>たえる
+</hiragana>
+    <kanji>耐える
+</kanji>
+    <def>Withstand hardship or external pressure
+</def>
+    <reibun>重圧に耐える。(Handle the pressure.) 
+苦痛に耐える。(Bear the pain.) 
+猛暑に耐える。(Withstand the intense heat.) 
+風雪に耐える。(Make it through the blizzard.) 
+困苦欠乏に耐える。(Make it through poverty and tough times.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>182</id>
+    <hiragana>たえる
+</hiragana>
+    <kanji>堪える
+</kanji>
+    <def>Having ability or value; Supress an emotion
+</def>
+    <reibun>任に堪える。(To be up to the task.) 
+批判に堪える学説。(A theory that stands up to criticism.) 
+鑑賞に堪えない。(Value beyond measure.) 
+見るに堪えない作品。(A work too horrible to look at.) 
+憂慮に堪えない。(Unbearable grief.) 
+遺憾に堪えない。(Unbearable regret.)</reibun>
+    <notes>堪える can also be read こた・える, in which case its meaning is closer to 耐える. Also, this reading is often found as 持ち堪える（もちこたえる） &quot;to resist succumbing to illness / evil&quot;</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>183</id>
+    <hiragana>たずねる
+</hiragana>
+    <kanji>尋ねる
+</kanji>
+    <def>Inquire; Seek; Investigate
+</def>
+    <reibun>道を尋ねる。(Ask for directions.) 
+研究者に尋ねる。(Ask a researcher.) 
+失踪した友人を尋ねる。(Search for your missing friend.) 
+尋ね人。(A missing person.) 
+由来を尋ねる。(Investigate the source.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>184</id>
+    <hiragana>たずねる
+</hiragana>
+    <kanji>訪ねる
+</kanji>
+    <def>Visit
+</def>
+    <reibun>知人を訪ねる。(Visit an acquaintance.) 
+史跡を訪ねる。(Visit an historic landmark.) 
+古都を訪ねる旅。(A trip to visit your hometown.) 
+教え子が訪ねてくる。(A disciple comes visiting.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>185</id>
+    <hiragana>たたかう
+</hiragana>
+    <kanji>戦う
+</kanji>
+    <def>Wage battle using weapons or wits; Battle for supremacy
+</def>
+    <reibun>敵と戦う。(Fight the enemy.) 
+選挙で戦う。(Fight in the election.) 
+優勝を懸けて戦う。(Battle for supremacy.) 
+意見を戦わせる。(A battle of opinions.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>186</id>
+    <hiragana>たたかう
+</hiragana>
+    <kanji>闘う
+</kanji>
+    <def>Fight to overcome an obstacle or barrier
+</def>
+    <reibun>病気と闘う。(Fight an illness.) 
+貧苦と闘う。(Struggle against poverty.) 
+寒さと闘う。(Fight against the cold.) 
+自分との闘い。(Struggle against yourself.) 
+労使の闘い。(A labor dispute.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>187</id>
+    <hiragana>たつ
+</hiragana>
+    <kanji>断つ
+</kanji>
+    <def>Sever a connection; End
+</def>
+    <reibun>退路を断つ。(Cut off an espace route.) 
+国交を断（絶）つ。(End diplomatic relations.) 
+関係を断（絶）つ。(Cut ties.) 
+快刀乱麻を断つ。(Cut the Gordion knot.) 
+酒を断つ。(Abstain from alcohol.)</reibun>
+    <notes>断 is find in general for the cutting of ties, but if emphasizing the sudden cut of friendly ties that were expected to continue, use 絶
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>188</id>
+    <hiragana>たつ
+</hiragana>
+    <kanji>絶つ
+</kanji>
+    <def>End midway; Interrupt
+</def>
+    <reibun>縁を絶つ。(Desert someone.) 
+命を絶つ。(End someone&#x27;s life.) 
+消息を絶つ。(Vanish without a trace.) 
+最後の望みが絶たれる。(All hope is lost.) 
+交通事故が後を絶たない。(There is no end to traffic accidents.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>189</id>
+    <hiragana>たつ
+</hiragana>
+    <kanji>裁つ
+</kanji>
+    <def>Cut cloth according to measurements
+</def>
+    <reibun>生地を裁つ。(Cut cloth.) 
+着物を裁つ。(Cut the cloth for a kimono.) 
+紙を裁つ。(Cut out paper.) 
+裁ちばさみ。(Cloth shears.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>190</id>
+    <hiragana>たつ
+</hiragana>
+    <kanji>立つ,
+立てる</kanji>
+    <def>Stand up straight; Exist in a condition; Occupy a position; Leave a place; Establish
+</def>
+    <reibun>演壇に立つ。(Stand upon the stage.) 
+鳥肌が立つ。(Get goosebumps.) 
+優位に立つ。(Come out on top.) 
+岐路に立つ。(Stand at a crossroads.) 
+使者に立つ。(Act as an envoy.) 
+席を立つ。(Leave your seat.)
+見通しが立つ。(Put forth a forecast.) 
+計画を立てる。(Draft a plan.) 
+手柄を立てる。(Do a good deed.) 
+評判が立つ。(Generate buzz.) 
+相手の顔を立てる。(Defend someone&#x27;s honor.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>191</id>
+    <hiragana>たつ
+</hiragana>
+    <kanji>建つ,
+建てる</kanji>
+    <def>Construct a building; Build a country
+</def>
+    <reibun>家が建つ。(Build a house.) 
+ビルを建てる。(Build a building.) 
+銅像を建てる。(Erect a bronze statue.) 
+一戸建ての家。(A single-floor home.) 
+国を建てる。(Found a country.) 
+都を建てる。(Found a capital.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>192</id>
+    <hiragana>たっとい,
+たっとぶ</hiragana>
+    <kanji>尊い,
+尊ぶ</kanji>
+    <def>Dignified and worthy of respect
+</def>
+    <reibun>尊い神。(Sacred gods.) 
+尊い犠牲を払う。(Offer a worthy sacrifice.) 
+神仏を尊ぶ。(Repect Shinto and Buddhism.) 
+祖先を尊ぶ。(Respect your ancestors.)</reibun>
+    <notes>Readings: たっとい,たっとぶ,とうとい,とうとぶ</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>193</id>
+    <hiragana>たっとい,
+たっとぶ</hiragana>
+    <kanji>貴い,
+貴ぶ</kanji>
+    <def>Precious and valuable
+</def>
+    <reibun>貴い資料。(Precious materials.) 
+貴い体験。(A valuable experience.) 
+和を以て貴しとなす。(Treat others as you would like to be treated.) 
+時間を貴ぶ。(Time is precious.)</reibun>
+    <notes>Readings: たっとい,たっとぶ,とうとい,とうとぶ</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>194</id>
+    <hiragana>たま
+</hiragana>
+    <kanji>玉
+</kanji>
+    <def>A jewel; A round object
+</def>
+    <reibun>玉を磨く。(Polish a jewel.) 
+玉に瑕。(A fly in the ointment.) 
+運動会の玉入れ。(Ball toss played on Sports Day.) 
+シャボン玉。(Soap bubbles.) 
+玉砂利。(Gravel.) 
+善玉悪玉。(Good guys and bad guys.) </reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>195</id>
+    <hiragana>たま
+</hiragana>
+    <kanji>球
+</kanji>
+    <def>A ball used in sports; A lightbulb
+</def>
+    <reibun>速い球を投げる。(Throw a fastball.) 
+決め球を持っている。(Have the best pitch.) 
+ピンポン球。(A ping-pong ball.) 
+電気の球。(A lightbulb.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>196</id>
+    <hiragana>たま
+</hiragana>
+    <kanji>弾
+</kanji>
+    <def>A bullet
+</def>
+    <reibun>拳銃の弾。(A handgun bullet.) 
+大砲に弾を込める。(Load a cannonball into the cannon.) 
+流れ弾に当たって大けがをする。(Get seriously injured by a stray bullet.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>197</id>
+    <hiragana>つかう
+</hiragana>
+    <kanji>使う
+</kanji>
+    <def>Use a person or thing
+</def>
+    <reibun>通勤に車を使う。(Use a car to get to work.) 
+電力を使う。(Use electrical power.) 
+機械を使って仕事をする。(Use a machine to do work.) 
+予算を使う。(Use a budget.) 
+道具を使う。(Use a tool.)
+人間関係に神経を使う。(Handle relationships delicately.) 
+頭を使う。(Use your head.) 
+人使いが荒い。(Push people too hard.) 
+大金を使う。(Use lots of money.) 
+体力を使う仕事。(Labor-intensive work.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>198</id>
+    <hiragana>つかう
+</hiragana>
+    <kanji>遣う
+</kanji>
+    <def>Utilize something well
+</def>
+    <reibun>心を遣（使）う。(Be considerate.) 
+気を遣（使）う。(Show concern.) 
+安否を気遣う。(Worry about your safety.) 
+息遣いが荒い。(Heavy breathing.) 
+心遣い。(Consideration for others.)
+言葉遣い。(Diction.) 
+仮名遣い。(Kana usage.) 
+筆遣い。(Brush-handling.) 
+人形遣い。(Puppeteering.) 
+上目遣い。(An upward glance.) 
+無駄遣い。(Careless with money.) 
+金遣い。(Handling finances.) 
+小遣い銭。(Spending money.)</reibun>
+    <notes>使 is used most commonly used for the verb form of つかう, while the noun form attached as a suffix (〇〇づかい) uses 遣
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>202</id>
+    <hiragana>つぐ
+</hiragana>
+    <kanji>次ぐ
+</kanji>
+    <def>The very next person/thing/event
+</def>
+    <reibun>事件が相次ぐ。(Events occuring one after the other.) 
+首相に次ぐ実力者。(The most powerful person next to the Prime Minister.) 
+富士山に次いで高い山。(The highest mountain next to Mt. Fuji.) 
+次の日。(The next day.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>203</id>
+    <hiragana>つぐ
+</hiragana>
+    <kanji>継ぐ
+</kanji>
+    <def>Inherit and continue; To succeed someone; Add to
+</def>
+    <reibun>跡を継ぐ。(Follow in someone&#x27;s footsteps.) 
+引き継ぐ。(Take over.) 
+布を継ぐ。(Mend cloth.) 
+言葉を継ぐ。(Continue speaking.) 
+継ぎ目。(A seam.) 
+継ぎを当てる。(Put a patch on.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>204</id>
+    <hiragana>つぐ
+</hiragana>
+    <kanji>接ぐ
+</kanji>
+    <def>Connect together
+</def>
+    <reibun>骨を接ぐ。(Set a bone.) 
+新しいパイプを接ぐ。(Connect new pipe.) 
+接ぎ木。(Grafting.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>199</id>
+    <hiragana>つく,
+つける</hiragana>
+    <kanji>付く,
+付ける</kanji>
+    <def>Attach to; Add; Be aware of
+</def>
+    <reibun>墨が顔に付く。(Get ink on your face.) 
+足跡が付く。(Leave a trail.) 
+知識を身に付（着）ける。(Gain knowledge in.) 
+利息が付く。(Interest applies.) 
+名前を付ける。(Name something.) 
+条件を付ける。(Apply conditions.) 
+味方に付く。(Rally behind someone.) 
+付け加える。(Add to.) 
+気を付ける。(Take notice of.) 
+目に付く。(Stare at.) </reibun>
+    <notes>知識を身に付ける can also use 着ける in the sense that you add knowledge and make it a part of you
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>200</id>
+    <hiragana>つく,
+つける</hiragana>
+    <kanji>着く,
+着ける</kanji>
+    <def>Reach/Achieve; Control a location; Wear clothing; Add to one&#x27;s person
+</def>
+    <reibun>手紙が着く。(Receive a letter.) 
+東京に着く。(Arrive in Tokyo.) 
+船を岸に着ける。(Dock the boat on shore.) 
+車を正面玄関に着ける。(Park the car around front.) 
+席に着く。(Take a seat.)
+衣服を身に着ける。(Wear clothing.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>201</id>
+    <hiragana>つく,
+つける</hiragana>
+    <kanji>就く,
+就ける</kanji>
+    <def>Take on a position or role; Enter a condition or state
+</def>
+    <reibun>職に就く。(Take on work.) 
+役に就ける。(Take on the role.) 
+床に就く。(Lie on the floor.) 
+緒に就く。(Begin.) 
+帰路に就く。(Head home.) 
+眠りに就く。(Fall asleep.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>205</id>
+    <hiragana>つくる
+</hiragana>
+    <kanji>作る
+</kanji>
+    <def>To make or manufacture
+</def>
+    <reibun>米を作る。(Make rice.) 
+規則を作る。(Make the rules.) 
+新記録を作る。(Make a new record.) 
+計画を作る。(Make a plan.) 
+詩を作る。(Make a poem.) 
+笑顔を作る。(Put on a smile.) 
+会社を作る。(Make a company.) 
+機会を作る。(Create an opportunity.) 
+組織を作る。(Create an organization.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>206</id>
+    <hiragana>つくる
+</hiragana>
+    <kanji>造る
+</kanji>
+    <def>Manufacture something; Mass produce
+</def>
+    <reibun>船を造る。(Build a ship.) 
+庭園を造る。(Make a garden.) 
+宅地を造る。(Build a housing development.) 
+道路を造る。(Build a road.) 
+数寄屋造りの家。(A Japanese-style arbor.) 
+酒を造る。(Brew alcohol.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>207</id>
+    <hiragana>つくる
+</hiragana>
+    <kanji>創る
+</kanji>
+    <def>Create something original
+</def>
+    <reibun>新しい文化を創（作）る。(Create a new culture.) 
+画期的な商品を創（作）り出す。(Create a revolutionary product.)</reibun>
+    <notes>作 can be used in these cases as well, but to emphasize the originality or uniqueness of a creation, use 創
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>208</id>
+    <hiragana>つつしむ
+</hiragana>
+    <kanji>慎む
+</kanji>
+    <def>Be reserved / responsible
+</def>
+    <reibun>身を慎む。(Act properly.) 
+酒を慎む。(Drink responsibly.) 
+言葉を慎む。(Watch what you say.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>209</id>
+    <hiragana>つつしむ
+</hiragana>
+    <kanji>謹む
+</kanji>
+    <def>Be respectful / humble
+</def>
+    <reibun>謹んで承る。(Respectfully comply.) 
+謹んで祝意を表する。(Respectfully offer your congratulations.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>210</id>
+    <hiragana>つとまる,
+つとめる</hiragana>
+    <kanji>勤まる,
+勤める</kanji>
+    <def>Perform work for pay; Peform a Buddhist ceremony
+</def>
+    <reibun>この会社は私には勤まらない。(I don&#x27;t work at this company.) 
+銀行に勤める。(Work at the bank.) 
+永年勤め上げた人。(A long-term employee.) 
+勤め人。(An office worker.)
+本堂でお勤めをする。(Perform a ceremony in the main hall.) 
+法事を勤める。(Peform a Buddhist ceremony.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>211</id>
+    <hiragana>つとまる,
+つとめる</hiragana>
+    <kanji>務まる,
+務める</kanji>
+    <def>Fulfill a role or responsibility
+</def>
+    <reibun>彼には主役は務まらない。(He can&#x27;t do the main role.) 
+会長が務まるかどうか不安だ。(There&#x27;s uncertainty over whether the company president can fulfill his role.) 
+議長を務める。(Act as chairman.) 
+親の務めを果たす。(Act as parent.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>212</id>
+    <hiragana>つとまる,
+つとめる</hiragana>
+    <kanji>努める
+</kanji>
+    <def>Put in effort; Exert yourself
+</def>
+    <reibun>完成に努める。(Work towards completion.) 
+解決に努める。(Work towards a solution.) 
+努めて早起きする。(Make sure to get up early.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>213</id>
+    <hiragana>とかす,
+とく,
+とける</hiragana>
+    <kanji>解かす,
+解く,
+解ける</kanji>
+    <def>Loosen something tight; Solve a problem; Return to an original state
+</def>
+    <reibun>結び目を解く。(Loosen a knot.) 
+紐が解ける。(The cord came loose.) 
+雪解け。(Melting snow.) 
+相手の警戒心を解かす。(Lull your opponent into a false sense of security.) 
+問題が解ける。(The problem&#x27;s solved.)
+緊張が解ける。(To relax.) 
+誤解が解ける。(The misunderstanding&#x27;s been solved.) 
+包囲を解く。(Break through the siege.) 
+会長の任を解く。(Relieve the company president of duty.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>214</id>
+    <hiragana>とかす,
+とく,
+とける</hiragana>
+    <kanji>溶かす,
+溶く,
+溶ける</kanji>
+    <def>Melt from solid to liquid; Dissolve into liquid; Unify
+</def>
+    <reibun>鉄を溶かす。(Melt metal.) 
+雪や氷が溶（解）ける。(The snow and ice are melting.) 
+チョコレートが溶ける。(The chocolate&#x27;s melting.) 
+砂糖が水に溶ける。(Dissolve sugar into water.)
+絵の具を溶かす。(Mix artist paints.) 
+小麦粉を水で溶く。(Mix flour into water.) 
+地域社会に溶け込む。(Mix in with the local culture.)</reibun>
+    <notes>For ice and snow melting, 溶 can be used for obvious reasons, or 解 can used to illustrate something firm and solid going soft
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>324</id>
+    <hiragana>ところ</hiragana>
+    <kanji>所</kanji>
+    <def>A place involving work, administration, management, etc.</def>
+    <reibun></reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>325</id>
+    <hiragana>ところ</hiragana>
+    <kanji>処</kanji>
+    <def>A place for rest and leisure</def>
+    <reibun></reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>215</id>
+    <hiragana>ととのう,
+ととのえる</hiragana>
+    <kanji>整う,
+整える</kanji>
+    <def>Get in order; Straighten up
+</def>
+    <reibun>体制が整う。(Organize a framework.) 
+整った文章。(Well-structured sentences.) 
+隊列を整える。(Organize the ranks.) 
+身辺を整える。(Get your life in order.) 
+呼吸を整える。(Steady your breathing.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>216</id>
+    <hiragana>ととのう,
+ととのえる</hiragana>
+    <kanji>調う,
+調える</kanji>
+    <def>Get together what&#x27;s necessary; Create a pleasant situation
+</def>
+    <reibun>家財道具が調う。(The furniture is well organized.) 
+旅行の支度を調える。(Make preparations for a trip.) 
+費用を調える。(Organize your expenses.) 
+味を調える。(Adjust the taste.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>217</id>
+    <hiragana>とぶ
+</hiragana>
+    <kanji>飛ぶ
+</kanji>
+    <def>Move through the air; Move far away; Be spread around; Skip over
+</def>
+    <reibun>鳥が空を飛ぶ。(Birds fly in the sky.) 
+海に飛び込む。(Jump in the ocean.) 
+アメリカに飛ぶ。(Fly to America.) 
+家を飛び出す。(Fly out of the house.) 
+デマが飛ぶ。(False rumors are spreading.)
+噂が飛ぶ。(Rumors are spreading.) 
+途中を飛ばして読む。(Skip over a portion and continue reading.) 
+飛び級。(Skip a grade.) 
+飛び石。(Stepping stones.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>218</id>
+    <hiragana>とぶ
+</hiragana>
+    <kanji>跳ぶ
+</kanji>
+    <def>Leap off the ground
+</def>
+    <reibun>溝を跳ぶ。(Jump over a ditch.) 
+三段跳び。(A hop, skip and a jump.) 
+跳び上がって喜ぶ。(Jump for joy.) 
+跳びはねる。(Leap in the air.) 
+嬉しくて跳び回る。(Twirl happily.) 
+縄跳びをする。(Jump rope.) 
+跳び箱。(Vaulting horse.)</reibun>
+    <notes>Although とび and はねる both use 跳, for legibility, usually the first word stem uses a kanji, while the suffixed word remains in hiragana
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>219</id>
+    <hiragana>とまる,
+とめる</hiragana>
+    <kanji>止まる,
+止める</kanji>
+    <def>Halt movement
+</def>
+    <reibun>交通が止まる。(Traffic has stopped.) 
+水道が止まる。(The water is turned off.) 
+小鳥が木の枝に止（留）まる。(The bird is perched on the branch.) 
+笑いが止まらない。(I can&#x27;t stop laughing.)
+息を止める。(Stop breathing.) 
+車を止める。(Stop the car.) 
+通行止め。(Road closed.) 
+止まり木。(A perch.)</reibun>
+    <notes>Using 止 would create the image of a bird coming to a rest after flying, while 留 would indicate a bird remaining perched in place.</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>220</id>
+    <hiragana>とまる,
+とめる</hiragana>
+    <kanji>留まる,
+留める</kanji>
+    <def>Become fixed in place; Remain in your senses; Stay somewhere
+</def>
+    <reibun>ピンで留める。(Pin in place.) 
+ボタンを留める。(Button a button.) 
+目に留まる。(Catch sight of.) 
+心に留める。(Bear in mind.) 
+留め置く。(Detain.) 
+局留めで送る。(Send to collections.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>221</id>
+    <hiragana>とまる,
+とめる</hiragana>
+    <kanji>泊まる,
+泊める</kanji>
+    <def>Stay overnight
+</def>
+    <reibun>宿直室に泊まる。(Stay in the night duty room.) 
+友達を家に泊める。(Have a friend stay the night.) 
+船が港に泊まる。(The boat is docked in port for the night.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>222</id>
+    <hiragana>とらえる
+</hiragana>
+    <kanji>捕える
+</kanji>
+    <def>Capture
+</def>
+    <reibun>逃げようとする犯人を捕らえる。(Catch the criminal that tried to get away.) 
+獲物の捕らえ方。(How to catch prey.) 
+密漁船を捕らえる。(Sieze a poaching vessel.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>223</id>
+    <hiragana>とらえる
+</hiragana>
+    <kanji>捉える
+</kanji>
+    <def>Grasp; Fully comprehend
+</def>
+    <reibun>文章の要点を捉える。(Grasp the main point of the writing.) 
+問題の捉え方が難しい。(A difficult to understand problem.) 
+真相を捉える。(Understand the truth.) 
+聴衆の心を捉える。(Know your audience.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>224</id>
+    <hiragana>とる
+</hiragana>
+    <kanji>取る
+</kanji>
+    <def>Take into hand; Acquire; Write down; Connect; Remove / omit</def>
+    <reibun>本を手に取る。(Pick up the book in your hand.) 
+魚を取（捕）る。(Catch a fish.) 
+資格を取る。(Get a certification.) 
+新聞を取る。(Get the newspaper.) 
+政権を取る。(Take political power.) 
+年を取る。(Grow older.) 
+メモを取る。(Take down a memo.) 
+連絡を取る。(Take a call.) 
+着物の汚れを取る。(Remove dirt from a kimono.) 
+疲れを取る。(Take a load off.) 
+痛みを取る。(Relieve your pain.)</reibun>
+    <notes>魚を取る illustrates the acquisition of a fish, while using 捕る would emphasize the successful catch.</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>225</id>
+    <hiragana>とる
+</hiragana>
+    <kanji>採る
+</kanji>
+    <def>Collect / harvest; Use; Take a vote
+</def>
+    <reibun>血を採る。(Take blood.) 
+きのこを採る。(Harvest mushrooms.) 
+指紋を採る。(Take fingerprints.) 
+新入社員を採る。(Utilize new company talent.) 
+こちらの案を採る。(Vote for this proposal.)
+会議で決を採る。(Vote on a decision at the conference.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>226</id>
+    <hiragana>とる
+</hiragana>
+    <kanji>執る
+</kanji>
+    <def>Take in your hand and use; Perform a role
+</def>
+    <reibun>筆を執る。(Take up the brush.) 
+事務を執る。(Get to work.) 
+指揮を執る。(Take charge.) 
+政務を執る。(Take a government position.) 
+式を執り行う。(Perform a ceremony.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>227</id>
+    <hiragana>とる
+</hiragana>
+    <kanji>捕る
+</kanji>
+    <def>Capture
+</def>
+    <reibun>ねずみを捕る。(Catch a mouse.) 
+鯨を捕る。(Catch a whale.) 
+外野フライを捕る。(Catch a pop fly.) 
+生け捕る。(Take someone alive.) 
+捕り物。(A capture.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>228</id>
+    <hiragana>とる
+</hiragana>
+    <kanji>撮る
+</kanji>
+    <def>Take photos / video
+</def>
+    <reibun>写真を撮る。(Take a photo.) 
+映画を撮る。(Shoot a film.) 
+ビデオカメラで撮る。(Record on camera.)</reibun>
+    <notes>撮 is the kanji in 撮影（さつえい） photography
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>229</id>
+    <hiragana>ない
+</hiragana>
+    <kanji>無い
+</kanji>
+    <def>Opposite of 有る、在る; Not in existence; Not in possession of
+</def>
+    <reibun>有ること無いこと言い触らす。(Spread rumors and lies.) 
+無くて七癖。(Everyone has their flaws.) 
+無い袖は振れぬ。(You can&#x27;t get blood from a stone.) 
+無い物ねだり。(Asking for too much.)</reibun>
+    <notes>In sentences structured as 〇〇がない, most often the hiragana is used.</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>230</id>
+    <hiragana>ない
+</hiragana>
+    <kanji>亡い
+</kanji>
+    <def>Dead and passed from this world
+</def>
+    <reibun>今は亡い人。(That person is dead.) 
+友人が亡くなる。(My friend has died.) 
+亡き父を偲ぶ。(Remember your deceased father.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>231</id>
+    <hiragana>なおす,
+なおる</hiragana>
+    <kanji>直す,
+直る</kanji>
+    <def>Return to its proper state; Replace
+</def>
+    <reibun>誤りを直す。(Fix an error.) 
+機械を直す。(Fix a machine.) 
+服装を直す。(Adjust your clothes.) 
+故障を直す。(Fix what&#x27;s broken.) 
+歪みが直る。(It&#x27;s been straightened out.) 
+仮名を漢字に直す。(Replace kana with kanji.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>232</id>
+    <hiragana>なおす,
+なおる</hiragana>
+    <kanji>治す,
+治る</kanji>
+    <def>Recover from an illness or injury
+</def>
+    <reibun>風邪を治す。(Recover from a cold.) 
+けがが治る。(The injury is healing.) 
+傷を治す。(Tend to the cut.) 
+治りにくい病気。(A serious illness.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>233</id>
+    <hiragana>なか
+</hiragana>
+    <kanji>中
+</kanji>
+    <def>Opposite of 外; Within a certain scope, area or condition; Interior
+</def>
+    <reibun>箱の中。(Inside the box.) 
+家の中。(Inside the house.) 
+クラスの中で一番足が速い。(The fastest one in class.) 
+嵐の中を帰る。(Return home in the storm.) 
+両者の中に入る。(In between them both.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>234</id>
+    <hiragana>なか
+</hiragana>
+    <kanji>仲
+</kanji>
+    <def>The relationship between two people
+</def>
+    <reibun>仲がいい。(A good relationship.) 
+仲を取り持つ。(Play matchmaker.) 
+仲たがいする。(Have a falling out.) 
+話し合って仲直りする。(Talk it over and make up.) 
+犬猿の仲。(Worst enemies.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>235</id>
+    <hiragana>ながい
+</hiragana>
+    <kanji>長い
+</kanji>
+    <def>Opposite of 短い; A large amount of length, distance or time
+</def>
+    <reibun>長い髪の毛。(Long hair.) 
+長い道。(A long road.) 
+長い年月。(Many months and years.) 
+気が長い。(Patient.) 
+枝が長く伸びる。(The branch grows long.) 
+長続きする。(Continue for a long time.)
+長い目で見る。(Look at the long term.) </reibun>
+    <notes>In terms of time, 長い expresses an objective view of time that can be specifically set and measured.
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>236</id>
+    <hiragana>ながい
+</hiragana>
+    <kanji>永い
+</kanji>
+    <def>Continuing for what feels like an eternity; Metaphorical length of time
+</def>
+    <reibun>永い眠りに就く。(Fall into an enternal sleep.) 
+永の別れ。(A final farewell.) 
+永くその名を残す。(Leave an eternal legacy.) 
+永の暇を告げる。(To inform someone of their dismissal.)
+末永（長）く契る。(Pledge forever.)</reibun>
+    <notes>永い is a more subjective view of time. It expresses the &quot;feeling&quot; of longevity or eternity.
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>237</id>
+    <hiragana>ならう
+</hiragana>
+    <kanji>習う
+</kanji>
+    <def>Learn through instruction and repeated practice
+</def>
+    <reibun>先生にピアノを習う。(Learn the piano from a teacher.) 
+英語を習う。(Learn English.) 
+習い覚えた技術。(A learned technique.) 
+習い、性と成る。(Habit becomes second nature.)
+見習う。(Observe.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>238</id>
+    <hiragana>ならう
+</hiragana>
+    <kanji>倣う
+</kanji>
+    <def>Imitate
+</def>
+    <reibun>前例に倣う。(Follow precedent.) 
+西洋に倣った法制度。(A legal system modeled after the West.) 
+先人の顰みに倣う。(Stand on the shoulders of giants.) 
+右へ倣え。(Follow the person to your right.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>239</id>
+    <hiragana>におい
+,におう</hiragana>
+    <kanji>匂い,
+匂う</kanji>
+    <def>Good smells
+</def>
+    <reibun>梅の花の匂い。(The smell of a plum blossom.) 
+香水が仄かに匂う。(The perfume gives off a faint smell.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>240</id>
+    <hiragana>におい
+,におう</hiragana>
+    <kanji>臭い,
+臭う</kanji>
+    <def>Unpleasant smells
+</def>
+    <reibun>魚の腐った臭い。(The stench of rotten fish.) 
+生ごみが臭う。(The garbage stinks.) 
+ガスが臭う。(The gas stinks.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>241</id>
+    <hiragana>のせる,
+のる</hiragana>
+    <kanji>乗せる,
+乗る</kanji>
+    <def>Get in / ride in a vehicle; Be transported; Respond to; Trick / deceive; Go with the flow
+</def>
+    <reibun>バスに乗る。(Ride the bus.) 
+タクシーに乗せて帰す。(Ride a taxi home.) 
+電車に乗って行く。(Go by train.) 
+電波に乗せる。(Send by signal.)
+風に乗って飛ぶ。(Ride the wind.) 
+時流に乗る。(Go with the times.) 
+相談に乗る。(Offer consultation.) 
+口車に乗せられる。(Buy what someone is selling.) 
+図に乗る。(Press your luck.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>242</id>
+    <hiragana>のせる,
+のる</hiragana>
+    <kanji>載せる,
+載る</kanji>
+    <def>Load; Place on top; Put up / on
+</def>
+    <reibun>自動車に荷物を載せる。(Load luggage into the car.) 
+棚に本を載せる。(Put books on the bookshelf.) 
+机に載っている本。(A book sitting on the desk.) 
+新聞に載った事件。(An article in the newspaper.)
+雑誌に広告を載せる。(Place an ad in the magazine.) 
+名簿に載る。(Listed on the roster.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>243</id>
+    <hiragana>のぞむ
+</hiragana>
+    <kanji>望む
+</kanji>
+    <def>Gaze into the distance; Hope
+</def>
+    <reibun>山頂から富士を望む。(Gaze at Fuji from the mountaintop.) 
+世界の平和を望む。(Hope for world peace.) 
+自重を望む。(Have self respect.) 
+多くは望まない。(I have all I need.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>244</id>
+    <hiragana>のぞむ
+</hiragana>
+    <kanji>臨む
+</kanji>
+    <def>Face a direction / an object; Participate
+</def>
+    <reibun>海に臨む部屋。(A room that overlooks the ocean.) 
+式典に臨む。(Join a ceremony.) 
+試合に臨む。(Enter a match.) 
+厳罰をもって臨む。(Go in looking at a harsh punishment.) 
+難局に臨む。(Face a crisis.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>245</id>
+    <hiragana>のばす,
+のびる,
+のべる</hiragana>
+    <kanji>伸ばす,
+伸びる,
+伸べる</kanji>
+    <def>Straighten; Increase; Lengthen; Hold outward
+</def>
+    <reibun>手足を伸ばす。(Stretch out your arms and legs.) 
+旅先で羽を伸ばす。(Let loose on a trip.) 
+伸び伸びと育つ。(Raise a child in a laid back manner.) 
+勢力を伸ばす。(Extend your influence.) 
+輸出が伸びる。(Exports are rising.) 
+学力が伸びる。(His academic skill is increasing.) 
+草が伸びる。(The grass is growing.) 
+身長が伸びる。(He&#x27;s getting tall.) 
+救いの手を差し伸べる。(Offer a helping hand.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>246</id>
+    <hiragana>のばす,
+のびる,
+のべる</hiragana>
+    <kanji>延ばす,
+延びる,
+延べる</kanji>
+    <def>Push back timewise; Tie together and extend; Cumulative; Widen / spread
+</def>
+    <reibun>出発を延ばす。(Push back your departure.) 
+開会を延ばす。(Push back opening time.) 
+支払いが延び延びになる。(Payment is overdue.) 
+地下鉄が郊外まで延びる。(The subway extends back to the city limits.) 
+寿命が延びる。(Increase your lifespan.) 
+終了時間が予定より１０分延びた。(Closing time was 10 minutes later than planned.) 
+延べ１万人の観客。(10,000 customers served.) 
+金の延べ棒。(A gold bar.) </reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>247</id>
+    <hiragana>のぼる
+</hiragana>
+    <kanji>上る
+</kanji>
+    <def>Opposite of 下る; Go upwards; Reach / achieve; Be a topic of discussion
+</def>
+    <reibun>階段を上る。(Climb the stairs.) 
+坂を上る。(Climb a hill.) 
+川を上る。(Go up the river.) 
+出世コースを上る。(Go on the road to success.) 
+上り列車。(Inbound train.)
+損害が１億円に上る。(Damages reach upwards of 100 million yen.) 
+話題に上る。(Be the topic of discussion.) 
+噂に上る。(Be the subject of rumors.) 
+食卓に上る。(Come to the dinner table.)</reibun>
+    <notes>上る is the most general of the 3 for expressing upward movement.
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>248</id>
+    <hiragana>のぼる
+</hiragana>
+    <kanji>登る
+</kanji>
+    <def>Reach a high location through one&#x27;s own effort
+</def>
+    <reibun>山に登る。(Climb a mountain.) 
+木に登る。(Climb a tree.) 
+演壇に登る。(Come to the podium.) 
+崖を攀じ登る。(Scale a cliff.) 
+富士山の登り口。(The entrance to the Mt. Fuji climbing path.)</reibun>
+    <notes>登る emphasizes the effort of surmounting a sharp incline, like a hill or mountain, step by step.
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>249</id>
+    <hiragana>のぼる
+</hiragana>
+    <kanji>昇る
+</kanji>
+    <def>Opposite of 降りる and 沈む; Rise upwards all at once
+</def>
+    <reibun>エレベーターで昇る。(Ride an elevator.) 
+日が昇（上）る。(The sun is rising.) 
+天に昇（上）る。(Rise to heaven.) 
+高い位に昇る。(Rise up the ranks.)</reibun>
+    <notes>昇る is for things that move upward in a single action
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>250</id>
+    <hiragana>はえ,
+はえる</hiragana>
+    <kanji>映え,
+映える</kanji>
+    <def>Reflect light; Stand out against a background
+</def>
+    <reibun>夕映え。(Sunset glow.) 
+紅葉が夕日に映える。(The sunset reflects off the crimson leaves.) 
+紺のスーツに赤のネクタイが映える。(The red necktie stands out against the navy blue suit.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>251</id>
+    <hiragana>はえ,
+はえる</hiragana>
+    <kanji>栄え,
+栄える</kanji>
+    <def>Feel splendid; Stand out
+</def>
+    <reibun>栄えある勝利。(A splendid victory.) 
+見事な出来栄え。(An amazing feat.) 
+見栄えがする。(Act pretentious.) 
+栄えない役回り。(A menial role.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>252</id>
+    <hiragana>はかる
+</hiragana>
+    <kanji>図る
+</kanji>
+    <def>Plan to realize some goal</def>
+    <reibun>合理化を図る。(Plan a restructuring.) 
+解決を図る。(Plan out a solution.) 
+身の安全を図る。(Plan for personal safety.) 
+再起を図る。(Plan a comeback.) 
+局面の打開を図る。(Plan for a breakthrough.)
+便宜を図る。(Accommodate.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>253</id>
+    <hiragana>はかる
+</hiragana>
+    <kanji>計る
+</kanji>
+    <def>Count time or numbers; Think over</def>
+    <reibun>時間を計る。(Keep time.) 
+計り知れない恩恵。(Immeasurable kindness.) 
+タイミングを計る。(Measure the timing.) 
+頃合いを計って発言する。(Wait for the right change and interject.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>254</id>
+    <hiragana>はかる
+</hiragana>
+    <kanji>測る
+</kanji>
+    <def>Measure length, height, depth, width or level; Estimate</def>
+    <reibun>距離を測る。(Measure the distance.) 
+標高を測る。(Measure the elevation.) 
+身長を測る。(Measure your height.) 
+水深を測る。(Measure the depth.) 
+面積を測る。(Measure the area.) 
+血圧を測る。(Take blood pressure.)
+温度を測る。(Take temperature.) 
+運動能力を測る。(Measure physical ability.) 
+測定器で測る。(Measure with instruments.) 
+真意を測りかねる。(You can&#x27;t measure the truth.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>255</id>
+    <hiragana>はかる
+</hiragana>
+    <kanji>量る
+</kanji>
+    <def>Measure weight or volume; Make a guess</def>
+    <reibun>重さを量る。(Weigh something.) 
+体重を量る。(Weigh yourself.) 
+立体の体積を量る。(Measure the area of a 3D object.) 
+容量を量る。(Measure the volume.) 
+心中を推し量る。(Try to guess what someone&#x27;s thinking.)</reibun>
+    <notes>If body weight and height are taken together as a series of measurements, such as at the doctor, the more general 計る is used.</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>256</id>
+    <hiragana>はかる
+</hiragana>
+    <kanji>謀る
+</kanji>
+    <def>Craft a sinister plot</def>
+    <reibun>暗殺を謀る。(Plot an assassination.) 
+悪事を謀る。(Plot a crime.) 
+会社の乗っ取りを謀る。(Plot a corporate takeover.) 
+競争相手の失脚を謀る。(Plan to sabotage your opponent.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>257</id>
+    <hiragana>はかる
+</hiragana>
+    <kanji>諮る
+</kanji>
+    <def>Ask for an opinion on some matter</def>
+    <reibun>審議会に諮る。(Inquire to the commision.) 
+議案を委員会に諮る。(Inquire to the committee about the proposal.) 
+役員会に諮って決める。(Ask the board of directors for a decision.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>258</id>
+    <hiragana>はじまる,
+はじめる</hiragana>
+    <kanji>初め,
+初めて</kanji>
+    <def>The early stages of something; The beginning; The first
+</def>
+    <reibun>初めはこう思った。(This is what I thought I first.) 
+秋の初め。(The beginning of Fall.) 
+年の初め。(The beginning of the year.) 
+初めて聞いた話。(That&#x27;s news to me.) 
+初めてお目に掛かる。(The first time you lay eyes on something.)
+初めての経験。(The first experience.) 
+初めからやり直す。(Start over from scratch.) 
+初めの曲の方がいい。(The first song was better.)</reibun>
+    <notes>This is the kanji used in the greeting 初めまして.</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>259</id>
+    <hiragana>はじまる,
+はじめる</hiragana>
+    <kanji>始まる,
+始め,
+始める</kanji>
+    <def>Start / begin; The very first stage; The start of something; The key player
+</def>
+    <reibun>懇親会が始まる。(The get-together is beginning.) 
+仕事を始める。(Start work.) 
+書き始める。(Start writing.) 
+手始め。(The beginning.) 
+仕事始め。(The start of work.) 
+始めと終わり。(The beginning and the end.)
+国の始め。(The birth of a country.) 
+人類の始め。(The start of humanity.) </reibun>
+    <notes>In a sentence like 校長を始め，教職員一同……。 (To the principal and all instructors…) 始め indicates the key player among a group.</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>260</id>
+    <hiragana>はな
+</hiragana>
+    <kanji>花
+</kanji>
+    <def>A flower; Something that grabs attention like a flower
+</def>
+    <reibun>花が咲く。(The flowers are blooming.) 
+花を生ける。(Arrange flowers.) 
+花も実もない。(Ugly both inside and out.) 
+花道を飾る。(Decorate with flower arrangements.) 
+両手に花。(A lady on each arm.) 
+花の都。(A beautiful city.) 
+花形。(Flower-shaped.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>261</id>
+    <hiragana>はな
+</hiragana>
+    <kanji>華
+</kanji>
+    <def>Used to compare things to flowers metaphorically; Indicates a part best representative of the whole
+</def>
+    <reibun>華やかに着飾る。(Dress gorgeously.) 
+華やかに笑う。(Smile beautifully.) 
+華々しい生涯。(A wonderful life.) 
+国風文化の華。(A shining example of a country&#x27;s culture.) 
+武士道の華。(The epitome of chilvalry.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>262</id>
+    <hiragana>はなす,
+はなれる</hiragana>
+    <kanji>離す,
+離れる</kanji>
+    <def>Widen the space or gap between things; Get away from
+</def>
+    <reibun>間を離す。(Widen the space.) 
+ハンドルから手を離す。(Let go of the handle.) 
+切り離す。(Cut loose.) 
+駅から遠く離れた町。(A town far from the station.) 
+離れ島。(A faraway island.)
+離れ離れになる。(Become separated.) 
+戦列を離れる。(Break ranks.) 
+職を離れる。(Leave work.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>263</id>
+    <hiragana>はなす,
+はなれる</hiragana>
+    <kanji>放す,
+放れる</kanji>
+    <def>Break free of restrictions or a fixed state; Release
+</def>
+    <reibun>鳥を放す。(Release a bird.) 
+魚を川に放す。(Release a fish into the river.) 
+違法駐車を野放しにする。(Leave illegal parking unregulated.) 
+放し飼い。(Free-range breeding.) 
+手放しで褒める。(Shower with praise.)
+矢が弦を放れる。(Let an arrow fly from the bowstring.) 
+見放す。(Abandon.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>264</id>
+    <hiragana>はやい,
+はやまる,
+はやめる</hiragana>
+    <kanji>早い,
+早まる,
+早める</kanji>
+    <def>Early; A short amount of time; Ahead of schedule
+</def>
+    <reibun>時期が早い。(It&#x27;s early.) 
+早く起きる。(Wake up early.) 
+気が早い。(Hasty.) 
+早変わり。(A quick change.) 
+早口。(A fast talker.) 
+矢継ぎ早。(Rapid succession.) 
+早まった行動。(A rash action.) 
+順番が早まる。(Your turn&#x27;s coming early.) 
+出発時間が早まる。(Departure time&#x27;s being moved up.) 
+開会の時刻を早める。(Move up the opening time.)</reibun>
+    <notes>This is the kanji in お早うございます though you&#x27;ll pretty much always see it in hiragana.</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>265</id>
+    <hiragana>はやい,
+はやまる,
+はやめる</hiragana>
+    <kanji>速い,
+速まる,
+速める</kanji>
+    <def>Having speed; Accelerating
+</def>
+    <reibun>流れが速い。(The current is fast.) 
+投手の球が速い。(The pitcher has a fast arm.) 
+テンポが速い。(The tempo is quick.) 
+改革のスピードが速まる。(The speed of reforms is increasing.) 
+回転を速める。(Speed up the revolving.) 
+脈拍が速まる。(The pulse is increasing.) 
+足を速める。(Pick up the pace.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>266</id>
+    <hiragana>はる
+</hiragana>
+    <kanji>張る
+</kanji>
+    <def>Be spread around; Be tightened; Set up; Push through
+</def>
+    <reibun>氷が張る。(Ice is forming.) 
+根が張る。(Roots are spreading.) 
+策略を張り巡らす。(Lay out a strategy.) 
+気が張る。(Stay alert and on guard.) 
+張りのある声。(A powerful voice.) 
+テントを張る。(Pitch a tent.)
+テニスのネットを張る。(Put up a tennis net.) 
+板張りの床。(A wooden floor.) 
+論陣を張る。(Lay out an argument.) 
+強情を張る。(Insist.) 
+片意地を張る。(Act stubborn.)</reibun>
+    <notes>POST NO BILLS signs seem to have no rhyme or reason to their kanji usage. You may see 張紙禁止 or 貼紙禁止 or はり紙禁止 depending on the sign maker, time it was made, etc.</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>267</id>
+    <hiragana>はる
+</hiragana>
+    <kanji>貼る
+</kanji>
+    <def>Stick to a surface using an adhesive
+</def>
+    <reibun>ポスターを貼る。(Hang a poster.) 
+切手を貼り付ける。(Attach a stamp.) 
+貼り紙。(A posted flier.) 
+貼り薬。(An adhesive patch.) 
+壁にタイルを貼（張）る。(Attach tiles to a wall.)</reibun>
+    <notes>For tile-laying, 貼る expresses the act of attaching via adhesive, but 張る is also acceptable, expressing the act of spreading tiles across a surface
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>268</id>
+    <hiragana>ひく
+</hiragana>
+    <kanji>引く
+</kanji>
+    <def>Pull closer; Draw a line; Reference; Withdraw from; Draw attention
+</def>
+    <reibun>綱を引く。(Pull in a net.) 
+水道を引く。(Get water service installed.) 
+田に水を引く。(Draw water to your field.) 
+引き金を引く。(Pull the trigger.) 
+風邪を引く。(Catch a cold.) 
+罫線を引く。(Draw ruled lines.) 
+設計図を引く。(Draw blueprints.) 
+辞書を引く。(Check the dictionary.) 
+例を引く。(Pull an example.) 
+身を引く。(Back out / resign.) 
+人目を引く。(Draw attention.) 
+同情を引く。(Draw sympathy.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>269</id>
+    <hiragana>ひく
+</hiragana>
+    <kanji>弾く
+</kanji>
+    <def>Play a stringed instrument or keyboard
+</def>
+    <reibun>ピアノを弾く。(Play the piano.) 
+バイオリンを弾く。(Play the violin.) 
+ショパンの曲を弾く。(Play Chopin.) 
+ギターの弾き語り。(Sing and play the guitar.) 
+弾き手。(A guitar player.) </reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>270</id>
+    <hiragana>ふえる,
+ふやす</hiragana>
+    <kanji>増える,
+増やす</kanji>
+    <def>Opposite of 減る・減らす; Increase in number or amount
+</def>
+    <reibun>人数が増える。(The number of people is increasing.) 
+体重が増える。(Body weight is increasing.) 
+出費が増える。(Expenses are increasing.) 
+資本金を増やす。(Increase capital.) 
+仲間を増やす。(Get more friends.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>271</id>
+    <hiragana>ふえる,
+ふやす</hiragana>
+    <kanji>殖える,
+殖やす</kanji>
+    <def>Increase wealth, assets / Increase in animal or plant population
+</def>
+    <reibun>資産が殖える。(Wealth is increasing.) 
+財産を殖やす。(Increase assets.) 
+鼠が殖える。(The mouse population is increasing.) 
+家畜を殖やす。(Livestock are increasing.) 
+株分けで殖やす。(Cultivate plants using bulbs from mother plant.)</reibun>
+    <notes>These sentences use 殖 as they relate to terms such as 利殖(りしょく money-making) and 繁殖(はんしょく breeding). However, 増 is still acceptable, and for simplicity&#x27;s sake, is most often used.
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>272</id>
+    <hiragana>ふく
+</hiragana>
+    <kanji>吹く
+</kanji>
+    <def>Push forth air; Breathe out; Visibly manifest</def>
+    <reibun>そよ風が吹く。(A gentle breeze blows.) 
+口笛を吹く。(Whistle.) 
+鯨が潮を吹（噴）く。(The whale spouts sea water.) 
+干し柿が粉を吹く。(Powder is coming off the dried persimmons.) 
+吹き出物。(Acne.) 
+不満が吹（噴）き出す。(Look dissatisfied.) 
+汗が吹（噴）き出る。(Sweat profusely.)</reibun>
+    <notes>For a whale spouting sea water, 吹 is used in the sense that a whale is blowing air and the seawater comes with it. 噴く would also be acceptable in the sense that great amounts of air and water come from within the whale&#x27;s body.
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>273</id>
+    <hiragana>ふく
+</hiragana>
+    <kanji>噴く
+</kanji>
+    <def>Discharging air or liquid in copious amounts
+</def>
+    <reibun>火山が煙を噴く。(The volcano is bellowing forth smoke.) 
+エンジンが火を噴く。(The engine is belching fire.) 
+石油が噴き出す。(Oil is spurting forth.) 
+火山灰を噴き上げる。(The volcano is spouting ash.) </reibun>
+    <notes>For emotion or sweat showing on one&#x27;s face, 吹く is the more general kanji, while 噴く would express greater severity.
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>274</id>
+    <hiragana>ふける
+</hiragana>
+    <kanji>更ける
+</kanji>
+    <def>Deepen
+</def>
+    <reibun>深々と夜が更ける。(The night grows late.) 
+秋が更ける。(It&#x27;s getting late into Fall.) 
+夜更かしする。(Stay up late.) </reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>275</id>
+    <hiragana>ふける
+</hiragana>
+    <kanji>老ける
+</kanji>
+    <def>Grow older
+</def>
+    <reibun>年の割には老けて見える。(You look old for your age.) 
+老け込む。(Get older.) 
+この１，２年で急に老けた。(You really aged these past few years.) </reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>276</id>
+    <hiragana>ふね
+</hiragana>
+    <kanji>船
+</kanji>
+    <def>A relatively large sea vessel
+</def>
+    <reibun>船の甲板。(The ship deck.) 
+船で帰国する。(Return home by ship.) 
+船旅。(A sea cruise.) 
+親船。(A mother ship.) 
+船乗り。(Sailing.) 
+船賃。(Ship fare.) 
+船荷。(Freight.) 
+船会社。(A boating company.) 
+船出。(Setting sail.) 
+船酔い。(Seasickness.) 
+釣り船（舟）。(A fishing vessel.) 
+渡し船（舟）。(A ferry.)</reibun>
+    <notes>船 represents a large-scale ship, and although there are a few cases here where 舟 is also OK, 船 is the most widely used.
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>277</id>
+    <hiragana>ふね
+</hiragana>
+    <kanji>舟
+</kanji>
+    <def>A relatively small or simple boat
+</def>
+    <reibun>舟を漕ぐ。(Row a boat.) 
+小舟。(A small boat.) 
+笹舟。(A toy bamboo boat.) 
+丸木舟。(A canoe.) 
+助け舟（船）を出す。(Send out a lifeboat.)</reibun>
+    <notes>舟 more specifically also represents a boat that doesn&#x27;t power itself. Also, 舟 is used in metaphorical cases, such as 助け舟 as in &quot;help from a friend.&quot;
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>278</id>
+    <hiragana>ふるう
+</hiragana>
+    <kanji>振るう
+</kanji>
+    <def>Get active and enthusiatic; Move with great momentum
+</def>
+    <reibun>士気が振るう。(Show guts.) 
+事業が振るわない。(The project&#x27;s in a slump.) 
+熱弁を振るう。(Give a passionate speech.) 
+権力を振るう。(Throw your weight around.) </reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>279</id>
+    <hiragana>ふるう
+</hiragana>
+    <kanji>震う
+</kanji>
+    <def>Shake repeatedly
+</def>
+    <reibun>声を震わせる。(Have your voice shaking with emotion.) 
+決戦を前に武者震いする。(The warriors tremble with excitement as the battle approaches.) 
+思わず身震いする。(Start shaking suddenly.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>280</id>
+    <hiragana>ふるう
+</hiragana>
+    <kanji>奮う
+</kanji>
+    <def>Flow with energy
+</def>
+    <reibun>勇気を奮って立ち向かう。(Muster your courage and go forward.) 
+奮って御参加ください。(Jump in and have fun.) 
+奮い立つ。(Leap up.) 
+奮い起こす。(Muster your strength / courage.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>281</id>
+    <hiragana>ほか
+</hiragana>
+    <kanji>外
+</kanji>
+    <def>Outside a scope / area
+</def>
+    <reibun>思いの外うまく事が運んだ。(Things went better than I expected.) 
+想像の外の事件が起こる。(An unbelievable situation is unfolding.) 
+もっての外。(Unthinkable.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>282</id>
+    <hiragana>ほか
+</hiragana>
+    <kanji>他
+</kanji>
+    <def>Something different; Something else
+</def>
+    <reibun>他の仕事を探す。(Look for other work.) 
+この他に用意するものはない。(There&#x27;s nothing else you need to prepare.) 
+他の人にも尋ねる。(Ask someone else as well.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>283</id>
+    <hiragana>まざる,
+まじる,
+まぜる</hiragana>
+    <kanji>交ざる,
+交じる,
+交ぜる</kanji>
+    <def>Mixed together in a way such that you can still identify the individual elements
+</def>
+    <reibun>芝生に雑草が交ざっている。(Weeds are growing all over the lawn.) 
+漢字仮名交じり文。(A sentence written with kana and kanji.) 
+交ぜ織り。(A mixed weave.) 
+カードを交ぜる。(Shuffle cards.)
+白髪交じり。(Greying hair.) 
+子供たちに交ざって遊ぶ。(The children play together.) 
+小雨交じりの天気。(Drizzly weather.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>284</id>
+    <hiragana>まざる,
+まじる,
+まぜる</hiragana>
+    <kanji>混ざる,
+混じる,
+混ぜる</kanji>
+    <def>Mixed together in a way such that the original elements become indiscernable
+</def>
+    <reibun>酒に水が混ざる。(Alcohol mixed with water.) 
+異物が混じる。(Some foreign substance is mixed in.) 
+雑音が混じる。(Loud noises mixed together.) 
+コーヒーにミルクを混ぜる。(Mix milk into coffee.)
+セメントに砂を混ぜる。(Mix sand into cement.)
+ 絵の具を混ぜる。(Mix paints.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>285</id>
+    <hiragana>まち
+</hiragana>
+    <kanji>町
+</kanji>
+    <def>A district with boundaries as determined by the government
+</def>
+    <reibun>町と村。(Towns and villages.) 
+○○町。(〇〇 town.) 
+町役場。(Town hall.) 
+町ぐるみの歓迎。(A town-wide welcome.) 
+城下町。(A castle town.) 
+下町。(Downtown.) 
+町外れ。(Outside town.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>286</id>
+    <hiragana>まち
+</hiragana>
+    <kanji>街
+</kanji>
+    <def>The downtown area; Bustling city streets
+</def>
+    <reibun>街を吹く風。(A wind blowing through the streets.) 
+学生の街。(The student&#x27;s quarter.) 
+街の明かりが恋しい。(The streets look lovely all lit up.) 
+街の声。(Word on the street.) 
+街角に立つ。(Stand on the street corner.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>287</id>
+    <hiragana>まるい
+</hiragana>
+    <kanji>丸い
+</kanji>
+    <def>Spherical; Without corners; Peacefully
+</def>
+    <reibun>丸いボール。(A round ball.) 
+地球は丸い。(The Earth is round.) 
+背中が丸くなる。(The spine is curved.) 
+角を丸く削る。(Round out the corners.) 
+丸く収める。(Settle peacefully.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>288</id>
+    <hiragana>まるい
+</hiragana>
+    <kanji>円い
+</kanji>
+    <def>Circular; Complete; Amicable</def>
+    <reibun>円（丸）い窓。(A round window.) 
+円（丸）いテーブル。(A round table.) 
+円（丸）く輪になる。(Form a circle.) 
+円い人柄。(An amicable personality.)</reibun>
+    <notes>Recently, 丸い is most often used regarding physical shapes, regardless of whether it&#x27;s a circle or sphere.
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>289</id>
+    <hiragana>まわり
+</hiragana>
+    <kanji>回り
+</kanji>
+    <def>Rotation; Around oneself; A cylindrical perimeter
+</def>
+    <reibun>モーターの回りが悪い。(This motor doesn&#x27;t run well.) 
+回り舞台。(A revolving stage.) 
+時計回り。(Clockwise.) 
+身の回り。(Within reach.) 
+胴回り。(Waist measurement.) 
+首回り。(Around the neck.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>290</id>
+    <hiragana>まわり
+</hiragana>
+    <kanji>周り
+</kanji>
+    <def>Surroundings; A perimeter or circumference
+</def>
+    <reibun>池の周り。(Around the lake.) 
+周りの人。(The surrounding people.) 
+周りの目が気になる。(Be people looking at you.) 
+学校の周りには自然が残っている。(A lot of natural scenery remains around the school.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>291</id>
+    <hiragana>みる
+</hiragana>
+    <kanji>見る
+</kanji>
+    <def>View; Look at; Tend to
+</def>
+    <reibun>遠くの景色を見る。(View the distant scenery.) 
+エンジンの調子を見る。(Check the engine.) 
+顔色を見る。(Check your complexion.) 
+面倒を見る。(Tend to something.) 
+親を見る。(Take care of a parent.)</reibun>
+    <notes>Most general option. Using this or hiragana in most cases is perfectly fine.</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>292</id>
+    <hiragana>みる
+</hiragana>
+    <kanji>観る</kanji>
+    <def>Watch; Spectate</def>
+    <reibun>映画を観る。(Watch a movie.)Ｗ杯決勝戦を観る。(Watch the World Cup finals.)</reibun>
+    <notes>Used for actively watching a show, event or performance.</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>293</id>
+    <hiragana>みる
+</hiragana>
+    <kanji>視る</kanji>
+    <def>Examine; Investigate</def>
+    <reibun>殺人事件の現場を視る。(Look over the crime scene.)</reibun>
+    <notes>Not a general-use reading for this kanji and so often ignored in favor of 見る or みる.</notes>
+    <jogai>1</jogai>
+  </row>
+  <row>
+    <id>294</id>
+    <hiragana>みる
+</hiragana>
+    <kanji>診る
+</kanji>
+    <def>Examine (from a medical or clinical standpoint)</def>
+    <reibun>患者を診る。(Examine the patient.) 
+脈を診る。(Take a pulse.) 
+胃カメラで診る。(Examine using an endoscope.) 
+医者に診てもらう。(See the doctor.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>295</id>
+    <hiragana>もと
+</hiragana>
+    <kanji>下
+</kanji>
+    <def>Under the influence of control of something; Having a certain status or condition; The area immediately underneath something
+</def>
+    <reibun>法の下に平等。(All are equal under the law.) 
+ある条件の下で成立する。(Arrange under certain conditions.) 
+一撃の下に倒した。(Defeat with a single blow.) 
+花の下で遊ぶ。(Play under the flowers.)
+真実を白日の下に晒す。(Bring the truth to light.) 
+灯台下暗し。(A lantern cannot illuminate its own base.) 
+足下（元）が悪い。(Watch your step.)</reibun>
+    <notes>For あしもと, 足下 would be the area directly underfoot, while 足元 could be used to illustrate the general vicinity of where one is walking.
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>296</id>
+    <hiragana>もと
+</hiragana>
+    <kanji>元
+</kanji>
+    <def>The source or origin; Previous; Nearby area; Funds</def>
+    <reibun>口は災いの元。(Out of the mouth comes evil.) 
+過労が元で入院する。(Be hospitalized due to overwork.) 
+火の元。(The source of a fire.) 
+家元。(The head of a family / school.) 
+出版元。(A publisher.) 
+元の住所。(Your old address.) 
+元首相。(An ex-Prime Minister.) 
+親元に帰る。(Return home to your parents.) 
+手元に置く。(Place within reach.) 
+お膝元。(Under protection.) 
+元が掛かる。(Expensive.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>297</id>
+    <hiragana>もと
+</hiragana>
+    <kanji>本
+</kanji>
+    <def>Opposite of 末; The root of something</def>
+    <reibun>生活の本を正す。(Get your life in order.) 
+本を絶つ必要がある。(You need to address the root of the problem.) 
+本を尋ねる。(Look to the source.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>298</id>
+    <hiragana>もと
+</hiragana>
+    <kanji>基
+</kanji>
+    <def>The foundation / platform / basis
+</def>
+    <reibun>資料を基にする。(Base it on the documents.) 
+詳細なデータを基に判断する。(Make a determination based on detailed data.) 
+これまでの経験に基づく。(Draw from past experience.) </reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>299</id>
+    <hiragana>や
+</hiragana>
+    <kanji>屋
+</kanji>
+    <def>A building or place of business; A store name; A character trait
+</def>
+    <reibun>長屋に住む。(Live in a row house.) 
+小屋。(A shed.) 
+屋敷。(An estate.) 
+酒屋。(A liquor store.) 
+八百屋。(A grocer.) 
+三河屋。(Mikawaya supermarket.) 
+音羽屋。(Otowaya family.) 
+頑張り屋。(A hard worker.) 
+照れ屋。(A shy person.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>300</id>
+    <hiragana>や
+</hiragana>
+    <kanji>家
+</kanji>
+    <def>A dwelling
+</def>
+    <reibun>貸家を探す。(Look for a rental home.) 
+狭いながらも楽しい我が家。(Be it ever so humble, there&#x27;s no place like home.) 
+借家住まいをする。(Live in a rented home.) 
+家主。(A homeowner.) 
+家賃。(Rent.) 
+空き家。(An empty house.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>301</id>
+    <hiragana>やさしい
+</hiragana>
+    <kanji>優しい
+</kanji>
+    <def>Having empathy; Kind / gentle; Dignified
+</def>
+    <reibun>優しい言葉を掛ける。(Give kind words.) 
+誰にも優しく接する。(Be nice to everyone.) 
+気立ての優しい少年。(A kind-hearted young man.) 
+物腰が優しい。(Well mannered.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>302</id>
+    <hiragana>やさしい
+</hiragana>
+    <kanji>易しい
+</kanji>
+    <def>Opposite of 難しい
+</def>
+    <reibun>易しい問題が多い。(There are many easy problems.) 
+誰にでもできる易しい仕事。(Work that anyone could do.) 
+易しく説明する。(Give a simple explanation.) 
+易しい読み物。(Light reading.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>303</id>
+    <hiragana>やぶれる
+</hiragana>
+    <kanji>破れる
+</kanji>
+    <def>Break and fall apart; Be damaged
+</def>
+    <reibun>障子が破れる。(The sliding door is broken.) 
+破れた靴下。(Torn socks.) 
+均衡が破れる。(Unbalanced.) 
+静寂が破れる。(The silence is broken.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>304</id>
+    <hiragana>やぶれる
+</hiragana>
+    <kanji>敗れる
+</kanji>
+    <def>Lose
+</def>
+    <reibun>大会の初戦で敗れる。(Lose the first match of the tournament.) 
+勝負に敗れる。(Lose the match.) 
+人生に敗れる。(Fail at life.) 
+選挙に敗れる。(Lose the election.) 
+敗れ去る。(Fail.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>305</id>
+    <hiragana>やわらかい</hiragana>
+    <kanji>柔らかい,
+柔らかだ</kanji>
+    <def>Fluffly; Elastic; Gentle
+</def>
+    <reibun>柔らかい毛布。(A soft blanket.) 
+身のこなしが柔らかだ。(A flexible body.) 
+頭が柔らかい。(A flexible mind.) 
+柔らかな物腰の人物。(A gentle person.)
+物柔らかな態度。(Mild-mannered.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>306</id>
+    <hiragana>やわらかい</hiragana>
+    <kanji>軟らかい,
+軟らかだ</kanji>
+    <def>Opposite of 硬い; Offering little resistance to touch; Easy to chew; Not tense or firm
+</def>
+    <reibun>軟らかい肉。(Tender meat.) 
+軟らかな土。(Soft soil.) 
+地盤が軟らかい。(The ground is soft.) 
+軟らかく煮た大根。(Soft-boiled Japanese radish.) 
+軟らかい表現。(A gentle expression.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>307</id>
+    <hiragana>よ
+</hiragana>
+    <kanji>世
+</kanji>
+    <def>The world during a certain period
+</def>
+    <reibun>明治の世。(The time of Meiji.) 
+世の中が騒然とする。(The times are hectic.) 
+この世のものとは思えない美しさ。(Beauty that is out of this world.) 
+世渡り。(Surviving out in the world.)
+世が世ならば。(If the world were fair…)</reibun>
+    <notes>明治の世 references the state of things during the Meiji Era.
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>308</id>
+    <hiragana>よ
+</hiragana>
+    <kanji>代
+</kanji>
+    <def>An era or period of rule</def>
+    <reibun>明治の代。(The Meiji era.) 
+２６０年続いた徳川の代。(Tokugawa&#x27;s era lasted 260 years.) 
+武家の代。(An era of miltary rule.)</reibun>
+    <notes>明治の代 references the period of time during which the Emperor Meiji ruled.
+</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>309</id>
+    <hiragana>よい
+</hiragana>
+    <kanji>良い
+</kanji>
+    <def>Superior; Favorable
+</def>
+    <reibun>品質が良い。(Good quality.) 
+成績が良い。(Good grades.) 
+手際が良い。(This handles well.) 
+発音が良い。(Good pronunciation.) 
+今のは良い質問だ。(That&#x27;s a good question.) 
+感じが良い。(This feels good.) 
+気立てが良い。(Well mannered.) 
+仲間受けが良い。(A social butterfly.) 
+良い習慣を身に付ける。(Make good habits.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>310</id>
+    <hiragana>よい
+</hiragana>
+    <kanji>善い
+</kanji>
+    <def>Virtuous
+</def>
+    <reibun>善い行い。(Virtuous deeds.) 
+世の中のために善いことをする。(Do good in the world.) 
+人に親切にするのは善いことである。(Kindness is a virtue.) </reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>311</id>
+    <hiragana>よむ
+</hiragana>
+    <kanji>読む
+</kanji>
+    <def>Read aloud; Understand content; Make a guess
+</def>
+    <reibun>大きな声で読む。(Read in a loud voice.) 
+子供に読んで聞かせる。(Read to children.) 
+秒読み。(A countdown.) 
+この本は小学生が読むには難しい。(This book is difficult for elementary school students.)
+人の心を読む。(Try to read someone&#x27;s emotions.) 
+手の内を読む。(See through someone&#x27;s scheme.) 
+読みが浅い。(Poor insight.) 
+読みが外れる。(Misread.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>312</id>
+    <hiragana>よむ
+</hiragana>
+    <kanji>詠む
+</kanji>
+    <def>Compose a song or poem
+</def>
+    <reibun>和歌や俳句を詠む。(Compose a Japanese song or haiku.) 
+一首詠む。(Compose a poem.) 
+歌に詠まれた名所。(The site a famous song was composed.) 
+題に合わせて詠む。(Compose a song on a topic.) </reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>313</id>
+    <hiragana>わかる</hiragana>
+    <kanji>分かる</kanji>
+    <def>General understanding</def>
+    <reibun>分かりました。(Understood.)彼の行方が分からない。(I don&#x27;t know where he went.)</reibun>
+    <notes>The most general option. Using this or hiragana is safe in almost all cases.</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>314</id>
+    <hiragana>わかる</hiragana>
+    <kanji>解る</kanji>
+    <def>Comprehension of something complicated</def>
+    <reibun>次元転移装置の設計図が解る。(Understand the blueprints for a Flux Capacitor.)</reibun>
+    <notes>The kanji literally illustrates the dissection and separation into parts of an ox. Think of it as an analytical understanding of the nitty-gitty details.</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>315</id>
+    <hiragana>わかる</hiragana>
+    <kanji>判る</kanji>
+    <def>Ability to clearly judge / determine</def>
+    <reibun>彼の表情で結果が判る。(I can tell the result by the look on his face.)</reibun>
+    <notes>Found in compounds like 判断・審判 meaning &quot;judgement,&quot; the kanji depicts cutting刂 something in half半 and judging good from bad.</notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>316</id>
+    <hiragana>わかれる
+</hiragana>
+    <kanji>分かれる
+</kanji>
+    <def>One thing separating into multiple things; Becoming different or separate
+</def>
+    <reibun>道が二つに分かれる。(The road forks in two.) 
+敵と味方に分かれる。(Separate into enemies and allies.) 
+人生の分かれ道。(A crossroads in life.) 
+勝敗の分かれ目。(The point that determines victory or defeat.) 
+意見が分かれる。(A difference of opinion.) 
+評価が分かれる。(The reviews are mixed.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>317</id>
+    <hiragana>わかれる
+</hiragana>
+    <kanji>別れる
+</kanji>
+    <def>A separation of people who were together
+</def>
+    <reibun>幼い時に両親と別れる。(Become separated from your parents at a young age.) 
+家族と別れて住む。(Leave your family to live alone.) 
+喧嘩別れになる。(Break up over a fight.) 
+物別れに終わる。(End without a solution.) </reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>318</id>
+    <hiragana>わく
+</hiragana>
+    <kanji>沸く
+</kanji>
+    <def>Water heating up and boiling; Getting excited and intense
+</def>
+    <reibun>風呂が沸く。(The tub is boiling.) 
+湯が沸く。(The water is boiling.) 
+素晴らしい演技に場内が沸く。(The hall is electrified by the amazing performance.) 
+熱戦に観客が沸きに沸いた。(The spectators were enthralled by the heated battle.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>319</id>
+    <hiragana>わく
+</hiragana>
+    <kanji>湧く
+</kanji>
+    <def>Spout from the ground; A sudden thought or burst of emotion; Occuring one after the other
+</def>
+    <reibun>温泉が湧く。(A hot spring bubbles forth.) 
+石油が湧き出る。(Oil spurts forth.) 
+勇気が湧く。(Burst with courage.) 
+疑問が湧く。(Questions arise.) 
+アイデアが湧く。(Ideas burst forth.)
+興味が湧かない。(Uninteresting.) 
+雲が湧く。(Clouds are forming.) 
+拍手や歓声が湧く。(A burst of cheers and applause.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>320</id>
+    <hiragana>わざ
+</hiragana>
+    <kanji>技
+</kanji>
+    <def>A technique or art; A designated movement or form as in martial arts
+</def>
+    <reibun>技を磨く。(Hone your technique.) 
+技を競う。(Pit skills against each other.) 
+技に切れがある。(You&#x27;re out of techniques.) 
+柔道の技。(A judo technique.) 
+技を掛ける。(Apply a technique.) 
+投げ技が決まる。(Land a throw.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>321</id>
+    <hiragana>わざ
+</hiragana>
+    <kanji>業
+</kanji>
+    <def>Action or behavior; Work
+</def>
+    <reibun>人間業とも思えない。(Not humanly possible.) 
+神業。(Divine work.) 
+至難の業。(Almost impossible.) 
+軽業。(Easy work.) 
+業師。(Well trained.) 
+物書きを業とする。(Become a writer.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>322</id>
+    <hiragana>わずらう
+</hiragana>
+    <kanji>煩う
+</kanji>
+    <def>Worry and fret
+</def>
+    <reibun>卒業後の進路のことで思い煩う。(Worry what path to take after graduation.) 
+心に煩いがない。(Free from worry.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+  <row>
+    <id>323</id>
+    <hiragana>わずらう
+</hiragana>
+    <kanji>患う
+</kanji>
+    <def>Suffer from illness
+</def>
+    <reibun>胸を患う。(Suffer from chest problems.) 
+３年ほど患う。(Suffer for three years.) 
+大病を患う。(Suffer from a serious illness.) 
+長患いをする。(Suffer from a protracted illness.)</reibun>
+    <notes></notes>
+    <jogai>0</jogai>
+  </row>
+</root>

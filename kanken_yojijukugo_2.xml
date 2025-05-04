@@ -1,0 +1,2128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <id>101</id>
+    <slug>哀毀骨立</slug>
+    <term>哀毀骨立</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>あいきこつりつ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Heartbroken</english>
+    <notes>Sadness哀 harming毀 one&#x27;s body to the point they wither away to just a standing立 skeleton骨</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>悲しみの極み。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>0000-00-00 00:00:00</updated>
+  </row>
+  <row>
+    <id>184</id>
+    <slug>握髪吐哺</slug>
+    <term>握髪吐哺</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>あくはつとほ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Desperately seeking good talent</english>
+    <notes>The Duke of Zhou (周公旦) was so passionate about hiring quality sages that he would welcome them in at any time, if he was washing his hair髪, he&#x27;d wring握 it dry, and if he was eating, he&#x27;d spit吐 out what he&#x27;s chewing哺</notes>
+    <hint/>
+    <syn>吐哺握髪,吐哺捉髪</syn>
+    <ant></ant>
+    <fin></fin>
+    <tags/>
+    <jpn>優れた人材を求めるのに熱心なこと。</jpn>
+    <origin></origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>0000-00-00 00:00:00</updated>
+  </row>
+  <row>
+    <id>467</id>
+    <slug>衣錦還郷</slug>
+    <term>衣錦還郷</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>いきんかんきょう</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Returning home a hero</english>
+    <notes>Wearing clothes衣 of brocade錦 and returning還 to your hometown郷</notes>
+    <hint/>
+    <syn>衣錦之栄</syn>
+    <ant>衣繍夜行</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>立身出世して故郷に帰ること。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>0000-00-00 00:00:00</updated>
+  </row>
+  <row>
+    <id>566</id>
+    <slug>一行三昧</slug>
+    <term>一行三昧</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>いちぎょうざんまい</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Intense Buddhist training</english>
+    <notes>一行=singular focus; 三昧=focused buddhist training</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>心を一つにして仏道修行に励むこと。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-09-28 00:48:16</updated>
+  </row>
+  <row>
+    <id>574</id>
+    <slug>一期一会</slug>
+    <term>一期一会</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>いちごいちえ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>A once in a lifetime encounter</english>
+    <notes>One一 period期 of time, one一 encounter会; Originally referred to tea ceremony, where one was encouraged to give their absolute best each time. Nowadays, strongly associated with serendipity, chance encounters and meeting new people.</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>生涯に一度だけ合うこと。また、生涯に一度限りであること。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>4</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-10-11 20:57:15</updated>
+  </row>
+  <row>
+    <id>638</id>
+    <slug>一目瞭然</slug>
+    <term>一目瞭然</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>いちもくりょうぜん</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Abundantly clear; Readily apparent</english>
+    <notes>One一 look目 and its clear瞭, 然 often emphasizes meaning of previous kanji</notes>
+    <hint/>
+    <syn>一目即了</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>ちょっと見ただけではっきりとわかること。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>0000-00-00 00:00:00</updated>
+  </row>
+  <row>
+    <id>724</id>
+    <slug>一生懸命</slug>
+    <term>一生懸命</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>いっしょうけんめい</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>With all your might; With everything you got</english>
+    <notes>Originally, 一所懸命=a samurai staking懸 their life on protecting one一 place所; 所（しょ） extended becomes 生（しょう）</notes>
+    <hint/>
+    <syn>一所懸命</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>命がけでものごとにあたること。いちずに苦心すること。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>5</kotoken>
+    <onkun>0</onkun>
+    <updated>0000-00-00 00:00:00</updated>
+  </row>
+  <row>
+    <id>764</id>
+    <slug>一旦緩急</slug>
+    <term>一旦緩急</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>いったんかんきゅう</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Emergency conditions</english>
+    <notes>Occurance一旦 of emergency緩急; Ex: 一旦緩急あれば…</notes>
+    <hint/>
+    <syn>一時緩急</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>ひとたび緊急の事態になったとき。いざという場合。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>0000-00-00 00:00:00</updated>
+  </row>
+  <row>
+    <id>795</id>
+    <slug>一筆勾消</slug>
+    <term>一筆勾消</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>いっぴつこうしょう</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Starting over from scratch; Back to square one; Back to the drawing board</english>
+    <notes>With one一 stroke of the brush筆, pull勾 across the page and erase消 everything; Also 一筆勾銷</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>これまでの全てを取り消すこと。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>0000-00-00 00:00:00</updated>
+  </row>
+  <row>
+    <id>1044</id>
+    <slug>鬱鬱勃勃</slug>
+    <term>鬱鬱勃勃</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>うつうつぼつぼつ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>In high spirits</english>
+    <notes>鬱, commonly used for &#x27;depression,&#x27; literally depicts overgrown vegetation. This can mean &#x27;teeming with life and vitality&#x27; or &#x27;dark and dank.&#x27; 勃勃 is full of energy.</notes>
+    <hint/>
+    <syn>鬱鬱葱葱</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>気が盛んに満ちるさま。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-04-06 03:08:07</updated>
+  </row>
+  <row>
+    <id>1325</id>
+    <slug>円頓止観</slug>
+    <term>円頓止観</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>えんどんしかん</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>The highest form of contemplation in Buddhism</english>
+    <notes>Round円 and inter-inclusive頓 truth realized through calming止 meditation and clear sight観</notes>
+    <hint/>
+    <syn>摩訶止観</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>人格を完成した究極の境地をいう。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>0000-00-00 00:00:00</updated>
+  </row>
+  <row>
+    <id>1398</id>
+    <slug>横眉怒目</slug>
+    <term>横眉怒目</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>おうびどもく</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>An angry countenance</english>
+    <notes>Side横 brow眉 and angry怒 eyes目</notes>
+    <hint/>
+    <syn>横眉立目,張眉怒目,柳眉倒竪</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>怒った顔つきのこと。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>0000-00-00 00:00:00</updated>
+  </row>
+  <row>
+    <id>1433</id>
+    <slug>岡目八目</slug>
+    <term>岡目八目</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>おかめはちもく</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Bystander&#x27;s insight</english>
+    <notes>The eyes目 watching from the sidelines岡 can see 8八 moves目 ahead. 目 refers to a &quot;move&quot; in Go.</notes>
+    <hint/>
+    <syn>傍目八目</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>はたで見ているほうが、当事者よりも情勢を正確に判断できること。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>0000-00-00 00:00:00</updated>
+  </row>
+  <row>
+    <id>1583</id>
+    <slug>怨親平等</slug>
+    <term>怨親平等</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>おんしんびょうどう</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Treat everyone with equal kindness</english>
+    <notes>Treat both those who give you hate怨 and those who give you kindness親 as equal平等</notes>
+    <hint/>
+    <syn>一視同仁,兼愛無私</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>怨み敵対する者も憎まず、親しい者でもえこひいきしない。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>0000-00-00 00:00:00</updated>
+  </row>
+  <row>
+    <id>1588</id>
+    <slug>怨憎会苦</slug>
+    <term>怨憎会苦</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>おんぞうえく</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>The stress of dealing with spiteful hate-filled people</english>
+    <notes>Suffering苦 caused by meeting会 with someone filled with spite怨 and hate憎</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>怨み憎しみを抱く者と会わなければならない苦しみのこと。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>0000-00-00 00:00:00</updated>
+  </row>
+  <row>
+    <id>1589</id>
+    <slug>怨敵退散</slug>
+    <term>怨敵退散</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>おんてきたいさん</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Hateful one, begone!</english>
+    <notes>Hateful怨 enemy敵, disband退散! A Buddhist phrase for chasing away evil spirits.</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>怨みに思っている敵よ、退散せよということ。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>0000-00-00 00:00:00</updated>
+  </row>
+  <row>
+    <id>1805</id>
+    <slug>苛政猛虎</slug>
+    <term>苛政猛虎</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>かせいもうこ</reading>
+    <accent/>
+    <on>カセイモウコ</on>
+    <kun>苛政(カセイ)は虎(とら)よりも猛(たけ)し</kun>
+    <english>An oppressive government is more ferocious than a tiger</english>
+    <notes>An oppressive苛 government政 is more ferocious猛 than a tiger虎. From a story where Confucius finds a woman sobbing on the side of the road. She says her husband and child were eaten by a tiger. Confucius asks why she doesn&#x27;t leave such a dangerous area, and she answers because there is no oppressive government controlling that area.</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>民衆にとって過酷な政治は人食い虎よりももっと恐ろしいということ。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-06-28 11:40:00</updated>
+  </row>
+  <row>
+    <id>2050</id>
+    <slug>甘言蜜語</slug>
+    <term>甘言蜜語</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>かんげんみつご</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Sweet-talking, smooth-talking</english>
+    <notes>Sweet甘 speech言, honeyed蜜 words語</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>相手に取り入るための甘い言葉。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-07-06 02:41:36</updated>
+  </row>
+  <row>
+    <id>2088</id>
+    <slug>簡単明瞭</slug>
+    <term>簡単明瞭</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>かんたんめいりょう</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Simple and clear</english>
+    <notes>Simple簡単 and clear明瞭</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>簡単ではっきりとしていること。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-07-08 00:59:49</updated>
+  </row>
+  <row>
+    <id>2133</id>
+    <slug>蓋棺事定</slug>
+    <term>蓋棺事定</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>がいかんじてい</reading>
+    <accent/>
+    <on>ガイカンジテイ</on>
+    <kun>棺(かん)を蓋(おお)いて事(こと)定(さだ)まる</kun>
+    <english>Posthumous fame and recognition</english>
+    <notes>After the coffin棺 is covered蓋, things事 are settled定 regarding your reputation</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>死んでからはじめて、その人物の評価が定まるということ</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-06-20 00:36:56</updated>
+  </row>
+  <row>
+    <id>2138</id>
+    <slug>外巧内嫉</slug>
+    <term>外巧内嫉</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>がいこうないしつ</reading>
+    <accent/>
+    <on>ガイコウナイシツ</on>
+    <kun>外(そと)は巧(たく)み、内(うち)では嫉(ねた)む</kun>
+    <english>Pretending to be supportive, but are actually jealous</english>
+    <notes>On the outside外 you use skilled巧 language to feign support, but on the inside内 you&#x27;re jealous嫉</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>うわべはとりつくろっているが、内心ではねたんでいること。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-06-20 00:59:41</updated>
+  </row>
+  <row>
+    <id>2150</id>
+    <slug>蓋天蓋地</slug>
+    <term>蓋天蓋地</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>がいてんがいち</reading>
+    <accent/>
+    <on>ガイテンガイチ</on>
+    <kun>天を蓋(おお)い、地を蓋(おお)う</kun>
+    <english>The teachings of Buddha reaching all ends of the Earth</english>
+    <notes>The teachings of Buddha covering蓋 the heavens天 and earth地</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>仏の教えがすべての世界に、広くすみずみまでゆきわたること。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-06-22 23:15:02</updated>
+  </row>
+  <row>
+    <id>2153</id>
+    <slug>瓦解土崩</slug>
+    <term>瓦解土崩</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>がかいどほう</reading>
+    <accent/>
+    <on></on>
+    <kun>瓦(かわら)が解(と)け、土(つち)が崩(くず)れる</kun>
+    <english>Fallen to pieces; Beyond repair</english>
+    <notes>Tiles瓦 split解 and earth土 crumbled崩</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>物事が根底から崩れ、もはや手のほどこしようもない状態のこと。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-06-26 00:49:19</updated>
+  </row>
+  <row>
+    <id>2156</id>
+    <slug>瓦鶏陶犬</slug>
+    <term>瓦鶏陶犬</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>がけいとうけん</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>All style, no substance</english>
+    <notes>A tile瓦 chicken鶏 and clay陶 dog犬. The form looks good, but they can&#x27;t lay eggs or catch prey. Usu 陶犬瓦鶏</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>格好ばかりで役に立たないもののたとえ。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-06-28 00:02:35</updated>
+  </row>
+  <row>
+    <id>2184</id>
+    <slug>含牙戴角</slug>
+    <term>含牙戴角</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>がんがたいかく</reading>
+    <accent/>
+    <on>ガンガタイカク</on>
+    <kun>牙(きば)を含(ふく)み、角(つの)を戴(いただ)く</kun>
+    <english>All manner of beast</english>
+    <notes>Fangs牙 [in mouth&gt;含 and horn角 [upon head&gt;戴</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>牙や角をもつもの。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-07-04 22:14:06</updated>
+  </row>
+  <row>
+    <id>2198</id>
+    <slug>玩人喪徳</slug>
+    <term>玩人喪徳</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>がんじんそうとく</reading>
+    <accent/>
+    <on>ガンジンソウトク</on>
+    <kun>人(ひと)を玩(もてあそ)べば、徳(とく)を喪(うしな)う</kun>
+    <english>Look down upon others and lower your own status</english>
+    <notes>Treat people人 trivially玩 and lose喪 virtue徳</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>人を軽くみてあなどると、自分の徳を失うことになるということ。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-07-07 23:08:17</updated>
+  </row>
+  <row>
+    <id>2206</id>
+    <slug>玩物喪志</slug>
+    <term>玩物喪志</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>がんぶつそうし</reading>
+    <accent/>
+    <on>ガンブツソウシ</on>
+    <kun>物(もの)を玩(もてあそ)べば、志(こころざし)を喪(うしな)う</kun>
+    <english>Wasting time with frivolous activities and neglecting important work</english>
+    <notes>Playing玩 with things物 and losing喪 your ambition志</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>無用なものに熱中して、本業がおろそかになること。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-07-09 00:14:50</updated>
+  </row>
+  <row>
+    <id>2208</id>
+    <slug>含哺鼓腹</slug>
+    <term>含哺鼓腹</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>がんぽこふく</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>People enjoying a blessed and peaceful life</english>
+    <notes>Eating含 food哺 and pounding your stomach腹 like a drum鼓</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>人々が豊かで平和な世を楽しむこと。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-07-09 00:28:49</updated>
+  </row>
+  <row>
+    <id>2245</id>
+    <slug>奇技淫巧</slug>
+    <term>奇技淫巧</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>きぎいんこう</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Unnecessarily indulgent</english>
+    <notes>Refers to a artistic technique that is overly indulgent</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>快楽のみを求めた好ましくないもののたとえ。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-07-09 21:37:15</updated>
+  </row>
+  <row>
+    <id>2323</id>
+    <slug>亀甲獣骨</slug>
+    <term>亀甲獣骨</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>きっこうじゅうこつ, きこうじゅうこつ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Turtle shells and animal bones</english>
+    <notes>Turtle亀 shells甲 and beast獣 bones骨. The earliest known medium for carving kanji characters in ancient China.</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>亀の甲羅と、けものの骨。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-07-14 02:18:41</updated>
+  </row>
+  <row>
+    <id>2434</id>
+    <slug>挙案斉眉</slug>
+    <term>挙案斉眉</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>きょあんせいび</reading>
+    <accent/>
+    <on>キョアンセイビ</on>
+    <kun>案(アン)を挙(あ)ぐること眉(まゆ)に斉(ひと)しくす</kun>
+    <english>A married couple attentive to manners and etiquette</english>
+    <notes>Raising挙 the [meal setting&gt;案 to be even斉 with the eyebrows眉 when presenting it</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>夫婦の間に礼儀がいきとどいていること。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-07-16 00:39:44</updated>
+  </row>
+  <row>
+    <id>2565</id>
+    <slug>錦衣玉食</slug>
+    <term>錦衣玉食</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>きんいぎょくしょく</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Living an extravagant lifestyle</english>
+    <notes>Brocade錦 clothing衣 and jeweled玉 meals食</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>ぜいたくな生活をすること。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-07-19 00:33:28</updated>
+  </row>
+  <row>
+    <id>2599</id>
+    <slug>錦上添花</slug>
+    <term>錦上添花</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>きんじょうてんか</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Placing the crowning touch</english>
+    <notes>Adding添 flowers花 upon上 brocade錦 </notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>よいもの美しいものの上にさらによいもの美しいものを加えること。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-07-19 20:34:59</updated>
+  </row>
+  <row>
+    <id>2653</id>
+    <slug>玉砕瓦全</slug>
+    <term>玉砕瓦全</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>ぎょくさいがぜん</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Better an honorable death than a meaningless life</english>
+    <notes>玉砕 is a jewel玉 shattering砕 and refers to one of great honor dying for a noble cause. 瓦全 is someone living like a total全 [roofing tile&gt;瓦, i.e., just sitting around doing nothing.</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>名誉を重んじて死ぬことと何をなすこともなく生きながらえること。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-04-12 04:42:02</updated>
+  </row>
+  <row>
+    <id>2675</id>
+    <slug>吟風弄月</slug>
+    <term>吟風弄月</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>ぎんぷうろうげつ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Composing poetry about the beauty of nature</english>
+    <notes>Singing吟 praises of the wind風, enjoying弄 the moon月</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>詩人が自然の景色を題材に即興詩を作ること。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-10-30 22:08:13</updated>
+  </row>
+  <row>
+    <id>2693</id>
+    <slug>苦髪楽爪</slug>
+    <term>苦髪楽爪</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>くがみらくづめ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>The joy and pain of living</english>
+    <notes>In trying苦 times, your hair髪 grows. In joyful楽 times, your nails爪 grow. Usu 苦爪楽髪</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>人の世の苦楽のようす。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-07-20 01:30:26</updated>
+  </row>
+  <row>
+    <id>2761</id>
+    <slug>苦爪楽髪</slug>
+    <term>苦爪楽髪</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>くづめらくがみ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>The joy and pain of living</english>
+    <notes>In trying苦 times, your nails爪 grow. In joyful楽 times, your hair髪 grows.</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>人の世の苦楽のようす。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-07-01 10:59:40</updated>
+  </row>
+  <row>
+    <id>2825</id>
+    <slug>君子三畏</slug>
+    <term>君子三畏</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>くんしのさんい</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Three things before which the purposed man stands in awe</english>
+    <notes>The ordinances of heaven, great men and the words of sages</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>君子のおそれ慎むべき三つのこと。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-02-02 20:11:34</updated>
+  </row>
+  <row>
+    <id>2872</id>
+    <slug>傾蓋知己</slug>
+    <term>傾蓋知己</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>けいがいのちき</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Two people hitting it off like they&#x27;re old friends</english>
+    <notes>Leaning傾 the roofs蓋 of your carts together to chat like I know知 you己 well</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>ちょっと語り合っただけなのに古くからの友人のようにうちとけて親しくなるたとえ。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-07-23 03:41:34</updated>
+  </row>
+  <row>
+    <id>3009</id>
+    <slug>犬牙相制</slug>
+    <term>犬牙相制</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>けんがそうせい</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Complicated national borders between two countries</english>
+    <notes>National borders that like a dog&#x27;s犬 teeth牙, restrain制 [each other&gt;相</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>国境が入りくんでいて、たがいに牽制しあうこと。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-07-29 23:18:21</updated>
+  </row>
+  <row>
+    <id>3025</id>
+    <slug>堅塞固塁</slug>
+    <term>堅塞固塁</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>けんさいこるい</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>An impenetrable fort</english>
+    <notes>堅 and 固 both mean hard and solid. 塞 and 塁 both mean fort.</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>非常に堅固なとりで。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-09-28 00:10:17</updated>
+  </row>
+  <row>
+    <id>3044</id>
+    <slug>懸頭刺股</slug>
+    <term>懸頭刺股</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>けんとうしこ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Intense study</english>
+    <notes>Hoist懸 your head頭 and stab刺 your thigh股. The study practices of Sun Jing (孫敬) and Su Qin (蘇秦). Jing would hang a rope from the rafters to hold his head upright, while Qin would stab his thigh with a gimlet to stay awake.</notes>
+    <hint/>
+    <syn>懸頭錐股,懸梁刺股,懸梁錐股,刺股読書,蛍窓雪案,蛍雪之功</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>苦学のたとえ。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>0000-00-00 00:00:00</updated>
+  </row>
+  <row>
+    <id>3062</id>
+    <slug>賢明愚昧</slug>
+    <term>賢明愚昧</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>けんめいぐまい</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Intelligence and stupidity</english>
+    <notes>Smart賢 and bright明, stupid愚 and dark昧</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>かしこいことと、愚かで道理にくらいこと。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-07-30 02:41:25</updated>
+  </row>
+  <row>
+    <id>3231</id>
+    <slug>後生可畏</slug>
+    <term>後生可畏</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>こうせいかい</reading>
+    <accent/>
+    <on>コウセイカイ</on>
+    <kun>後生(コウセイ)、畏(おそ)る可(べ)し</kun>
+    <english>The up-and-coming generation holds great promise</english>
+    <notes>The succeeding後 generation生 should可 be viewed with reverence畏 for their sheer potential</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>年少者は、大きな可能性を秘め、将来どんな力量をあらわすかわからないのでおそれ敬うべきである。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-08-10 02:15:48</updated>
+  </row>
+  <row>
+    <id>3250</id>
+    <slug>向天吐唾</slug>
+    <term>向天吐唾</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>こうてんとだ</reading>
+    <accent/>
+    <on>コウテントダ</on>
+    <kun>天(テン)に向(む)かって唾(つば)を吐(は)く</kun>
+    <english>Hoisted with your own petard</english>
+    <notes>Facing向 the heavens天 and hawking吐 spit唾. It just falls back down on your face.</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>人に害を加えようとして、逆に自分がその害を受けることになること。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-08-13 01:05:27</updated>
+  </row>
+  <row>
+    <id>3252</id>
+    <slug>荒唐無稽</slug>
+    <term>荒唐無稽</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>こうとうむけい</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Baseless, without evidence</english>
+    <notes>荒唐 is literally a large area of arid land, i.e., devoid of substance. 無稽 is lacking any basis for thought.</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>言説に根拠がなく、現実性に欠けること。でたらめ。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-08-13 20:57:16</updated>
+  </row>
+  <row>
+    <id>3280</id>
+    <slug>黄霧四塞</slug>
+    <term>黄霧四塞</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>こうむしそく</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>① Engulfed in mist ② A bad omen</english>
+    <notes>Yellow黄 mist霧 in four四 (all) directions enclosing塞</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>黄色のきりが四方に満ち満ちる。天下の乱れる兆し。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-08-14 20:20:02</updated>
+  </row>
+  <row>
+    <id>3329</id>
+    <slug>克伐怨欲</slug>
+    <term>克伐怨欲</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>こくばつえんよく</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Malicious thoughts and feelings</english>
+    <notes>Unyielding克 stubborness, hubris伐, rancor怨, desire欲</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>勝ち気・自ら誇る・うらむ・むさぼるの四つの悪心のこと。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-08-21 21:31:50</updated>
+  </row>
+  <row>
+    <id>3339</id>
+    <slug>虎渓三笑</slug>
+    <term>虎渓三笑</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>こけいさんしょう</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Time flies when you&#x27;re having fun</english>
+    <notes> In tiger虎 valley渓 three三 men laugh笑. &#x27;Tiger Valley&#x27; is a valley near Mt. Lu (盧山). Huiyuan (慧遠) was a monk who had lived at a mountain temple his whole life and never crossed Tiger Valley. One day, a poet, Tao Qian (陶潜), and a Taoist, Lu Xiujing (陸修静) came to visit. The three hit it off well, and so, when it was time to depart, Huiyuan led the two men down the mountain to see them off. However, Huiyuan was so engrossed in their lively conversation, he didn&#x27;t even notice he was heading straight across Tiger Valley. It wasn&#x27;t until a tiger&#x27;s roar echoed across the valley that the men suddenly snapped out of it, realized how far they&#x27;d come, and shared a hearty laugh.</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>あることに熱中するあまり、他のことをすべて忘れてしまうこと。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-08-22 20:37:52</updated>
+  </row>
+  <row>
+    <id>3340</id>
+    <slug>虎穴虎子</slug>
+    <term>虎穴虎子</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>こけつこし</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Fortune favors the bold</english>
+    <notes>If you don&#x27;t enter the tiger虎 den穴, you can&#x27;t get a tiger虎 cub子</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>危険を冒さなければ功名は立てられないということ。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-08-22 20:41:59</updated>
+  </row>
+  <row>
+    <id>3391</id>
+    <slug>誇大妄想</slug>
+    <term>誇大妄想</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>こだいもうそう</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Overinflated self-importance</english>
+    <notes>A prideful誇大 delusion妄想</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>自分の現状を実際以上に想像して事実のように思いこむこと。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>4</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-08-23 23:55:51</updated>
+  </row>
+  <row>
+    <id>3409</id>
+    <slug>虎頭蛇尾</slug>
+    <term>虎頭蛇尾</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>ことうだび</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>An exciting start but disappointing finish</english>
+    <notes>Begins with tiger虎 head頭, ends with snake蛇 tail尾</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>初めは盛んで、終わりがふるわないたとえ</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-08-24 22:19:49</updated>
+  </row>
+  <row>
+    <id>3433</id>
+    <slug>虎尾春氷</slug>
+    <term>虎尾春氷</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>こびしゅんぴょう</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Extremely dangerous</english>
+    <notes>A tiger虎 tail尾 (don&#x27;t step on it!) or springtime春 ice氷 (quickly melts away)</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>きわめて危険なことのたとえ。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-08-24 22:40:03</updated>
+  </row>
+  <row>
+    <id>3491</id>
+    <slug>金輪奈落</slug>
+    <term>金輪奈落</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>こんりんならく</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>① The absolute limits ② Absolutely, definitely</english>
+    <notes>In Buddhist terminology, 金輪 is the lowest level of the Earth and 奈落 is a the depths of Hell.</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>物事の極限のこと。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-08-26 23:49:49</updated>
+  </row>
+  <row>
+    <id>3496</id>
+    <slug>傲岸不遜</slug>
+    <term>傲岸不遜</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>ごうがんふそん</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Conceited and unwilling to listen</english>
+    <notes>傲岸 is being haughty and looking down on others. 不遜 is showing no humility.</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>思いあがって、人に従おうとしないさま。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-09-28 00:26:06</updated>
+  </row>
+  <row>
+    <id>3511</id>
+    <slug>呉越同舟</slug>
+    <term>呉越同舟</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>ごえつどうしゅう</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>① Stuck in the same boat ② Forced to make a temporary truce with an enemy</english>
+    <notes>During the Spring and Autumn Period in China, the nations of Wu呉 and Yue越 were bitter rivals that fought endlessly. However, it is said that one day a citizen of Wu and Yue were on the same同 boat舟 crossing a river and encountered fierce winds. They put aside their differences and worked together to make it through.</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>仲の悪い者どうしが、同じ場所や境遇にいること。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>4</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-08-15 22:31:03</updated>
+  </row>
+  <row>
+    <id>3546</id>
+    <slug>塞翁失馬</slug>
+    <term>塞翁失馬</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>さいおうしつば</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Joy and sorrow and today and tomorrow; What will be, will be</english>
+    <notes>From a story involving an [old man&gt;翁 living at a fort塞 in Northern China who loses失 his horse馬. One day, the horse runs away, but then it returns some time later with a second horse of great strength and speed. However, the man&#x27;s son rides the new horse and falls off and breaks his leg. Then, when the man&#x27;s territory is invaded, many young men are called to serve and die in battle. However, since his son suffers from a broken leg, he is not required to fight and ends up living a long life.</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>人生の幸不幸は予測できないので、いたずらに一喜一憂すべきではないということ。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-05-12 18:18:11</updated>
+  </row>
+  <row>
+    <id>3646</id>
+    <slug>左戚右賢</slug>
+    <term>左戚右賢</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>させきゆうけん</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Respect for sages over relatives</english>
+    <notes>Relatives親戚 on the left左 (a position indicating lower status), and sages賢 on the right右 (a position indicating higher status). A practice during the Han漢 dynasty.</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>親戚の者を低い地位「左」におき、賢者を高い地位「右」におくこと。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-04-19 05:10:42</updated>
+  </row>
+  <row>
+    <id>3655</id>
+    <slug>沙中偶語</slug>
+    <term>沙中偶語</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>さちゅうのぐうご</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>A retainer discussing treason</english>
+    <notes>Discussion偶語 in中 the sand砂. Refers to one of Liu Bang&#x27;s (劉邦) retainers, who after demotion, discussed rebellion with others.</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>臣下が謀反の相談をすること。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-08-31 01:03:56</updated>
+  </row>
+  <row>
+    <id>3681</id>
+    <slug>沙羅双樹</slug>
+    <term>沙羅双樹</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>さらそうじゅ, しゃらそうじゅ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>The twin trees that saw Śākyamuni into nirvana</english>
+    <notes>Four [Shala trees&gt;沙羅 were present at the death of Śākyamuni, but two withered in grief, so only a pair双 of trees樹 remained</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>釈迦が涅槃に入ったとき、その四方に二本ずつあったという娑羅の木。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-08-31 01:15:55</updated>
+  </row>
+  <row>
+    <id>3755</id>
+    <slug>三人成虎</slug>
+    <term>三人成虎</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>さんにんせいこ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>A lie told enough times becomes the truth</english>
+    <notes>Three三 people人 create成 a tiger虎. If three people claim there is a tiger in the city, it becomes de facto reality. From the Warring States period. A metaphor used by Pang Kong (龐蔥) of Wei魏 to illustrate the power of rumors.</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>真実でないことも、多くの人が言うといつのまにか真実であるかのようになってしまうたとえ。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-09-02 20:10:30</updated>
+  </row>
+  <row>
+    <id>3772</id>
+    <slug>三平二満</slug>
+    <term>三平二満</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>さんぺいじまん</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>A homely woman</english>
+    <notes>Three三 flats平 (forehead, nose and lower jaw), two二 filled満 out areas (fat cheeks).</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>じゅうぶんではないが、心がやすらかで満足していること。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-09-03 23:59:50</updated>
+  </row>
+  <row>
+    <id>3802</id>
+    <slug>斬新奇抜</slug>
+    <term>斬新奇抜</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>ざんしんきばつ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Cutting edge, never-before-seen, fresh and new</english>
+    <notes>(NULL)</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>物事の着想が独特で、これまでにない新しさを兼ね備えていること。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-09-01 22:20:50</updated>
+  </row>
+  <row>
+    <id>3847</id>
+    <slug>歯牙余論</slug>
+    <term>歯牙余論</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>しがのよろん</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>A few words</english>
+    <notes>歯牙 is teeth and fangs, representing the opening of the mouth. 余論 is excess argument, or something you can&#x27;t keep in and have to let out. Stems from a phrase saying one should not hesitate to speak encouragement or praise, even if just a word or two.</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>わずかな言葉。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-09-04 19:36:51</updated>
+  </row>
+  <row>
+    <id>3870</id>
+    <slug>市虎三伝</slug>
+    <term>市虎三伝</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>しこさんでん</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>A lie told enough times becomes the truth</english>
+    <notes>Three三 tell伝 of a tiger虎 in the city市. If three people claim there is a tiger in the city, it becomes de facto reality. From the Warring States period. A metaphor used by Pang Kong (龐蔥) of Wei魏 to illustrate the power of rumors.</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>真実でないことも、多くの人が言うといつのまにか真実であるかのようになってしまうたとえ。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-09-05 20:16:50</updated>
+  </row>
+  <row>
+    <id>4070</id>
+    <slug>羞花閉月</slug>
+    <term>羞花閉月</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>しゅうかへいげつ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Incredible beauty</english>
+    <notes>One who&#x27;s beauty makes the flowers花 embarrassed羞 and the moon月 hide閉 in shame; Also 羞月閉花</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>美しい女性のこと。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-09-19 21:44:37</updated>
+  </row>
+  <row>
+    <id>4078</id>
+    <slug>羞月閉花</slug>
+    <term>羞月閉花</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>しゅうげつへいか</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Incredible beauty</english>
+    <notes>One who&#x27;s beauty makes the shames羞 the moon月 and closes閉 flowers花 in reverence.</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>美しい女性のこと。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-02-10 08:04:57</updated>
+  </row>
+  <row>
+    <id>4094</id>
+    <slug>衆酔独醒</slug>
+    <term>衆酔独醒</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>しゅうすいどくせい</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Surrounded by the unenlightened</english>
+    <notes>The masses衆 are drunk酔 and you alone独 are sober覚.</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>周囲の人はみな道をはずれており、自分だけが正しいということ。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-09-21 23:25:33</updated>
+  </row>
+  <row>
+    <id>4097</id>
+    <slug>秋霜烈日</slug>
+    <term>秋霜烈日</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>しゅうそうれつじつ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Harsh or severe punishment, authority or intensely dominating will</english>
+    <notes>Harsh as the cold autumn秋 frost霜 or intense烈 summer sun日</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>刑罰・権威・意志などがきわめて厳しいたとえ。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>7</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-09-21 23:38:23</updated>
+  </row>
+  <row>
+    <id>4298</id>
+    <slug>枝葉末節</slug>
+    <term>枝葉末節</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>しようまっせつ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Frivolous</english>
+    <notes>Not the trunk, but the branches枝, leaves葉 and tips末節</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>本質からはずれた些細なこと</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>7</kotoken>
+    <onkun>0</onkun>
+    <updated>0000-00-00 00:00:00</updated>
+  </row>
+  <row>
+    <id>4436</id>
+    <slug>森羅万象</slug>
+    <term>森羅万象</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>しんらばんしょう</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>All of creation</english>
+    <notes>森羅=Flora spread like a blanket across the Earth; 万象=Many things of all shapes and sizes</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>宇宙に存在するすべてのもの。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>7</kotoken>
+    <onkun>0</onkun>
+    <updated>0000-00-00 00:00:00</updated>
+  </row>
+  <row>
+    <id>4446</id>
+    <slug>自家薬籠</slug>
+    <term>自家薬籠</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>じかやくろう</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Something or someone you can always depend on</english>
+    <notes>Something in your自 home&#x27;s家 medicine薬 basket籠 (yours to use freely)</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>いつでも役に立てられるもの。わが手中のもの。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-09-04 19:39:25</updated>
+  </row>
+  <row>
+    <id>4538</id>
+    <slug>熟読玩味</slug>
+    <term>熟読玩味</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>じゅくどくがんみ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Thoroughly reading and enjoying literature</english>
+    <notes>熟読 is to read over very carefully. 玩味 is to taste slowly in your mouth, i.e., enjoy thoroughly.</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>文章の意味をじっくり考えて読み味わうこと。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-09-30 21:26:53</updated>
+  </row>
+  <row>
+    <id>5307</id>
+    <slug>泰然自若</slug>
+    <term>泰然自若</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>たいぜんじじゃく</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Relaxed and calm</english>
+    <notes>泰然・自若 both mean relaxed/calm</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>何か事が起こっても、落ち着きはらって少しも動じないさま。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>4</kotoken>
+    <onkun>0</onkun>
+    <updated>0000-00-00 00:00:00</updated>
+  </row>
+  <row>
+    <id>5969</id>
+    <slug>徹頭徹尾</slug>
+    <term>徹頭徹尾</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>てっとうてつび</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>From start to finish; Thoroughly</english>
+    <notes>Going through徹 from head頭 to tail尾</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>最初から最後まで。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>4</kotoken>
+    <onkun>0</onkun>
+    <updated>0000-00-00 00:00:00</updated>
+  </row>
+  <row>
+    <id>6140</id>
+    <slug>陶犬瓦鶏</slug>
+    <term>陶犬瓦鶏</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>とうけんがけい</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>All style, no substance</english>
+    <notes>A clay陶 dog犬 and tile瓦 chicken鶏. The form looks good, but they can&#x27;t catch prey or lay eggs.</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>格好ばかりで役に立たないもののたとえ。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-06-28 00:02:14</updated>
+  </row>
+  <row>
+    <id>6189</id>
+    <slug>東奔西走</slug>
+    <term>東奔西走</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>とうほんせいそう</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Traveling all over the place</english>
+    <notes>Running奔 East東, running走 West西</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>仕事や用事のため四方八方忙しく走りまわること。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>5</kotoken>
+    <onkun>0</onkun>
+    <updated>0000-00-00 00:00:00</updated>
+  </row>
+  <row>
+    <id>6291</id>
+    <slug>吐哺握髪</slug>
+    <term>吐哺握髪</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>とほあくはつ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Desperately seeking good talent</english>
+    <notes>The Duke of Zhou (周公旦) was so passionate about hiring quality sages that he would welcome them in at any time, if he was washing his hair髪, he&#x27;d wring握 it, and if he was eating, he&#x27;d spit吐 out what he&#x27;s chewing哺</notes>
+    <hint/>
+    <syn>握髪吐哺,吐哺捉髪</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>すぐれた人材を求めるのに熱心なこと。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>0000-00-00 00:00:00</updated>
+  </row>
+  <row>
+    <id>6293</id>
+    <slug>吐哺捉髪</slug>
+    <term>吐哺捉髪</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>とほそくはつ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Desperately seeking good talent</english>
+    <notes>The Duke of Zhou (周公旦) was so passionate about hiring quality sages that he would welcome them in at any time, if he was washing his hair髪, he&#x27;d wring握 it, and if he was eating, he&#x27;d spit吐 out what he&#x27;s chewing哺</notes>
+    <hint/>
+    <syn>握髪吐哺,吐哺握髪</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>すぐれた人材を求めるのに熱心なこと</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>0000-00-00 00:00:00</updated>
+  </row>
+  <row>
+    <id>6407</id>
+    <slug>土崩瓦解</slug>
+    <term>土崩瓦解</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>どほうがかい</reading>
+    <accent/>
+    <on></on>
+    <kun>土(つち)が崩(くず)れ、瓦(かわら)が解(と)ける</kun>
+    <english>Fallen to pieces; Beyond repair</english>
+    <notes>Earth土 crumbled崩 and tiles瓦 split解</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>物事が根底から崩れ、もはや手のほどこしょうもない状態のこと。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-06-26 00:49:51</updated>
+  </row>
+  <row>
+    <id>6440</id>
+    <slug>内憂外患</slug>
+    <term>内憂外患</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>ないゆうがいかん</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Internal worries and external woes</english>
+    <notes>Internal内 worry憂, external外 woe患</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>内部にも外にも問題が多く、心配事が多いこと。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>5</kotoken>
+    <onkun>0</onkun>
+    <updated>0000-00-00 00:00:00</updated>
+  </row>
+  <row>
+    <id>7315</id>
+    <slug>百戦錬磨</slug>
+    <term>百戦錬磨</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>ひゃくせんらんま</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>A veteran</english>
+    <notes>Polished錬磨 through 100百 battles戦</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>多くの経験をふんで鍛えられていること。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>5</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-09-28 00:06:42</updated>
+  </row>
+  <row>
+    <id>7632</id>
+    <slug>付和雷同</slug>
+    <term>付和雷同</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>ふわらいどう</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>A yes man</english>
+    <notes>付和=being agreeable; 雷同=echoing thunder, i.e., matching whatever your boss says; Also 附和雷同</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>自分の主義主張がなく、他人の言動に軽々しく同調すること。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>7</kotoken>
+    <onkun>0</onkun>
+    <updated>0000-00-00 00:00:00</updated>
+  </row>
+  <row>
+    <id>8132</id>
+    <slug>三日坊主</slug>
+    <term>三日坊主</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>みっかぼうず</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>A quitter</english>
+    <notes>A three三-day日 monk坊主</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>stupid</tags>
+    <jpn>何をしても飽きっぽくて長続きしないこと。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>10</kotoken>
+    <onkun>0</onkun>
+    <updated>2018-05-27 22:37:08</updated>
+  </row>
+  <row>
+    <id>8607</id>
+    <slug>悠悠自適</slug>
+    <term>悠悠自適</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>ゆうゆうじてき</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>A life of quiet dignity</english>
+    <notes>悠悠=calm, leisurely; 自適=suited to your tastes</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>ゆったりとした気持ちでのんびり過ごすこと。</jpn>
+    <origin>(NULL)</origin>
+    <cat>yjjg</cat>
+    <kanken>2</kanken>
+    <kotoken>5</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-07-01 10:58:45</updated>
+  </row>
+</root>
