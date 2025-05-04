@@ -1,0 +1,3853 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <id>144</id>
+    <slug>魚+惠</slug>
+    <term>魚+惠</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>あおさば,さば</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Mackerel</english>
+    <notes>Doesn&#x27;t exist in unicode</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>サバの別称。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>0000-00-00 00:00:00</updated>
+  </row>
+  <row>
+    <id>288</id>
+    <slug>遖</slug>
+    <term>遖</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>あっぱれ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Splendid! Wonderful! Well done!</english>
+    <notes>Going辶 south南 means moving towards brighter and sunnier lands; Also 天晴</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char</tags>
+    <jpn>見事だ！</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-11 01:44:52</updated>
+  </row>
+  <row>
+    <id>9420</id>
+    <slug>蚫</slug>
+    <term>蚫</term>
+    <alt></alt>
+    <altkanji>鮑</altkanji>
+    <reading>あわび</reading>
+    <accent/>
+    <on>ホウ</on>
+    <kun>あわび</kun>
+    <english>Abalone</english>
+    <notes>Creature虫 wrapped包 in a shell; Also 鮑, 鰒</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>fish,mushihen,1char</tags>
+    <jpn>ミミガイ科の巻貝。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-05-01 00:33:47</updated>
+  </row>
+  <row>
+    <id>439</id>
+    <slug>鵤</slug>
+    <term>鵤</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>いかる,いかるが</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Japanese grosbeak</english>
+    <notes>Bird鳥 with a large horn角-like beak</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,torihen,bird</tags>
+    <jpn>アトリ科の鳥。体は灰色で、黄色い大きなくちばしをもつ。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-03-25 23:27:31</updated>
+  </row>
+  <row>
+    <id>487</id>
+    <slug>魦</slug>
+    <term>魦</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>いさざ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Ice goby</english>
+    <notes>(NULL)</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,uohen,fish</tags>
+    <jpn>ハゼ科の淡水魚。琵琶湖特産。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-02-22 18:55:25</updated>
+  </row>
+  <row>
+    <id>525</id>
+    <slug>鶍</slug>
+    <term>鶍</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>いすか</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Common crossbill</english>
+    <notes>Top and bottom of beak is crossed, so 鶍の嘴 means &#x27;contradiction&#x27; or &#x27;conflict&#x27;</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,torihen,bird</tags>
+    <jpn>アトリ科の鳥。上下のくちばしが湾曲して食い違っている。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-05-01 00:37:16</updated>
+  </row>
+  <row>
+    <id>885</id>
+    <slug>圦</slug>
+    <term>圦</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>いり</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Sluice</english>
+    <notes>Area of embankment土 for letting in入 and out water</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char</tags>
+    <jpn>池の土手に埋めて水の出入りを調節する樋。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-05-01 00:34:12</updated>
+  </row>
+  <row>
+    <id>896</id>
+    <slug>鰯</slug>
+    <term>鰯</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>いわし</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Sardine</english>
+    <notes>Weak弱 fish魚 that die soon after removed from the water</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>fish,uohen,todai,1char</tags>
+    <jpn>イワシ科の海魚の総称。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>11</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-02-22 18:52:29</updated>
+  </row>
+  <row>
+    <id>900</id>
+    <slug>鮇</slug>
+    <term>鮇</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>いわな</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Char</english>
+    <notes>Fish魚 + 未（ミ）</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,uohen,fish</tags>
+    <jpn>サケ科の淡水魚。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-03 10:56:32</updated>
+  </row>
+  <row>
+    <id>971</id>
+    <slug>鯎</slug>
+    <term>鯎</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>うぐい</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Dace</english>
+    <notes>(NULL)</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,fish,uohen</tags>
+    <jpn>コイ科の淡水魚。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-09-18 21:47:03</updated>
+  </row>
+  <row>
+    <id>972</id>
+    <slug>鯏</slug>
+    <term>鯏</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>うぐい,あさり</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>うぐい：Dace ; あさり：Manila clam</english>
+    <notes>Originally used ateji 浅蜊（あさり）, then 利 combined with fish魚</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,fish,uohen</tags>
+    <jpn>① コイ科の淡水魚。② マルスダレガイ科の二枚貝。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-03-25 23:28:25</updated>
+  </row>
+  <row>
+    <id>1146</id>
+    <slug>繧</slug>
+    <term>繧</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>うん</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Faded or blurred color used in dyeing</english>
+    <notes>雲（うん） indicates the reading; Often appears as 繧繝</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,clothing</tags>
+    <jpn>ぼかし模様。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-02-24 03:34:41</updated>
+  </row>
+  <row>
+    <id>1238</id>
+    <slug>鱛</slug>
+    <term>鱛</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>えそ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Lizardfish</english>
+    <notes>Fish魚 + 曾（ソ） from original ateji 恵曾</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,uohen,fish</tags>
+    <jpn>エソ科の海魚の総称。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-05-17 17:31:42</updated>
+  </row>
+  <row>
+    <id>1256</id>
+    <slug>蛯</slug>
+    <term>蛯</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>えび</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Shrimp</english>
+    <notes>Creature虫 hunched over like an old老 person; Also 蝦, 海老</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,mushihen,fish</tags>
+    <jpn>エビ科の節足動物。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-02-22 18:51:23</updated>
+  </row>
+  <row>
+    <id>1261</id>
+    <slug>魞</slug>
+    <term>魞</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>えり</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Fishing weir</english>
+    <notes>Trap for fish魚 to go in入</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,uohen</tags>
+    <jpn>竹簀を川や湖の魚の通る所に仕掛けて魚を導き入れ、捕らえる装置。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-05-01 10:29:00</updated>
+  </row>
+  <row>
+    <id>1420</id>
+    <slug>熕</slug>
+    <term>熕</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>おおづつ</reading>
+    <accent/>
+    <on>コウ</on>
+    <kun>おおづつ</kun>
+    <english>Cannon</english>
+    <notes>Fire火 + コウ (sound of cannonfire). Often appears in 砲熕【ほう・こう】</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char</tags>
+    <jpn>大砲。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>1</onkun>
+    <updated>2020-04-03 10:33:22</updated>
+  </row>
+  <row>
+    <id>1426</id>
+    <slug>鮱</slug>
+    <term>鮱</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>おおぼら</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Fully-grown flathead mullet</english>
+    <notes>Old老 fish魚</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,fish,uohen</tags>
+    <jpn>ボラの成長しきったもの。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-06 05:30:05</updated>
+  </row>
+  <row>
+    <id>9262</id>
+    <slug>諚</slug>
+    <term>諚</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>おきて, おお・せ</reading>
+    <accent/>
+    <on>ジョウ</on>
+    <kun>おきて, おお・せ</kun>
+    <english>Command (from a superior); Rule</english>
+    <notes>Words言 set定 as law</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>上からの命令。おきて。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-03 09:20:18</updated>
+  </row>
+  <row>
+    <id>1502</id>
+    <slug>縅</slug>
+    <term>縅</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>おど・す,おどし</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Thread used to tie armor plating together</english>
+    <notes>Thread糸 used to intimidate威 the enemy</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,tools</tags>
+    <jpn>鎧の革板の小片を糸や細い革紐で綴り合わせること。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-06 05:38:01</updated>
+  </row>
+  <row>
+    <id>1541</id>
+    <slug>俤</slug>
+    <term>俤</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>おもかげ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Looks, appearance</english>
+    <notes>A [younger brother&gt;弟 is a person亻 with the looks/appearance of his older brother</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,body</tags>
+    <jpn>面影。様子。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-05-17 17:35:02</updated>
+  </row>
+  <row>
+    <id>1570</id>
+    <slug>颪</slug>
+    <term>颪</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>おろし</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Katabatic wind</english>
+    <notes>Wind風 blowing down下 from the mountains</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>nandoku,weather,todai,1char</tags>
+    <jpn>山から吹き降ろす風。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>1</onkun>
+    <updated>2020-04-03 10:35:27</updated>
+  </row>
+  <row>
+    <id>1698</id>
+    <slug>嬶</slug>
+    <term>嬶</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>かか,かかあ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Wife</english>
+    <notes>Woman女 always angrily harumphing thorugh her nose鼻</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char</tags>
+    <jpn>妻のこと。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-05-17 17:37:02</updated>
+  </row>
+  <row>
+    <id>1736</id>
+    <slug>鵥</slug>
+    <term>鵥</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>かけす</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Eurasian jay</english>
+    <notes>Bird鳥 that can understand判 and mimic other bird calls</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,torihen,bird</tags>
+    <jpn>カラス科の鳥。他の鳥の鳴き声をよく真似る。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-06 05:24:15</updated>
+  </row>
+  <row>
+    <id>1762</id>
+    <slug>錺</slug>
+    <term>錺</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>かざり</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Decorative metal fitting</english>
+    <notes>Metal金 used to add decorative air芳</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,tools</tags>
+    <jpn>金属で飾る。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-08-30 20:07:36</updated>
+  </row>
+  <row>
+    <id>1764</id>
+    <slug>樫</slug>
+    <term>樫</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>かし</reading>
+    <accent/>
+    <on>ケン</on>
+    <kun>かし</kun>
+    <english>Live oak</english>
+    <notes>Hard堅 tree木</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>plant,kihen,todai,1char</tags>
+    <jpn>ブナ科の常緑高木の総称。</jpn>
+    <origin>H12-1</origin>
+    <cat>kokuji</cat>
+    <kanken>11</kanken>
+    <kotoken>0</kotoken>
+    <onkun>1</onkun>
+    <updated>2024-08-01 23:09:11</updated>
+  </row>
+  <row>
+    <id>1781</id>
+    <slug>鮖</slug>
+    <term>鮖</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>かじか</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Bullhead fish</english>
+    <notes>Fish魚 that likes to live in the rocks石; Also 鰍</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,uohen,fish</tags>
+    <jpn>カジカ科の淡水魚。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-03 09:40:34</updated>
+  </row>
+  <row>
+    <id>1795</id>
+    <slug>鎹</slug>
+    <term>鎹</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>かすがい</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Metal fastener for carpentry; Bonds (metaphor)</english>
+    <notes>Metal金 [stretching across&gt;送 and bonding two pieces of lumber</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>子は鎹,豆腐に鎹</fin>
+    <tags>1char,tools</tags>
+    <jpn>(NULL)</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-06 06:04:33</updated>
+  </row>
+  <row>
+    <id>1797</id>
+    <slug>纃</slug>
+    <term>纃</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>かすり</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Patterned fabric with blurred or brushed appearance</english>
+    <notes>Arranged齊 thread糸</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,tools</tags>
+    <jpn>ところどころ掠ったような模様をおいた織物。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-06 05:24:57</updated>
+  </row>
+  <row>
+    <id>1798</id>
+    <slug>綛</slug>
+    <term>綛</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>かすり,かせ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>① かすり： Patterned fabric with blurred or brushed appearance ② かせ： Thread spool</english>
+    <notes>Use thread糸 to hide忍 the base color and make a pattern</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,tools</tags>
+    <jpn>① かすり：ところどころ掠ったような模様をおいた織物。 ② かせ：紡いだ糸を巻き取る道具。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-03 07:08:54</updated>
+  </row>
+  <row>
+    <id>1801</id>
+    <slug>鯑</slug>
+    <term>鯑</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>かずのこ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Herring roe</english>
+    <notes>Dried晞 fish魚 roe</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>fish,uohen,todai,1char</tags>
+    <jpn>ニシンの卵を乾燥したり塩漬けにしたりした食品。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>1</onkun>
+    <updated>2020-03-16 16:31:43</updated>
+  </row>
+  <row>
+    <id>1802</id>
+    <slug>桛</slug>
+    <term>桛</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>かせ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Thread spool</english>
+    <notes>Wooden木 spool for wrapping thread around the top上 and bottom下</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,tools</tags>
+    <jpn>紡ぎ糸を巻き取る道具。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-05-14 13:55:20</updated>
+  </row>
+  <row>
+    <id>1941</id>
+    <slug>叺</slug>
+    <term>叺</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>かます</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Straw mat folded into a container for holding materials for farming</english>
+    <notes>Container口 for inserting入 various materials</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,tools</tags>
+    <jpn>藁むしろから作った袋。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-02-24 03:35:38</updated>
+  </row>
+  <row>
+    <id>1948</id>
+    <slug>裃</slug>
+    <term>裃</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>かみしも</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Formal samurai wear from Edo period</english>
+    <notes>Upper上 and lower下 set of clothing衣</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,tools</tags>
+    <jpn>江戸時代の武士の礼服。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-03 03:31:01</updated>
+  </row>
+  <row>
+    <id>2248</id>
+    <slug>鶎</slug>
+    <term>鶎</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>きくいただき</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Goldcrest</english>
+    <notes>Bird鳥 + reverence宗; Red-yellow pattern on head looks like chrysanthemum菊（きく）, a flower revered in family crests</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,bird,torihen</tags>
+    <jpn>ヒタキ科の小鳥。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-03-04 23:18:53</updated>
+  </row>
+  <row>
+    <id>2296</id>
+    <slug>鱚</slug>
+    <term>鱚</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>きす</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Sand smelt</english>
+    <notes>Fish魚 + 喜（キ）</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>fish,uohen,todai,1char</tags>
+    <jpn>キス科の海魚。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2025-01-18 12:13:00</updated>
+  </row>
+  <row>
+    <id>2683</id>
+    <slug>喰う</slug>
+    <term>喰う</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>くう</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>To eat</english>
+    <notes>(NULL)</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>endu</tags>
+    <jpn>食うと一緒。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>11</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-01-10 13:23:34</updated>
+  </row>
+  <row>
+    <id>2766</id>
+    <slug>椚</slug>
+    <term>椚</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>くぬぎ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Sawtooth oak</english>
+    <notes>Tree木 often used for fencing/gates門</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,kihen,plant</tags>
+    <jpn>ブナ科の落葉高木。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-07 13:33:24</updated>
+  </row>
+  <row>
+    <id>2784</id>
+    <slug>粂</slug>
+    <term>粂</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>くめ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Surname &#x27;Kume&#x27;</english>
+    <notes>Combination of 久米</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char</tags>
+    <jpn>久米という名字。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>11</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-03 10:49:19</updated>
+  </row>
+  <row>
+    <id>2803</id>
+    <slug>俥</slug>
+    <term>俥</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>くるま</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Cart, rickshaw</english>
+    <notes>Seen in 人力俥【じんりきしゃ】 rickshaw</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,tools</tags>
+    <jpn>くるま。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-02-24 03:34:57</updated>
+  </row>
+  <row>
+    <id>3214</id>
+    <slug>糀</slug>
+    <term>糀</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>こうじ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Malt</english>
+    <notes>Mold blooming in rice米 like flowers花</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,food</tags>
+    <jpn>米・麦・大豆などを蒸して、こうじかびを繁殖させたもの。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-03 10:28:29</updated>
+  </row>
+  <row>
+    <id>3309</id>
+    <slug>凩</slug>
+    <term>凩</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>こがらし</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Chilly winter winds</english>
+    <notes>Winds風 that blow the trees木 bare</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>nandoku,weather,todai,1char</tags>
+    <jpn>秋の末から冬にかけて強く吹く冷たい風。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>1</onkun>
+    <updated>2024-09-18 21:56:42</updated>
+  </row>
+  <row>
+    <id>3392</id>
+    <slug>鯒</slug>
+    <term>鯒</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>こち</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Flathead</english>
+    <notes>Tube甬-shaped fish魚</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,fish,uohen</tags>
+    <jpn>コチ科の海魚。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-06 23:55:02</updated>
+  </row>
+  <row>
+    <id>3393</id>
+    <slug>鮲</slug>
+    <term>鮲</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>こち,まて</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>こち：Flathead ; まて：Razor clam</english>
+    <notes>Fish魚 looks like its [laying flat&gt;伏</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,fish,uohen</tags>
+    <jpn>① コチ科の海魚。 ② マテガイの別称。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-05-29 22:27:28</updated>
+  </row>
+  <row>
+    <id>3427</id>
+    <slug>鮗</slug>
+    <term>鮗</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>このしろ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Gizzard shark</english>
+    <notes>Fish魚 caught in the winter冬</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>fish,uohen,todai,1char</tags>
+    <jpn>ニシン科の海魚。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-05-01 21:41:00</updated>
+  </row>
+  <row>
+    <id>3431</id>
+    <slug>鞐</slug>
+    <term>鞐</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>こはぜ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Clasp or tabs for fastening clothing</english>
+    <notes>Clasp to fasten leather革 top上 to bottom下</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,tools</tags>
+    <jpn>書物の保護する為のおおいや足袋、脚絆などの合わせ目を留める爪形の留め具。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-09-26 07:36:14</updated>
+  </row>
+  <row>
+    <id>3442</id>
+    <slug>榀</slug>
+    <term>榀</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>こまい</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>① Bamboo laths ② 「榀（しな）の木」 Japanese lime</english>
+    <notes>(NULL)</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>kihen,1char,tools</tags>
+    <jpn>① 「こまい」屋根や壁などの下地に組む細かい竹。 ② 「榀（しな）の木」アオイ科シナノキ属の落葉高木。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-05-29 22:27:48</updated>
+  </row>
+  <row>
+    <id>3454</id>
+    <slug>怺える</slug>
+    <term>怺える</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>こらえる</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>To bear; To withstand</english>
+    <notes>A mind心 for the long永-term, able to withstand temporary suffering</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>endru</tags>
+    <jpn>苦しみを我慢する。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-03 09:05:13</updated>
+  </row>
+  <row>
+    <id>3521</id>
+    <slug>蓙</slug>
+    <term>蓙</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>ござ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Grass-woven mat</english>
+    <notes>Seat座 made from rush艹</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,tools</tags>
+    <jpn>イグサの茎などを編んで作ったむしろにへりを付けた敷物。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-06 05:07:34</updated>
+  </row>
+  <row>
+    <id>3539</id>
+    <slug>鮴</slug>
+    <term>鮴</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>ごり</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Rockfish</english>
+    <notes>Fish魚 that likes to rest休 among the rocks</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,uohen,fish</tags>
+    <jpn>カジカの別称。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-05-25 18:29:35</updated>
+  </row>
+  <row>
+    <id>3589</id>
+    <slug>榊</slug>
+    <term>榊</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>さかき</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Sakaki tree</english>
+    <notes>Divine神 tree木 used as offering and in Shinto ritual</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,kihen,plant</tags>
+    <jpn>ツバキ科の常緑小高木。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>11</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-04 20:03:53</updated>
+  </row>
+  <row>
+    <id>3593</id>
+    <slug>金+逆</slug>
+    <term>金+逆</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>さかほこ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Amanosakahoko（天の逆矛）; Mythological jewelled spear used in creation of Japan</english>
+    <notes>Reverse逆 spear鉾</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>逆さのほこ。天の逆矛の略。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>0000-00-00 00:00:00</updated>
+  </row>
+  <row>
+    <id>3631</id>
+    <slug>逧</slug>
+    <term>逧</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>さこ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Ravine, gorge</english>
+    <notes>The valley谷 path辶 between mountains</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char</tags>
+    <jpn>山と山の間の小さな谷。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-09-26 07:37:01</updated>
+  </row>
+  <row>
+    <id>3632</id>
+    <slug>笹</slug>
+    <term>笹</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>ささ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Bamboo grass</english>
+    <notes>Leaf世-like bamboo竹</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,plant</tags>
+    <jpn>むらがり生える小さな竹の総称。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>11</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-10-14 21:23:41</updated>
+  </row>
+  <row>
+    <id>9283</id>
+    <slug>簓</slug>
+    <term>簓</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>ささら</reading>
+    <accent/>
+    <on>セン</on>
+    <kun>ささら</kun>
+    <english>Bamboo whisk</english>
+    <notes>Named for the さらさら sound a whisk makes</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,tools</tags>
+    <jpn>竹の先を細かく割って束ねたもの。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-05-31 02:50:48</updated>
+  </row>
+  <row>
+    <id>3663</id>
+    <slug>扨</slug>
+    <term>扨</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>さて</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Well... Now... Now then...</english>
+    <notes>Interjection for changing subject</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char</tags>
+    <jpn>偖と一緒。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-05-17 17:31:28</updated>
+  </row>
+  <row>
+    <id>3844</id>
+    <slug>聢と</slug>
+    <term>聢と</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>しかと</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Definitely, absolutely, certainly; Without a doubt</english>
+    <notes>Something I definitely定 heard耳</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char</tags>
+    <jpn>確かに。間違いなく。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-09-18 21:46:35</updated>
+  </row>
+  <row>
+    <id>3852</id>
+    <slug>梻</slug>
+    <term>梻</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>しきみ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Japanese star anise</english>
+    <notes>Tree木 used as offering to Buddha仏（佛）</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,plant,kihen</tags>
+    <jpn>モクレン科の常緑小高木。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-02-22 19:01:16</updated>
+  </row>
+  <row>
+    <id>3854</id>
+    <slug>鴫</slug>
+    <term>鴫</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>しぎ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Sandpiper</english>
+    <notes>Bird鳥 found in the [rice fields&gt;田</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,torihen,bird</tags>
+    <jpn>シギ科とその近縁の科の鳥の総称。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>11</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-06-08 01:46:13</updated>
+  </row>
+  <row>
+    <id>9294</id>
+    <slug>雫</slug>
+    <term>雫</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>しずく</reading>
+    <accent/>
+    <on>ダ</on>
+    <kun>しずく</kun>
+    <english>Raindrop</english>
+    <notes>A drop下 of rain雨</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>wtf,1char,weather</tags>
+    <jpn>雨水の一滴。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>11</kanken>
+    <kotoken>0</kotoken>
+    <onkun>1</onkun>
+    <updated>2019-08-01 14:23:47</updated>
+  </row>
+  <row>
+    <id>3983</id>
+    <slug>躾</slug>
+    <term>躾</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>しつけ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Discipline</english>
+    <notes>Conducting your body身 in a beautiful美 manner</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char</tags>
+    <jpn>身だしなみ。礼儀作法を教え込む。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-05-29 22:30:09</updated>
+  </row>
+  <row>
+    <id>9218</id>
+    <slug>纐</slug>
+    <term>纐</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>しほ・り, しぼりぞ・め</reading>
+    <accent/>
+    <on>コウ</on>
+    <kun>しほ・り, しぼりぞ・め</kun>
+    <english>To wring out</english>
+    <notes>Wring絞 + 頁 for reading</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>しぼる。しぼりぞめ。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-05-31 02:49:36</updated>
+  </row>
+  <row>
+    <id>4032</id>
+    <slug>癪</slug>
+    <term>癪</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>しゃく</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>① Abdominal spasm ② Temper</english>
+    <notes>Often appears in 癇癪 or 癇癪玉</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,body</tags>
+    <jpn>① 胸や腹が急に痛み、痙攣を起こす病気。 ② 腹が立つこと。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-23 06:50:17</updated>
+  </row>
+  <row>
+    <id>4051</id>
+    <slug>鯱</slug>
+    <term>鯱</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>しゃち,しゃちほこ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>しゃち：Killer whale; しゃちほこ：Legendary fish with head of tiger</english>
+    <notes>Fish魚 with head of tiger虎</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>animal,fish,todai,1char</tags>
+    <jpn>① イルカ科の哺乳動物。② トラの頭に魚の体をもつ想像上の動物。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2023-09-09 19:09:38</updated>
+  </row>
+  <row>
+    <id>4373</id>
+    <slug>籡</slug>
+    <term>籡</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>しんし</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Bamboo clothesline</english>
+    <notes>[Arrange together&gt;僉 clothing by hand扌 on bamboo竹 pole</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,tools</tags>
+    <jpn>布の染色や洗い張りのときに用いる両端に針の付いた竹製の串。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-05-01 00:17:32</updated>
+  </row>
+  <row>
+    <id>4635</id>
+    <slug>膵</slug>
+    <term>膵</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>すい</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Pancreas</english>
+    <notes>月 radical indicates body part, 萃 indicates reading</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,body</tags>
+    <jpn>消化腺の一つ。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-05-29 22:30:59</updated>
+  </row>
+  <row>
+    <id>4687</id>
+    <slug>椙</slug>
+    <term>椙</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>すぎ</reading>
+    <accent/>
+    <on></on>
+    <kun>すぎ</kun>
+    <english>Japanese cedar</english>
+    <notes>Alternate form of 杉</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,kihen,plant</tags>
+    <jpn>杉と一緒。</jpn>
+    <origin>H12-1</origin>
+    <cat>kokuji</cat>
+    <kanken>11</kanken>
+    <kotoken>0</kotoken>
+    <onkun>1</onkun>
+    <updated>2024-02-07 09:13:48</updated>
+  </row>
+  <row>
+    <id>4699</id>
+    <slug>苆</slug>
+    <term>苆</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>すさ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Grass mixed into plaster to prevent cracking</english>
+    <notes>Grass艹 cuttings切</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,plant,kusakan</tags>
+    <jpn>罅割れを防ぐ為、切り刻んで壁土に混ぜる藁・紙・麻など。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-09-18 21:47:21</updated>
+  </row>
+  <row>
+    <id>4720</id>
+    <slug>鯐</slug>
+    <term>鯐</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>すばしり</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>A young flathead mullet</english>
+    <notes>Fish魚 + 走（はしり）</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,fish,uohen</tags>
+    <jpn>ボラの幼魚。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-30 20:00:54</updated>
+  </row>
+  <row>
+    <id>4723</id>
+    <slug>辷る</slug>
+    <term>辷る</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>すべる</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>① To Slip, to slide ② To fail, To flub a joke</english>
+    <notes>Progress辶 forward along a flat一 surface</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>endru</tags>
+    <jpn>① 滑らかなに進む。勢いを付けて進む。転びそうになる。 ② 失敗する。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-05-27 21:30:27</updated>
+  </row>
+  <row>
+    <id>4851</id>
+    <slug>躮</slug>
+    <term>躮</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>せがれ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Offspring</english>
+    <notes>A portion分 of your own body身</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,body</tags>
+    <jpn>自分の息子の謙称。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-01-03 03:58:25</updated>
+  </row>
+  <row>
+    <id>5214</id>
+    <slug>杣</slug>
+    <term>杣</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>そま</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>① Mountain harvested for lumber ② Lumber harvested from the mountains</english>
+    <notes>Lumber木 from the mountains山</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,kihen</tags>
+    <jpn>① 木材を切り出す山。 ② 山から切り出した木材。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-05-17 17:32:13</updated>
+  </row>
+  <row>
+    <id>5221</id>
+    <slug>轌</slug>
+    <term>轌</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>そり</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Sled, sleigh</english>
+    <notes>Snow雪 car車</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>wtf,1char,tools</tags>
+    <jpn>雪や氷の上を滑らせて、人や物を運ぶ乗り物。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-05-29 22:32:38</updated>
+  </row>
+  <row>
+    <id>5222</id>
+    <slug>艝</slug>
+    <term>艝</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>そり</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Sled, sleigh</english>
+    <notes>Snow雪 boat舟</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>wtf,1char,tools</tags>
+    <jpn>雪や氷の上を滑らせて、人や物を運ぶ乗り物。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-05-29 22:32:39</updated>
+  </row>
+  <row>
+    <id>5377</id>
+    <slug>凧</slug>
+    <term>凧</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>たこ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Kite</english>
+    <notes>Fabric布 in the wind風</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>todai,tools,1char</tags>
+    <jpn>たこ。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>11</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2024-02-07 09:03:57</updated>
+  </row>
+  <row>
+    <id>5389</id>
+    <slug>襷</slug>
+    <term>襷</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>たすき</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Cord supporting sleeves</english>
+    <notes>Clothing衣 to raise擧 sleeves</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,tools</tags>
+    <jpn>袂や袖をたくしあげる紐。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-05-14 13:54:48</updated>
+  </row>
+  <row>
+    <id>5419</id>
+    <slug>燵</slug>
+    <term>燵</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>たつ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>The &#x27;tatsu&#x27; in kotatsu（炬燵）</english>
+    <notes>Despite being a Japanese-original kanji, it has no Japanese 訓読み reading.</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags></tags>
+    <jpn>「こたつ」（炬燵）の「たつ」。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-01-10 13:23:36</updated>
+  </row>
+  <row>
+    <id>9279</id>
+    <slug>鱈</slug>
+    <term>鱈</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>たら</reading>
+    <accent/>
+    <on>セツ</on>
+    <kun>たら</kun>
+    <english>Codfish</english>
+    <notes>Fish魚 that is caught after the first snow雪 of winter</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>fish,uohen,todai</tags>
+    <jpn>タラ科の海魚の総称。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>11</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2025-01-18 12:14:24</updated>
+  </row>
+  <row>
+    <id>5552</id>
+    <slug>蟎</slug>
+    <term>蟎</term>
+    <alt></alt>
+    <altkanji>壁蝨</altkanji>
+    <reading>だに</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Tick, mite</english>
+    <notes>Insect虫 + reading㒼（マン）; Appears in &#x27;kokuji&#x27; section as だに</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,mushihen,insect</tags>
+    <jpn>ダニ目に属する節足動物の総称。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2024-02-07 09:13:35</updated>
+  </row>
+  <row>
+    <id>5627</id>
+    <slug>鵆</slug>
+    <term>鵆</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>ちどり</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Plover</english>
+    <notes>Birds鳥 that stand together in rows行</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>nandoku,animal,bird,torihen,todai,1char</tags>
+    <jpn>チドリ科の鳥の総称。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2022-08-02 02:04:28</updated>
+  </row>
+  <row>
+    <id>5829</id>
+    <slug>閊える</slug>
+    <term>閊える</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>つかえる</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>To get stuck, to be blocked</english>
+    <notes>Gate門 blocked by a mountain山</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>endru</tags>
+    <jpn>つかえる。とどこおる。さしさわる。つまる。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-05-27 21:32:23</updated>
+  </row>
+  <row>
+    <id>5849</id>
+    <slug>鶫</slug>
+    <term>鶫</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>つぐみ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Dusky thrush</english>
+    <notes>Bird鳥 that breeds eastwards東 from central Siberia</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>nandoku,animal,bird,torihen,todai,1char</tags>
+    <jpn>ヒタキ科の鳥。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-30 18:00:04</updated>
+  </row>
+  <row>
+    <id>5850</id>
+    <slug>辻</slug>
+    <term>辻</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>つじ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Intersection, roadside</english>
+    <notes>Intersection十 of a path辶; Often appears as 辻褄</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,thing</tags>
+    <jpn>十字路。道端。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>11</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-03 11:31:46</updated>
+  </row>
+  <row>
+    <id>5880</id>
+    <slug>褄</slug>
+    <term>褄</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>つま</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Kimono skirt; Hem of kimono</english>
+    <notes>Clothing衣 + 妻（つま）; Often appears in 辻褄</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,tools</tags>
+    <jpn>着物の袵（おくみ）の縁の部分。着物の裾の左右の両端。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-03-25 23:28:39</updated>
+  </row>
+  <row>
+    <id>5901</id>
+    <slug>弖</slug>
+    <term>弖</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>て</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>て auxilary character for writing out Chinese phrases in Japanese</english>
+    <notes>弖爾乎波（てにをは）</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char</tags>
+    <jpn>「てにをは」の「て」。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-03-25 23:28:11</updated>
+  </row>
+  <row>
+    <id>6141</id>
+    <slug>峠</slug>
+    <term>峠</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>とうげ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Mountain pass, crest</english>
+    <notes>A mountain山 path that goes up上 and down下. Also metaphorically refers to a &#x27;climax&#x27; after which things relax or fade.</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>峠を越す</fin>
+    <tags>1char,thing</tags>
+    <jpn>(NULL)</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>0</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-05-01 00:37:41</updated>
+  </row>
+  <row>
+    <id>6214</id>
+    <slug>栂</slug>
+    <term>栂</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>とが,つが</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Japanese hemlock</english>
+    <notes>Tree木 that serves as mother母. Due to its wide use in construction, it &#x27;gives birth&#x27; to many buildings and projects</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,plant,kihen</tags>
+    <jpn>マツ科の常緑高木。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>11</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-06 05:03:12</updated>
+  </row>
+  <row>
+    <id>6217</id>
+    <slug>鵇</slug>
+    <term>鵇</term>
+    <alt>鴾</alt>
+    <altkanji></altkanji>
+    <reading>とき</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Crested ibis</english>
+    <notes>Bird鳥 that signals a new year年</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,torihen,bird</tags>
+    <jpn>トキ科の鳥。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-05-29 22:35:50</updated>
+  </row>
+  <row>
+    <id>6271</id>
+    <slug>迚も</slug>
+    <term>迚も</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>とても</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>(positive) Very, totally; (negative) Not at all</english>
+    <notes>Even mid中-way辶 along, it&#x27;s clear it is (or is not) good/bad/great, etc.</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>とうてい。どうやっても。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-05-14 13:54:55</updated>
+  </row>
+  <row>
+    <id>6298</id>
+    <slug>鞆</slug>
+    <term>鞆</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>とも</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Wrist guard worn on left hand for archery</english>
+    <notes>Leather革 shaped similar to 丙 character</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,tools</tags>
+    <jpn>弓を射るとき、弦が手首を打たない様に、左腕に着ける革製の道具。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-05-17 17:36:03</updated>
+  </row>
+  <row>
+    <id>6397</id>
+    <slug>鯲</slug>
+    <term>鯲</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>どじょう</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Weather loach</english>
+    <notes>Mud於 fish魚</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,uohen,fish</tags>
+    <jpn>ドジョウ科の淡水魚。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-01-24 05:24:49</updated>
+  </row>
+  <row>
+    <id>13946</id>
+    <slug>凪</slug>
+    <term>凪</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>なぎ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Calm</english>
+    <notes>The calm when the wind風 stops止</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>nandoku,weather,todai</tags>
+    <jpn>風が止んで、波が穏やかになること。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>11</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-05-17 17:32:00</updated>
+  </row>
+  <row>
+    <id>6476</id>
+    <slug>屶</slug>
+    <term>屶</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>なた</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Broad blades used in foresting work</english>
+    <notes>Combination of 山刀 (blades used in the mountains)</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,tools</tags>
+    <jpn>鉈と一緒。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-24 19:48:57</updated>
+  </row>
+  <row>
+    <id>6494</id>
+    <slug>魸</slug>
+    <term>魸</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>なまず</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Amur catfish</english>
+    <notes>Flat片-headed fish魚</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,uohen,fish</tags>
+    <jpn>ナマズ科の淡水魚。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-03 10:54:15</updated>
+  </row>
+  <row>
+    <id>9348</id>
+    <slug>鯰</slug>
+    <term>鯰</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>なまず</reading>
+    <accent/>
+    <on>ネン</on>
+    <kun>なまず</kun>
+    <english>Amur catfish</english>
+    <notes>Fish魚 + 念（ネン）</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>fish,uohen,todai,1char</tags>
+    <jpn>ナマズ科の淡水魚。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2023-03-27 04:12:42</updated>
+  </row>
+  <row>
+    <id>6538</id>
+    <slug>錵</slug>
+    <term>錵</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>にえ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Decorative blade pattern</english>
+    <notes>Metal金 pattern like a flower花</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,tools</tags>
+    <jpn>焼きによって刀身にできる模様。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-03 09:58:28</updated>
+  </row>
+  <row>
+    <id>6542</id>
+    <slug>鳰</slug>
+    <term>鳰</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>にお</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Little grebe</english>
+    <notes>Bird鳥 that enters入 the water</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,torihen,bird</tags>
+    <jpn>水鳥の一種。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-12-13 19:16:52</updated>
+  </row>
+  <row>
+    <id>9291</id>
+    <slug>粏</slug>
+    <term>粏</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>ぬかみそ</reading>
+    <accent/>
+    <on>タ</on>
+    <kun>ぬかみそ</kun>
+    <english>Salted rice-bran paste</english>
+    <notes>The pickling process makes the rice米 grains look fat太</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,food</tags>
+    <jpn>米糠を塩水で練り、よくかき混ぜて発酵させた漬け床。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-05-31 02:51:02</updated>
+  </row>
+  <row>
+    <id>6849</id>
+    <slug>硲</slug>
+    <term>硲</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>はざま</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Ravine, gorge</english>
+    <notes>The valley谷 into which rocks石 roll down from the mountains</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,thing</tags>
+    <jpn>谷あい。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>11</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-08-27 02:10:29</updated>
+  </row>
+  <row>
+    <id>6874</id>
+    <slug>畠</slug>
+    <term>畠</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>はた,はたけ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Field</english>
+    <notes>Dry white白 field田</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,thing</tags>
+    <jpn>白く乾いた田。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>11</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-03 11:24:36</updated>
+  </row>
+  <row>
+    <id>6881</id>
+    <slug>鱩</slug>
+    <term>鱩</term>
+    <alt></alt>
+    <altkanji>鰰, 雷魚, 燭魚</altkanji>
+    <reading>はたはた</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Sailfin sandfish</english>
+    <notes>Fish魚 that comes out when it thunders雷</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>fish,uohen,1char</tags>
+    <jpn>ハタハタ科の海魚。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-03 10:37:31</updated>
+  </row>
+  <row>
+    <id>6882</id>
+    <slug>鰰</slug>
+    <term>鰰</term>
+    <alt></alt>
+    <altkanji>鱩, 雷魚, 燭魚</altkanji>
+    <reading>はたはた</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Sailfin sandfish</english>
+    <notes>Fish魚 that comes out when it thunders神鳴り</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>fish,uohen,todai,1char</tags>
+    <jpn>ハタハタ科の海魚。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-15 21:28:25</updated>
+  </row>
+  <row>
+    <id>6916</id>
+    <slug>噺</slug>
+    <term>噺</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>はなし</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Story, talk</english>
+    <notes>Speaking口 something new新 or fascinating</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,thing</tags>
+    <jpn>はなし。ものがたり。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>11</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-12-01 07:51:51</updated>
+  </row>
+  <row>
+    <id>6953</id>
+    <slug>鎺</slug>
+    <term>鎺</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>はばき</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Metal piece at base of blade that locks blade guard in scabbard</english>
+    <notes>Metal金 piece for locking blade in original祖 position</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,tools</tags>
+    <jpn>刀剣などのもとに嵌める金具。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-03 09:46:30</updated>
+  </row>
+  <row>
+    <id>6975</id>
+    <slug>鰚</slug>
+    <term>鰚</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>はらか</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>① Trout ② Croaker</english>
+    <notes>Noisy宣 fish魚</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,uohen,fish</tags>
+    <jpn>ニベ、又は、マスの別称。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-05-29 22:39:17</updated>
+  </row>
+  <row>
+    <id>7039</id>
+    <slug>楾</slug>
+    <term>楾</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>はんぞう</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>① Container for pouring water ② Dual-handled basin for washing</english>
+    <notes>Wooden木 container acting as a spring泉</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,kihen,tools</tags>
+    <jpn>① 水つぎの道具。 ② 耳の付いた小さな盥。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-01-10 04:29:29</updated>
+  </row>
+  <row>
+    <id>7431</id>
+    <slug>鋲</slug>
+    <term>鋲</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>びょう</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Tack, pin, rivet</english>
+    <notes>Metal金 + 兵（びょう）</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,tools</tags>
+    <jpn>頭が丸くて大きい、釘の一種。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>11</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-05-29 22:40:57</updated>
+  </row>
+  <row>
+    <id>7618</id>
+    <slug>梺</slug>
+    <term>梺</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>ふもと</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Mountain base</english>
+    <notes>Below下 the forest林 at the base of the mountain</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char</tags>
+    <jpn>麓と一緒。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-05-10 17:49:20</updated>
+  </row>
+  <row>
+    <id>7921</id>
+    <slug>袰</slug>
+    <term>袰</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>ほろ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Decorative guard cloth worn on back of armor</english>
+    <notes>Combination of compound 母衣</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,tools</tags>
+    <jpn>昔、鎧の背に付けて矢を防いだり装飾として用いたりした布製の袋状の物。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-05-31 02:43:01</updated>
+  </row>
+  <row>
+    <id>8022</id>
+    <slug>柾</slug>
+    <term>柾</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>まさ, まさき</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Japanese spindle</english>
+    <notes>Tree木 with straight正 grain</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,tools</tags>
+    <jpn>ニシキギ科の常緑低木。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>11</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-05-31 02:43:15</updated>
+  </row>
+  <row>
+    <id>8025</id>
+    <slug>枡</slug>
+    <term>枡</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>ます</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Wooden container for measuring liquid volume</english>
+    <notes>Wooden木 container equalling 1 升(1.8 liters)</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,tools</tags>
+    <jpn>容量を量る正方形の器。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-02-22 18:53:15</updated>
+  </row>
+  <row>
+    <id>8026</id>
+    <slug>俣</slug>
+    <term>俣</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>また</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Fork, crotch</english>
+    <notes>『俣野』 town in Tottori prefecture</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char</tags>
+    <jpn>また。分かれ目。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>11</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-05-31 02:43:26</updated>
+  </row>
+  <row>
+    <id>8061</id>
+    <slug>麿</slug>
+    <term>麿</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>まろ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>① 1st person pronoun ② Suffix for names</english>
+    <notes>Combination of 麻 and 呂</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char</tags>
+    <jpn>① 一人称の代名詞。② 人の名に添える接尾語。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>11</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-05-17 17:33:58</updated>
+  </row>
+  <row>
+    <id>8236</id>
+    <slug>毟る</slug>
+    <term>毟る</term>
+    <alt></alt>
+    <altkanji>挘る</altkanji>
+    <reading>むしる</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>To pluck</english>
+    <notes>Reduce少 the number of hairs毛</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>endru,todai</tags>
+    <jpn>むしり取る。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-02-24 03:31:59</updated>
+  </row>
+  <row>
+    <id>8237</id>
+    <slug>挘る</slug>
+    <term>挘る</term>
+    <alt></alt>
+    <altkanji>毟る</altkanji>
+    <reading>むしる</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>To pluck</english>
+    <notes>Use hand扌 and pull with reduced少 strength力</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>endru</tags>
+    <jpn>むしり取る。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-05-27 21:57:34</updated>
+  </row>
+  <row>
+    <id>8287</id>
+    <slug>榁</slug>
+    <term>榁</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>むろ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Temple juniper</english>
+    <notes>Often grown as bonsai, tree木 perfect for decorating a room室</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,plant,kihen</tags>
+    <jpn>ヒノキ科の常緑小高木ネズの古名。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-03 10:49:27</updated>
+  </row>
+  <row>
+    <id>8288</id>
+    <slug>鰘</slug>
+    <term>鰘</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>むろあじ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Amberstripe scad</english>
+    <notes>Type of mackerel鯵（あじ） often caught in 室津</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,fish,uohen</tags>
+    <jpn>アジ科の海魚。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-09-26 07:36:52</updated>
+  </row>
+  <row>
+    <id>8398</id>
+    <slug>杢</slug>
+    <term>杢</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>もく</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Woodworking</english>
+    <notes>Construction工 with wood木</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>wtf,1char</tags>
+    <jpn>木材を用いて加工する。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>11</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-06 05:33:40</updated>
+  </row>
+  <row>
+    <id>8444</id>
+    <slug>籾</slug>
+    <term>籾</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>もみ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>① Rice husks ② Unhulled rice</english>
+    <notes>Rice米 still sharp and pointed like a blade刃</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,plant</tags>
+    <jpn>① 穀物の実の皮。 ② もみ殻の付いたままの米。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>11</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-06 06:04:56</updated>
+  </row>
+  <row>
+    <id>8447</id>
+    <slug>椛</slug>
+    <term>椛</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>もみじ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Autumn foliage</english>
+    <notes>Trees木 colored like flowers花</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,plant,kihen</tags>
+    <jpn>紅葉。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>11</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-03 10:22:55</updated>
+  </row>
+  <row>
+    <id>8472</id>
+    <slug>匁</slug>
+    <term>匁</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>もんめ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>① 3.75 grams ② 1/60 両 (currency)</english>
+    <notes>Obsolete measurement</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char</tags>
+    <jpn>① ３．７５グラム。 ② 小判一両の六〇の一。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>11</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-05-04 16:52:55</updated>
+  </row>
+  <row>
+    <id>8514</id>
+    <slug>萢</slug>
+    <term>萢</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>やち,やつ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Swamp, marsh</english>
+    <notes>Grass艹 and froth泡</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,kusakan</tags>
+    <jpn>谷地。湿地。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-03 09:52:28</updated>
+  </row>
+  <row>
+    <id>8520</id>
+    <slug>簗</slug>
+    <term>簗</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>やな</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Bamboo weir</english>
+    <notes>Bamboo竹 beams粱</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,tools</tags>
+    <jpn>川の中に木や竹を並べて水を堰き止め、魚を捕らえる仕掛け。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-05-31 02:46:54</updated>
+  </row>
+  <row>
+    <id>8557</id>
+    <slug>鑓</slug>
+    <term>鑓</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>やり</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Spear</english>
+    <notes>Metal金 + 遣（やり）</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,tools</tags>
+    <jpn>やり。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>11</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-05-31 02:46:55</updated>
+  </row>
+  <row>
+    <id>8610</id>
+    <slug>裄</slug>
+    <term>裄</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>ゆき</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Length from back to end of sleeve</english>
+    <notes>Clothing衣 + 行（ゆき）</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char,tools</tags>
+    <jpn>衣服の背縫いから袖口までの長さ。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-09-26 07:22:27</updated>
+  </row>
+  <row>
+    <id>9051</id>
+    <slug>鰙</slug>
+    <term>鰙</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>わかさぎ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Japanese smelt</english>
+    <notes>Fish魚 + 若（わか）</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>fish,uohen,todai,1char</tags>
+    <jpn>キュウリウオ科の淡水魚。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2023-03-27 04:04:42</updated>
+  </row>
+  <row>
+    <id>9136</id>
+    <slug>鮟</slug>
+    <term>鮟</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>アン</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Goosefish</english>
+    <notes>Fish魚 + 安（アン）; Appears in 鮟鱇</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags></tags>
+    <jpn>アンコウ科の海魚。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-08-26 07:36:22</updated>
+  </row>
+  <row>
+    <id>9158</id>
+    <slug>饂</slug>
+    <term>饂</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>ウン</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>First character in 饂飩(udon noodles)</english>
+    <notes>Food&amp;#169599 with pronunciation &amp;#151637(うん)</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>饂飩の「う」。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-03-31 12:51:22</updated>
+  </row>
+  <row>
+    <id>9192</id>
+    <slug>呏</slug>
+    <term>呏</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>ガロン</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Gallon (volume)</english>
+    <notes>升 = unit of liquid volume + 口 used to indicate English units</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>unit,wtf,1char</tags>
+    <jpn>容量の単位。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-03 09:51:26</updated>
+  </row>
+  <row>
+    <id>9198</id>
+    <slug>瓩</slug>
+    <term>瓩</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>キログラム</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Kilogram</english>
+    <notes>1,000千 grams瓦</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>unit,wtf,1char</tags>
+    <jpn>グラムの1000倍。</jpn>
+    <origin>unit</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-02-24 03:31:45</updated>
+  </row>
+  <row>
+    <id>9199</id>
+    <slug>粁</slug>
+    <term>粁</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>キロメートル</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Kilometer</english>
+    <notes>1,000千 meters米</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>unit,wtf,1char</tags>
+    <jpn>メートルの1000倍。</jpn>
+    <origin>unit</origin>
+    <cat>kokuji</cat>
+    <kanken>11</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-05-31 02:48:21</updated>
+  </row>
+  <row>
+    <id>9200</id>
+    <slug>竏</slug>
+    <term>竏</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>キロリットル</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Kiloliter</english>
+    <notes>1,000千 liters立</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>unit,wtf,1char</tags>
+    <jpn>リットルの1000倍。</jpn>
+    <origin>unit</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-03 09:19:04</updated>
+  </row>
+  <row>
+    <id>9207</id>
+    <slug>瓦（単位）</slug>
+    <term>瓦</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>グラム</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Gram</english>
+    <notes>From ateji 瓦蘭姆, made to match sound of &#x27;gram&#x27;</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>グラム。</jpn>
+    <origin>unit</origin>
+    <cat>kokuji</cat>
+    <kanken>0</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-09-18 21:47:27</updated>
+  </row>
+  <row>
+    <id>9217</id>
+    <slug>鱇</slug>
+    <term>鱇</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>コウ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Goosefish</english>
+    <notes>Fish魚 + 康（コウ）; Appears in 鮟鱇</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags/>
+    <jpn>アンコウ科の海魚。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-05-17 17:33:25</updated>
+  </row>
+  <row>
+    <id>9284</id>
+    <slug>甅</slug>
+    <term>甅</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>センチグラム</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Centigram</english>
+    <notes>1/100厘 a gram瓦</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>unit,wtf,1char</tags>
+    <jpn>グラムの100分の1。</jpn>
+    <origin>unit</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-09-26 07:38:10</updated>
+  </row>
+  <row>
+    <id>9285</id>
+    <slug>糎</slug>
+    <term>糎</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>センチメートル</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Centimeter</english>
+    <notes>1/100厘 a meter米</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>unit,wtf,1char</tags>
+    <jpn>メートルの100分の1。</jpn>
+    <origin>unit</origin>
+    <cat>kokuji</cat>
+    <kanken>11</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-05-31 02:50:58</updated>
+  </row>
+  <row>
+    <id>9286</id>
+    <slug>竰</slug>
+    <term>竰</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>センチリットル</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Centiliter</english>
+    <notes>1/100厘 a liter立</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>unit,wtf,1char</tags>
+    <jpn>リットルの100分の1。</jpn>
+    <origin>unit</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-03 11:23:06</updated>
+  </row>
+  <row>
+    <id>9308</id>
+    <slug>瓧</slug>
+    <term>瓧</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>デカグラム</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Decagram</english>
+    <notes>10十 grams瓦</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>unit,wtf,1char</tags>
+    <jpn>グラムの10倍。</jpn>
+    <origin>unit</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-09-08 21:26:39</updated>
+  </row>
+  <row>
+    <id>9309</id>
+    <slug>籵</slug>
+    <term>籵</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>デカメートル</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Decameter</english>
+    <notes>10十 meters米</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>unit,wtf,1char</tags>
+    <jpn>メートルの10倍。</jpn>
+    <origin>unit</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-02-24 03:30:21</updated>
+  </row>
+  <row>
+    <id>9310</id>
+    <slug>竍</slug>
+    <term>竍</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>デカリットル</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Decaliter</english>
+    <notes>10十 liters立</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>unit,wtf,1char</tags>
+    <jpn>リットルの10倍。</jpn>
+    <origin>unit</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-28 10:45:34</updated>
+  </row>
+  <row>
+    <id>9311</id>
+    <slug>瓰</slug>
+    <term>瓰</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>デシグラム</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Decigram</english>
+    <notes>1/10分 a gram瓦</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>unit,wtf,1char</tags>
+    <jpn>グラムの10分の1。</jpn>
+    <origin>unit</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-06 05:31:03</updated>
+  </row>
+  <row>
+    <id>9312</id>
+    <slug>粉（単位）</slug>
+    <term>粉</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>デシメートル</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Decimeter</english>
+    <notes>1/10分 a meter米; Same as 粉（フン、こな）！</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>unit,wtf</tags>
+    <jpn>メートルの10分の1。</jpn>
+    <origin>unit</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-26 17:06:44</updated>
+  </row>
+  <row>
+    <id>9313</id>
+    <slug>竕</slug>
+    <term>竕</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>デシリットル</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Deciliter</english>
+    <notes>1/10分 a liter立</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>unit,wtf,1char</tags>
+    <jpn>リットルの10分の1。</jpn>
+    <origin>unit</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-05-14 13:55:08</updated>
+  </row>
+  <row>
+    <id>9322</id>
+    <slug>瓲</slug>
+    <term>瓲</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>トン</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Ton (weight)</english>
+    <notes>瓦(gram) to indicated weight + 屯(トン) to indicate reading</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>unit,wtf,1char</tags>
+    <jpn>トンという単位。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-08-30 20:08:15</updated>
+  </row>
+  <row>
+    <id>9323</id>
+    <slug>噸</slug>
+    <term>噸</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>トン</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Ton (weight)</english>
+    <notes>頓(トン) + 口 used for English units</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>unit,wtf,1char</tags>
+    <jpn>トンという単位。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>11</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-03 09:27:05</updated>
+  </row>
+  <row>
+    <id>9388</id>
+    <slug>呎</slug>
+    <term>呎</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>フィート</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Foot (length)</english>
+    <notes>尺 = unit of length + 口 used to indicate English units</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>unit,wtf,1char</tags>
+    <jpn>長さの単位。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-05-30 14:02:24</updated>
+  </row>
+  <row>
+    <id>9394</id>
+    <slug>錻</slug>
+    <term>錻</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>ブ,ブリキ</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Tinning; Tinplate</english>
+    <notes>Metal金 + 武（ぶ）; From Dutch: blik (tinning)</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>1char</tags>
+    <jpn>オランダ語の「ブリキ」の音訳「錻力」に用いられる国字。</jpn>
+    <origin>(NULL)</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-03 07:05:51</updated>
+  </row>
+  <row>
+    <id>9403</id>
+    <slug>瓸</slug>
+    <term>瓸</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>ヘクトグラム</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Hectogram</english>
+    <notes>100百 grams瓦</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>unit,wtf,1char</tags>
+    <jpn>グラムの100倍。</jpn>
+    <origin>unit</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-05-31 02:51:55</updated>
+  </row>
+  <row>
+    <id>9404</id>
+    <slug>粨</slug>
+    <term>粨</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>ヘクトメートル</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Hectometer</english>
+    <notes>100百 meters米</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>unit,wtf,1char</tags>
+    <jpn>メートルの100倍。</jpn>
+    <origin>unit</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-05-17 17:34:36</updated>
+  </row>
+  <row>
+    <id>9405</id>
+    <slug>竡</slug>
+    <term>竡</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>ヘクトリットル</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Hectoliter</english>
+    <notes>100百 liters立</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>unit,wtf,1char</tags>
+    <jpn>リットルの100倍。</jpn>
+    <origin>unit</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-02-24 03:37:07</updated>
+  </row>
+  <row>
+    <id>9457</id>
+    <slug>瓱</slug>
+    <term>瓱</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>ミリグラム</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Milligram</english>
+    <notes>1/1000毛 a gram瓦</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>unit,wtf,1char</tags>
+    <jpn>グラムの1000分の1。</jpn>
+    <origin>unit</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-03 11:31:34</updated>
+  </row>
+  <row>
+    <id>9458</id>
+    <slug>粍</slug>
+    <term>粍</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>ミリメートル</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Millimeter</english>
+    <notes>1/1000毛 a meter米</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>unit,wtf,1char</tags>
+    <jpn>メートルの1000分の1。</jpn>
+    <origin>unit</origin>
+    <cat>kokuji</cat>
+    <kanken>11</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-05-17 17:32:32</updated>
+  </row>
+  <row>
+    <id>9459</id>
+    <slug>竓</slug>
+    <term>竓</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>ミリリットル</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Milliliter</english>
+    <notes>1/1000毛 a liter立</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>unit,wtf,1char</tags>
+    <jpn>リットルの1000分の1。</jpn>
+    <origin>unit</origin>
+    <cat>kokuji</cat>
+    <kanken>1</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-03 11:13:27</updated>
+  </row>
+  <row>
+    <id>9469</id>
+    <slug>米（単位）</slug>
+    <term>米</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>メートル</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Meter</english>
+    <notes>From ateji 米突, made to match sound of &#x27;meter&#x27;</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>unit,wtf</tags>
+    <jpn>メートル。</jpn>
+    <origin>unit</origin>
+    <cat>kokuji</cat>
+    <kanken>0</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2019-09-26 07:38:16</updated>
+  </row>
+  <row>
+    <id>9494</id>
+    <slug>立（単位）</slug>
+    <term>立</term>
+    <alt></alt>
+    <altkanji></altkanji>
+    <reading>リットル</reading>
+    <accent/>
+    <on></on>
+    <kun></kun>
+    <english>Liter</english>
+    <notes>From ateji 立突, made to match sound of &#x27;liter&#x27;</notes>
+    <hint/>
+    <syn>(NULL)</syn>
+    <ant>(NULL)</ant>
+    <fin>(NULL)</fin>
+    <tags>unit,wtf</tags>
+    <jpn>リットル。</jpn>
+    <origin>unit</origin>
+    <cat>kokuji</cat>
+    <kanken>0</kanken>
+    <kotoken>0</kotoken>
+    <onkun>0</onkun>
+    <updated>2020-04-30 20:01:06</updated>
+  </row>
+</root>
